@@ -1,0 +1,22 @@
+scale:
+  min: 1
+  max: 5
+  # If your Forms export values look like "Good 4" / "Excellent 5",
+  # we extract the first digit 1-5 from the string. You can also map explicit labels here.
+  label_to_value:
+    "Bad 1": 1
+    "Poor 2": 2
+    "Fair 3": 3
+    "Good 4": 4
+    "Excellent 5": 5
+
+weights:
+  # Q2 (3 items) + Q3 (3 items) = 6 items
+  q2_1: 0.1
+  q2_2: 0.1
+  q2_3: 0.1
+  q3_1: 0.1
+  q3_2: 0.1
+  q3_3: 0.1
+  # Q4 general grade
+  q4: 0.4

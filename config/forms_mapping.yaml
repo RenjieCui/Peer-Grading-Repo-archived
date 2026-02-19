@@ -1,0 +1,37 @@
+# Map your Forms export column headers -> internal field names.
+# IMPORTANT: Replace the right-hand side values (the Excel column headers)
+# with EXACT headers from your exported Excel.
+
+metadata_columns:
+  # who graded?
+  rater_email: "Email"
+  rater_name: "Name"
+
+  # when submitted? (Forms exports often have a "Completion time" column)
+  submitted_at: "Completion time"
+
+  # presenter selection question (dropdown)
+  presenter_choice: "1. Who is the presenter"
+
+rubric_columns:
+  # Section 2: Comprehensive content (3 statements)
+  q2_1: "Was the topic well explained?"
+  q2_2: "Were the submitted questions sufficiently addressed in the presentation?"
+  q2_3: "Did you learn anything new or feel inspired from the presentation?"
+
+  # Section 3: Presentation style (3 statements)
+  q3_1: "Did the presenter communicate the key message clearly?"
+  q3_2: "Were the visuals easy to follow?"
+  q3_3: "Was the presentation timed well?"
+
+  # Section 4: General grade (single statement/row)
+  q4: "General grade"
+
+free_text_columns:
+  # Optional: if you add a comment question in the form, map it here.
+  comment: ""
+
+# If the presenter dropdown contains display names (e.g., "Arda Aydın"),
+# we will resolve them via:
+# 1) week_setup presenters list, by matching presenter_display OR presenter_email
+# 2) students_db, by matching name/email
