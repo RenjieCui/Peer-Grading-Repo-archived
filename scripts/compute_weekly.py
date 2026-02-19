@@ -121,7 +121,7 @@ def main():
     ap = argparse.ArgumentParser(description="Compute weekly peer-grading summaries from Forms exports.")
     ap.add_argument("--responses", default="PeerGrading/Input/form_exports/forms_responses.xlsx")
     ap.add_argument("--week-windows", default="PeerGrading/Input/week_setup/week_windows.csv")
-    ap.add_argument("--students", default="PeerGrading/Input/students_db/students.csv")
+    ap.add_argument("--students", default="PeerGrading/Input/students_db/StudentListDB.xlsx")
     ap.add_argument("--out-dir", default="PeerGrading/Output")
     ap.add_argument("--week", default="ALL")
     ap.add_argument("--tz", default="Europe/Zurich")
