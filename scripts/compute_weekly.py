@@ -103,18 +103,41 @@ def assign_week(local_dt: pd.Timestamp, windows: List[WeekWindow]) -> Optional[s
 def load_students(path: Path) -> Optional[pd.DataFrame]:
     if not path.exists():
         return None
-    s = pd.read_csv(path)
-    s.columns = [c.strip() for c in s.columns]
-    email_col = find_col(s, ["StudentEmail", "Email", "email"])
-    name_col = find_col(s, ["StudentName", "Name", "name"])
+
+    # xlsx/csv destekle
+    if path.suffix.lower() in [".xlsx", ".xls"]:
+        s = pd.read_excel(path)
+    else:
+        s = pd.read_csv(path)
+
+    s.columns = [str(c).strip() for c in s.columns]
+
+    # Senin dosyaya göre kolon isimleri
+    email_col = find_col(s, ["E-mail", "Email", "E-mail address", "Mail"])
+    first_col = find_col(s, ["First name", "Firstname", "First Name"])
+    last_col  = find_col(s, ["Last name", "Lastname", "Last Name", "Surname", "Family name"])
+    name_col  = find_col(s, ["StudentName", "Name", "Full name", "Full Name"])
+
     if not email_col:
-        raise ValueError("students.csv must have StudentEmail column (or Email).")
-    if not name_col:
-        s["StudentName"] = ""
-        name_col = "StudentName"
-    s = s.rename(columns={email_col: "StudentEmail", name_col: "StudentName"})
-    s["StudentEmail"] = s["StudentEmail"].astype(str).str.strip().str.lower()
-    return s[["StudentEmail", "StudentName"]].drop_duplicates()
+        raise ValueError("Student list must contain an email column (e.g., 'E-mail').")
+
+    s["StudentEmail"] = s[email_col].astype(str).str.strip().str.lower()
+
+    if name_col:
+        s["StudentName"] = s[name_col].astype(str).fillna("").str.strip()
+    else:
+        fn = s[first_col].astype(str).fillna("").str.strip() if first_col else ""
+        ln = s[last_col].astype(str).fillna("").str.strip() if last_col else ""
+        if isinstance(fn, str):  # güvenlik (nadiren olur)
+            fn = ""
+        if isinstance(ln, str):
+            ln = ""
+        s["StudentName"] = (fn + " " + ln).str.strip()
+
+    s = s[["StudentEmail", "StudentName"]].dropna(subset=["StudentEmail"]).drop_duplicates()
+    s = s[s["StudentEmail"] != ""]
+    return s
+
 
 
 def main():
