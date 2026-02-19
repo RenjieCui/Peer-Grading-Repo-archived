@@ -19,7 +19,6 @@ data/processed/
 
 # ===== local M365 data (DO NOT COMMIT) =====
 PeerGrading/Input/**
-PeerGrading/Output/**
 
 # keep folder placeholders if you add them
 !PeerGrading/Input/.gitkeep
