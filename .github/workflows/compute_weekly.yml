@@ -1,7 +1,6 @@
 name: Compute weekly peer grading
 
 on:
-  # Excel/CSV güncelleyince otomatik çalış
   push:
     paths:
       - "PeerGrading/Input/form_exports/**"
@@ -9,7 +8,7 @@ on:
       - "PeerGrading/Input/students_db/**"
       - "scripts/compute_weekly.py"
       - "requirements.txt"
-  # İstersen elle de çalıştırabil
+
   workflow_dispatch:
     inputs:
       week:
@@ -41,10 +40,10 @@ jobs:
         run: |
           python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
 
-            - name: Commit outputs to repo
-              run: |
-                git config user.name "github-actions[bot]"
-                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                git add PeerGrading/Output
-                git commit -m "Update outputs" || echo "No changes"
-                git push
+      - name: Commit outputs to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PeerGrading/Output
+          git commit -m "Update outputs" || echo "No changes"
+          git push
