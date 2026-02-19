@@ -1,12 +1,24 @@
 name: Compute weekly peer grading
 
 on:
+  # Excel/CSV güncelleyince otomatik çalış
+  push:
+    paths:
+      - "PeerGrading/Input/form_exports/**"
+      - "PeerGrading/Input/week_setup/**"
+      - "PeerGrading/Input/students_db/**"
+      - "scripts/compute_weekly.py"
+      - "requirements.txt"
+  # İstersen elle de çalıştırabil
   workflow_dispatch:
     inputs:
       week:
         description: "Which week_id to compute (e.g., W01). Use ALL for all."
         required: true
         default: "ALL"
+
+permissions:
+  contents: write
 
 jobs:
   compute:
@@ -27,10 +39,13 @@ jobs:
 
       - name: Run compute
         run: |
-          python scripts/compute_weekly.py --week "${{ inputs.week }}"
+          python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
 
-      - name: Upload outputs as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: peergrading-output
-          path: PeerGrading/Output/
+      # Output'u repo'ya yaz (artifact yerine dosyalar repoda dursun)
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PeerGrading/Output
+          git commit -m "Update peergrading outputs" || echo "No changes to commit"
+          git push
