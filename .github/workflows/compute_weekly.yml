@@ -39,6 +39,12 @@ jobs:
       - name: Run compute
         run: |
           python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
+          mkdir -p PeerGrading/Output
+          python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
+          echo "=== Output files ==="
+          find PeerGrading/Output -maxdepth 4 -type f -print || true
+          echo "=== Git status ==="
+          git status --porcelain
 
       - name: Commit outputs to repo
         run: |
