@@ -1,0 +1,36 @@
+name: Compute weekly peer grading
+
+on:
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Which week_id to compute (e.g., W01). Use ALL for all."
+        required: true
+        default: "ALL"
+
+jobs:
+  compute:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run compute
+        run: |
+          python scripts/compute_weekly.py --week "${{ inputs.week }}"
+
+      - name: Upload outputs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: peergrading-output
+          path: PeerGrading/Output/
