@@ -43,32 +43,32 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Download latest forms Excel
-        env:
-          FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
-        run: |
-          mkdir -p PeerGrading/Input/form_exports
+            - name: Download latest forms Excel
+              env:
+                FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
+              run: |
+                mkdir -p PeerGrading/Input/form_exports
+      
+                curl -LfsS --retry 3 --retry-delay 2 \
+                  -H "User-Agent: Mozilla/5.0" \
+                  "$FORMS_XLSX_URL" \
+                  -o PeerGrading/Input/form_exports/forms_responses.xlsx
+      
+                python - <<'PY'
+                import zipfile, sys
+                path="PeerGrading/Input/form_exports/forms_responses.xlsx"
+                try:
+                  zipfile.ZipFile(path).testzip()
+                  print("OK: downloaded xlsx looks valid")
+                except Exception as e:
+                  print("ERROR: downloaded file is not a valid xlsx/zip:", e)
+                  # Debug: ilk 200 byte'ı bas (genelde HTML görürsün)
+                  import pathlib
+                  b = pathlib.Path(path).read_bytes()[:200]
+                  print("First bytes:", b)
+                  sys.exit(1)
+                PY
 
-          # URL'ye download parametresi ekle (SharePoint bazen HTML döndürmesin diye)
-          if [[ "$FORMS_XLSX_URL" == *"?"* ]]; then
-            DL_URL="${FORMS_XLSX_URL}&download=1"
-          else
-            DL_URL="${FORMS_XLSX_URL}?download=1"
-          fi
-
-          curl -L "$DL_URL" -o PeerGrading/Input/form_exports/forms_responses.xlsx
-
-          # Basit sanity check: xlsx aslında zip formatındadır
-          python - <<'PY'
-          import zipfile, sys
-          path="PeerGrading/Input/form_exports/forms_responses.xlsx"
-          try:
-            zipfile.ZipFile(path).testzip()
-            print("OK: downloaded xlsx looks valid")
-          except Exception as e:
-            print("ERROR: downloaded file is not a valid xlsx/zip:", e)
-            sys.exit(1)
-          PY
 
       - name: Run compute
         run: |
