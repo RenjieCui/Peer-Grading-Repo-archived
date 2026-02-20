@@ -1,14 +1,21 @@
 name: Compute weekly peer grading
 
 on:
+  # Kod/ayar değişince çalışsın
   push:
     paths:
-      - "PeerGrading/Input/form_exports/**"
-      - "PeerGrading/Input/week_setup/**"
-      - "PeerGrading/Input/students_db/**"
       - "scripts/compute_weekly.py"
       - "requirements.txt"
+      - ".github/workflows/compute_weekly.yml"
+      - "PeerGrading/Input/week_setup/**"
+      - "PeerGrading/Input/students_db/**"
 
+  # Deadline sonrası otomatik çalışsın (UTC)
+  # Zurich 00:10 (CET) = Cumartesi 23:10 UTC
+  schedule:
+    - cron: "10 23 * * SAT"
+
+  # Elle çalıştırma
   workflow_dispatch:
     inputs:
       week:
@@ -36,20 +43,42 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Download latest forms Excel
+        env:
+          FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
+        run: |
+          mkdir -p PeerGrading/Input/form_exports
+
+          # URL'ye download parametresi ekle (SharePoint bazen HTML döndürmesin diye)
+          if [[ "$FORMS_XLSX_URL" == *"?"* ]]; then
+            DL_URL="${FORMS_XLSX_URL}&download=1"
+          else
+            DL_URL="${FORMS_XLSX_URL}?download=1"
+          fi
+
+          curl -L "$DL_URL" -o PeerGrading/Input/form_exports/forms_responses.xlsx
+
+          # Basit sanity check: xlsx aslında zip formatındadır
+          python - <<'PY'
+          import zipfile, sys
+          path="PeerGrading/Input/form_exports/forms_responses.xlsx"
+          try:
+            zipfile.ZipFile(path).testzip()
+            print("OK: downloaded xlsx looks valid")
+          except Exception as e:
+            print("ERROR: downloaded file is not a valid xlsx/zip:", e)
+            sys.exit(1)
+          PY
+
       - name: Run compute
         run: |
-          python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
           mkdir -p PeerGrading/Output
           python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
-          echo "=== Output files ==="
-          find PeerGrading/Output -maxdepth 4 -type f -print || true
-          echo "=== Git status ==="
-          git status --porcelain
 
       - name: Commit outputs to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add PeerGrading/Output
+          git add -A PeerGrading/Output
           git commit -m "Update outputs" || echo "No changes"
           git push
