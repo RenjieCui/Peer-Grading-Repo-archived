@@ -1,0 +1,22 @@
+Subject: Peer feedback summary (W01)
+
+Hi Gizem	Topsakal,
+
+Here is your peer-assessment summary for W01:
+- Number of reviewers: 1
+- Final score (weighted): 3.90 / 5.00
+
+Per-question averages (1–5):
+- Q2_1: 1.00
+- Q2_2: 5.00
+- Q2_3: 5.00
+- Q3_1: 5.00
+- Q3_2: 1.00
+- Q3_3: 2.00
+- Q4  : 5.00
+
+Comments:
+1. testcase
+
+Best regards,
+Course team

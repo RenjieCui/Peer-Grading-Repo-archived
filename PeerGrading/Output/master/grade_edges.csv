@@ -1,3 +1,13 @@
 week_id,PresenterChoice,score,ts_utc,ts_local,ResponseId,RaterEmail,RaterName,Comment
-W04,Arda	Aydin,1.0,2026-03-19 14:35:52.521933200+00:00,2026-03-19 15:35:52.521933200+01:00,2,arda.aydin@uzh.ch,arda.aydin@uzh.ch,test2222
-W04,Arda	Aydin,1.0,2026-03-19 14:35:52.521933200+00:00,2026-03-19 15:35:52.521933200+01:00,2,arda.aydin@uzh.ch,arda.aydin@uzh.ch,test2222
+W01,Arda	Aydin,1.0,2026-02-19 14:35:52.521933200+00:00,2026-02-19 15:35:52.521933200+01:00,2,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,test2222
+W01,Abirami	Sivarajah,2.9000000000000004,2026-02-20 09:50:20.465731800+00:00,2026-02-20 10:50:20.465731800+01:00,3,arda.aydin@uzh.ch,arda.aydin@uzh.ch,testcase
+W01,Gizem	Topsakal,3.9,2026-02-20 09:50:50.044399100+00:00,2026-02-20 10:50:50.044399100+01:00,4,arda.aydin@uzh.ch,arda.aydin@uzh.ch,testcase
+W01,Anna-Lea	Wölfle,3.6,2026-02-20 09:51:05.127371700+00:00,2026-02-20 10:51:05.127371700+01:00,5,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,testcase
+W01,Giacomo	Basile,5.0,2026-02-20 09:51:20.760417700+00:00,2026-02-20 10:51:20.760417700+01:00,6,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,testcase
+W01,Alejandro	Caicedo Murgueitio,3.4000000000000004,2026-02-20 09:58:26.896154700+00:00,2026-02-20 10:58:26.896154700+01:00,7,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,tescase
+W01,Arda	Aydin,1.0,2026-02-19 14:35:52.521933200+00:00,2026-02-19 15:35:52.521933200+01:00,2,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,test2222
+W01,Abirami	Sivarajah,2.9000000000000004,2026-02-20 09:50:20.465731800+00:00,2026-02-20 10:50:20.465731800+01:00,3,arda.aydin@uzh.ch,arda.aydin@uzh.ch,testcase
+W01,Gizem	Topsakal,3.9000000000000004,2026-02-20 09:50:50.044399100+00:00,2026-02-20 10:50:50.044399100+01:00,4,arda.aydin@uzh.ch,arda.aydin@uzh.ch,testcase
+W01,Anna-Lea	Wölfle,3.6,2026-02-20 09:51:05.127371700+00:00,2026-02-20 10:51:05.127371700+01:00,5,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,testcase
+W01,Giacomo	Basile,5.0,2026-02-20 09:51:20.760417700+00:00,2026-02-20 10:51:20.760417700+01:00,6,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,testcase
+W01,Alejandro	Caicedo Murgueitio,3.4000000000000004,2026-02-20 09:58:26.896154700+00:00,2026-02-20 10:58:26.896154700+01:00,7,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,tescase
