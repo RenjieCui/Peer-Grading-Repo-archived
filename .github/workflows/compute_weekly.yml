@@ -50,11 +50,22 @@ jobs:
           FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
           mkdir -p PeerGrading/Input/form_exports
+      
+          # Share link stabil kalsın diye query'yi atıp download=1 yapıyoruz
+          BASE="${FORMS_XLSX_URL%%\?*}"
+          DL_URL="${BASE}?download=1"
+      
+          echo "Downloading from: $DL_URL"
+      
           curl -LfsS --retry 3 --retry-delay 2 \
             -H "User-Agent: Mozilla/5.0" \
-            "$FORMS_XLSX_URL" \
+            -D /tmp/headers.txt \
+            "$DL_URL" \
             -o PeerGrading/Input/form_exports/forms_responses.xlsx
-
+      
+          echo "Content-Type header:"
+          grep -i "content-type" /tmp/headers.txt | tail -n 1 || true
+      
           python - <<'PY'
           import zipfile, sys, pathlib
           path="PeerGrading/Input/form_exports/forms_responses.xlsx"
@@ -67,7 +78,6 @@ jobs:
             print("First bytes:", b)
             sys.exit(1)
           PY
-
       - name: Run compute
         run: |
           mkdir -p PeerGrading/Output
