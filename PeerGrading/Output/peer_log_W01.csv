@@ -1,5 +1,5 @@
 week_id,ResponseId,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
-W01,2,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-19 15:35:52.521933200+01:00,Arda	Aydin,1.0,test2222
+W01,2,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-19 15:35:52.521933200+01:00,Arda	Aydin,2.4,test2222
 W01,3,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:50:20.465731800+01:00,Abirami	Sivarajah,2.9000000000000004,testcase
 W01,4,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:50:50.044399100+01:00,Gizem	Topsakal,3.9000000000000004,testcase
 W01,5,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,2026-02-20 10:51:05.127371700+01:00,Anna-Lea	Wölfle,3.6,testcase
