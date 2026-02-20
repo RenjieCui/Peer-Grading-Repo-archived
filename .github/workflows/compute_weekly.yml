@@ -1,7 +1,6 @@
 name: Compute weekly peer grading
 
 on:
-  # Kod/ayar değişince çalışsın
   push:
     paths:
       - "scripts/compute_weekly.py"
@@ -10,12 +9,11 @@ on:
       - "PeerGrading/Input/week_setup/**"
       - "PeerGrading/Input/students_db/**"
 
-  # Deadline sonrası otomatik çalışsın (UTC)
-  # Zurich 00:10 (CET) = Cumartesi 23:10 UTC
+  # Zurich 00:10 Pazar çalışsın (DST için iki cron)
   schedule:
-    - cron: "10 23 * * SAT"
+    - cron: "10 23 * * SAT"  # CET: 00:10 Sun
+    - cron: "10 22 * * SAT"  # CEST: 00:10 Sun
 
-  # Elle çalıştırma
   workflow_dispatch:
     inputs:
       week:
@@ -25,6 +23,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: peergrading-weekly
+  cancel-in-progress: false
 
 jobs:
   compute:
@@ -43,32 +45,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-            - name: Download latest forms Excel
-              env:
-                FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
-              run: |
-                mkdir -p PeerGrading/Input/form_exports
-      
-                curl -LfsS --retry 3 --retry-delay 2 \
-                  -H "User-Agent: Mozilla/5.0" \
-                  "$FORMS_XLSX_URL" \
-                  -o PeerGrading/Input/form_exports/forms_responses.xlsx
-      
-                python - <<'PY'
-                import zipfile, sys
-                path="PeerGrading/Input/form_exports/forms_responses.xlsx"
-                try:
-                  zipfile.ZipFile(path).testzip()
-                  print("OK: downloaded xlsx looks valid")
-                except Exception as e:
-                  print("ERROR: downloaded file is not a valid xlsx/zip:", e)
-                  # Debug: ilk 200 byte'ı bas (genelde HTML görürsün)
-                  import pathlib
-                  b = pathlib.Path(path).read_bytes()[:200]
-                  print("First bytes:", b)
-                  sys.exit(1)
-                PY
+      - name: Download latest forms Excel
+        env:
+          FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
+        run: |
+          mkdir -p PeerGrading/Input/form_exports
+          curl -LfsS --retry 3 --retry-delay 2 \
+            -H "User-Agent: Mozilla/5.0" \
+            "$FORMS_XLSX_URL" \
+            -o PeerGrading/Input/form_exports/forms_responses.xlsx
 
+          python - <<'PY'
+          import zipfile, sys, pathlib
+          path="PeerGrading/Input/form_exports/forms_responses.xlsx"
+          try:
+            zipfile.ZipFile(path).testzip()
+            print("OK: downloaded xlsx looks valid")
+          except Exception as e:
+            print("ERROR: downloaded file is not a valid xlsx/zip:", e)
+            b = pathlib.Path(path).read_bytes()[:200]
+            print("First bytes:", b)
+            sys.exit(1)
+          PY
 
       - name: Run compute
         run: |
