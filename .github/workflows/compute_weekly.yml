@@ -45,15 +45,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+
       - name: Download latest forms Excel
         env:
           FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
           mkdir -p PeerGrading/Input/form_exports
       
-          # Share link stabil kalsın diye query'yi atıp download=1 yapıyoruz
-          BASE="${FORMS_XLSX_URL%%\?*}"
-          DL_URL="${BASE}?download=1"
+          DL_URL="$FORMS_XLSX_URL"
+      
+          # URL'de query varsa &download=1 ekle, yoksa ?download=1 ekle
+          if [[ "$DL_URL" == *"download=1"* ]]; then
+            echo "download=1 already present"
+          elif [[ "$DL_URL" == *"?"* ]]; then
+            DL_URL="${DL_URL}&download=1"
+          else
+            DL_URL="${DL_URL}?download=1"
+          fi
       
           echo "Downloading from: $DL_URL"
       
@@ -78,6 +86,7 @@ jobs:
             print("First bytes:", b)
             sys.exit(1)
           PY
+          
       - name: Run compute
         run: |
           mkdir -p PeerGrading/Output
