@@ -51,39 +51,19 @@ jobs:
           FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
           mkdir -p PeerGrading/Input/form_exports
-      
-          DL_URL="$FORMS_XLSX_URL"
-      
-          # URL'de query varsa &download=1 ekle, yoksa ?download=1 ekle
-          if [[ "$DL_URL" == *"download=1"* ]]; then
-            echo "download=1 already present"
-          elif [[ "$DL_URL" == *"?"* ]]; then
-            DL_URL="${DL_URL}&download=1"
-          else
-            DL_URL="${DL_URL}?download=1"
-          fi
-      
-          echo "Downloading from: $DL_URL"
-      
           curl -LfsS --retry 3 --retry-delay 2 \
             -H "User-Agent: Mozilla/5.0" \
-            -D /tmp/headers.txt \
-            "$DL_URL" \
+            "$FORMS_XLSX_URL" \
             -o PeerGrading/Input/form_exports/forms_responses.xlsx
       
-          echo "Content-Type header:"
-          grep -i "content-type" /tmp/headers.txt | tail -n 1 || true
-      
           python - <<'PY'
-          import zipfile, sys, pathlib
-          path="PeerGrading/Input/form_exports/forms_responses.xlsx"
+          import zipfile, sys
+          p="PeerGrading/Input/form_exports/forms_responses.xlsx"
           try:
-            zipfile.ZipFile(path).testzip()
-            print("OK: downloaded xlsx looks valid")
+            zipfile.ZipFile(p).testzip()
+            print("OK: valid xlsx")
           except Exception as e:
-            print("ERROR: downloaded file is not a valid xlsx/zip:", e)
-            b = pathlib.Path(path).read_bytes()[:200]
-            print("First bytes:", b)
+            print("NOT XLSX:", e)
             sys.exit(1)
           PY
           
