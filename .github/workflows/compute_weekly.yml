@@ -1,19 +1,9 @@
-name: Compute weekly peer grading (sync Forms Excel + PR)
+name: Sync Forms file + Compute weekly peer grading
 
 on:
-  push:
-    paths:
-      - "scripts/compute_weekly.py"
-      - "requirements.txt"
-      - ".github/workflows/compute_weekly.yml"
-      - "PeerGrading/Input/week_setup/**"
-      - "PeerGrading/Input/students_db/**"
-
-  # Zurich 00:10 Pazar çalışsın (DST için iki cron)
   schedule:
     - cron: "10 23 * * SAT"  # CET: 00:10 Sun
     - cron: "10 22 * * SAT"  # CEST: 00:10 Sun
-
   workflow_dispatch:
     inputs:
       week:
@@ -48,36 +38,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Download latest forms Excel (direct download)
+      - name: Download latest Forms file (must be direct download URL)
         env:
-          FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
+          FORMS_FILE_URL: ${{ secrets.FORMS_FILE_URL }}
         run: |
-          set -euo pipefail
           mkdir -p PeerGrading/Input/form_exports
-
-          # Ensure we always hit the binary download endpoint
-          if [[ "$FORMS_XLSX_URL" == *"download=1"* ]]; then
-            DL_URL="$FORMS_XLSX_URL"
-          else
-            if [[ "$FORMS_XLSX_URL" == *"?"* ]]; then
-              DL_URL="${FORMS_XLSX_URL}&download=1"
-            else
-              DL_URL="${FORMS_XLSX_URL}?download=1"
-            fi
-          fi
-
-          echo "Downloading from: (hidden)"
-          tmp="PeerGrading/Input/form_exports/_forms_download"
+          tmp="PeerGrading/Input/form_exports/_downloaded"
           out="PeerGrading/Input/form_exports/forms_responses.xlsx"
 
           curl -LfsS --retry 3 --retry-delay 2 \
             -H "User-Agent: Mozilla/5.0" \
-            "$DL_URL" -o "$tmp"
+            "$FORMS_FILE_URL" -o "$tmp"
 
           python - <<'PY'
-          import os, sys, zipfile
+          import sys, os, zipfile
 
-          tmp = "PeerGrading/Input/form_exports/_forms_download"
+          tmp = "PeerGrading/Input/form_exports/_downloaded"
           out = "PeerGrading/Input/form_exports/forms_responses.xlsx"
 
           with open(tmp, "rb") as f:
@@ -94,14 +70,14 @@ jobs:
                   sys.exit(1)
               sys.exit(0)
 
-          # Very common failure: HTML login/viewer page
+          # If it's HTML/login page, fail with a useful hint
           h = head.lower()
           if b"<html" in h or b"<!doctype html" in h:
-              print("ERROR: Downloaded HTML instead of XLSX. Link likely requires login or isn't truly direct-download.")
+              print("ERROR: Downloaded HTML instead of XLSX. This URL is a viewer/login page, not a direct download link.")
               print("First bytes:", head)
               sys.exit(1)
 
-          print("ERROR: Downloaded file is not XLSX. First bytes:", head)
+          print("ERROR: Downloaded file is neither XLSX(zip) nor HTML. First bytes:", head)
           sys.exit(1)
           PY
 
@@ -116,11 +92,11 @@ jobs:
           branch: bot/sync-forms-and-outputs
           delete-branch: true
           title: "Sync latest Forms export + update outputs"
-          commit-message: "Sync Forms export and update outputs"
+          commit-message: "Sync Forms export and outputs"
           body: |
             Auto-generated PR:
-            - Updated: PeerGrading/Input/form_exports/forms_responses.xlsx
-            - Updated: PeerGrading/Output/**
+            - Updated Forms export
+            - Recomputed outputs
           add-paths: |
             PeerGrading/Input/form_exports/forms_responses.xlsx
             PeerGrading/Output
