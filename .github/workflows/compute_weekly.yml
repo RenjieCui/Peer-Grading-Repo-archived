@@ -116,6 +116,7 @@ jobs:
 
       - name: Create PR if changed
         if: steps.changes.outputs.changed == 'true'
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -124,14 +125,14 @@ jobs:
           delete-branch: true
           title: "Sync latest Forms export + update outputs"
           commit-message: "Sync Forms export and update outputs"
-          body: |
-            Auto-generated PR:
-            - Updated: PeerGrading/Input/form_exports/forms_responses.xlsx
-            - Updated: PeerGrading/Output/**
           add-paths: |
             PeerGrading/Input/form_exports/forms_responses.xlsx
             PeerGrading/Output
-
-      - name: No changes -> no PR
-        if: steps.changes.outputs.changed != 'true'
-        run: echo "No changes detected. Skipping PR creation."
+      
+      - name: Enable auto-merge
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
