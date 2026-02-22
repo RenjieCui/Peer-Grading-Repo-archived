@@ -1,9 +1,18 @@
-name: Sync Forms file + Compute weekly peer grading
+name: Sync Forms Excel + Compute weekly peer grading
 
 on:
+  push:
+    paths:
+      - "scripts/compute_weekly.py"
+      - "requirements.txt"
+      - ".github/workflows/compute_weekly.yml"
+      - "PeerGrading/Input/week_setup/**"
+      - "PeerGrading/Input/students_db/**"
+
   schedule:
     - cron: "10 23 * * SAT"  # CET: 00:10 Sun
     - cron: "10 22 * * SAT"  # CEST: 00:10 Sun
+
   workflow_dispatch:
     inputs:
       week:
@@ -38,28 +47,46 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Download latest Forms file (must be direct download URL)
+      - name: Download latest Forms Excel (direct download + cookies)
         env:
-          FORMS_FILE_URL: ${{ secrets.FORMS_FILE_URL }}
+          FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
+          set -euo pipefail
           mkdir -p PeerGrading/Input/form_exports
-          tmp="PeerGrading/Input/form_exports/_downloaded"
-          out="PeerGrading/Input/form_exports/forms_responses.xlsx"
 
-          curl -LfsS --retry 3 --retry-delay 2 \
+          # Ensure download=1 is present
+          if [[ "$FORMS_XLSX_URL" == *"download=1"* ]]; then
+            DL_URL="$FORMS_XLSX_URL"
+          else
+            if [[ "$FORMS_XLSX_URL" == *"?"* ]]; then
+              DL_URL="${FORMS_XLSX_URL}&download=1"
+            else
+              DL_URL="${FORMS_XLSX_URL}?download=1"
+            fi
+          fi
+
+          tmp="PeerGrading/Input/form_exports/_forms_download"
+          out="PeerGrading/Input/form_exports/forms_responses.xlsx"
+          cookies="/tmp/sp_cookies.txt"
+
+          # Cookie engine enabled: -c/-b
+          curl -LfsS --retry 3 --retry-all-errors --retry-delay 2 \
+            --compressed \
+            -c "$cookies" -b "$cookies" \
             -H "User-Agent: Mozilla/5.0" \
-            "$FORMS_FILE_URL" -o "$tmp"
+            -H "Accept: */*" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            "$DL_URL" -o "$tmp"
 
           python - <<'PY'
-          import sys, os, zipfile
+          import os, sys, zipfile
 
-          tmp = "PeerGrading/Input/form_exports/_downloaded"
+          tmp = "PeerGrading/Input/form_exports/_forms_download"
           out = "PeerGrading/Input/form_exports/forms_responses.xlsx"
 
           with open(tmp, "rb") as f:
-              head = f.read(200)
+              head = f.read(300)
 
-          # XLSX is a ZIP container -> starts with PK
           if head.startswith(b"PK"):
               os.replace(tmp, out)
               try:
@@ -70,14 +97,13 @@ jobs:
                   sys.exit(1)
               sys.exit(0)
 
-          # If it's HTML/login page, fail with a useful hint
           h = head.lower()
-          if b"<html" in h or b"<!doctype html" in h:
-              print("ERROR: Downloaded HTML instead of XLSX. This URL is a viewer/login page, not a direct download link.")
-              print("First bytes:", head)
+          if b"sign in to your account" in h or b"<!doctype html" in h or b"<html" in h:
+              print("ERROR: Downloaded HTML sign-in/viewer page instead of XLSX.")
+              print("First bytes:", head[:200])
               sys.exit(1)
 
-          print("ERROR: Downloaded file is neither XLSX(zip) nor HTML. First bytes:", head)
+          print("ERROR: Downloaded file is not XLSX. First bytes:", head[:200])
           sys.exit(1)
           PY
 
@@ -92,11 +118,11 @@ jobs:
           branch: bot/sync-forms-and-outputs
           delete-branch: true
           title: "Sync latest Forms export + update outputs"
-          commit-message: "Sync Forms export and outputs"
+          commit-message: "Sync Forms export and update outputs"
           body: |
             Auto-generated PR:
-            - Updated Forms export
-            - Recomputed outputs
+            - Updated: PeerGrading/Input/form_exports/forms_responses.xlsx
+            - Updated: PeerGrading/Output/**
           add-paths: |
             PeerGrading/Input/form_exports/forms_responses.xlsx
             PeerGrading/Output
