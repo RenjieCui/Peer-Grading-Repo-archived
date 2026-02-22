@@ -1,4 +1,4 @@
-name: Compute weekly peer grading
+name: Compute weekly peer grading (sync Forms Excel + PR)
 
 on:
   push:
@@ -23,6 +23,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: peergrading-weekly
@@ -34,6 +35,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -45,37 +48,79 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-
-      - name: Download latest forms Excel
+      - name: Download latest forms Excel (direct download)
         env:
           FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
+          set -euo pipefail
           mkdir -p PeerGrading/Input/form_exports
+
+          # Ensure we always hit the binary download endpoint
+          if [[ "$FORMS_XLSX_URL" == *"download=1"* ]]; then
+            DL_URL="$FORMS_XLSX_URL"
+          else
+            if [[ "$FORMS_XLSX_URL" == *"?"* ]]; then
+              DL_URL="${FORMS_XLSX_URL}&download=1"
+            else
+              DL_URL="${FORMS_XLSX_URL}?download=1"
+            fi
+          fi
+
+          echo "Downloading from: (hidden)"
+          tmp="PeerGrading/Input/form_exports/_forms_download"
+          out="PeerGrading/Input/form_exports/forms_responses.xlsx"
+
           curl -LfsS --retry 3 --retry-delay 2 \
             -H "User-Agent: Mozilla/5.0" \
-            "$FORMS_XLSX_URL" \
-            -o PeerGrading/Input/form_exports/forms_responses.xlsx
-      
+            "$DL_URL" -o "$tmp"
+
           python - <<'PY'
-          import zipfile, sys
-          p="PeerGrading/Input/form_exports/forms_responses.xlsx"
-          try:
-            zipfile.ZipFile(p).testzip()
-            print("OK: valid xlsx")
-          except Exception as e:
-            print("NOT XLSX:", e)
-            sys.exit(1)
+          import os, sys, zipfile
+
+          tmp = "PeerGrading/Input/form_exports/_forms_download"
+          out = "PeerGrading/Input/form_exports/forms_responses.xlsx"
+
+          with open(tmp, "rb") as f:
+              head = f.read(200)
+
+          # XLSX is a ZIP container -> starts with PK
+          if head.startswith(b"PK"):
+              os.replace(tmp, out)
+              try:
+                  zipfile.ZipFile(out).testzip()
+                  print("OK: valid xlsx downloaded:", out)
+              except Exception as e:
+                  print("Downloaded file starts like XLSX but zip check failed:", e)
+                  sys.exit(1)
+              sys.exit(0)
+
+          # Very common failure: HTML login/viewer page
+          h = head.lower()
+          if b"<html" in h or b"<!doctype html" in h:
+              print("ERROR: Downloaded HTML instead of XLSX. Link likely requires login or isn't truly direct-download.")
+              print("First bytes:", head)
+              sys.exit(1)
+
+          print("ERROR: Downloaded file is not XLSX. First bytes:", head)
+          sys.exit(1)
           PY
-          
+
       - name: Run compute
         run: |
           mkdir -p PeerGrading/Output
           python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
 
-      - name: Commit outputs to repo
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A PeerGrading/Output
-          git commit -m "Update outputs" || echo "No changes"
-          git push
+      - name: Create PR if changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/sync-forms-and-outputs
+          delete-branch: true
+          title: "Sync latest Forms export + update outputs"
+          commit-message: "Sync Forms export and update outputs"
+          body: |
+            Auto-generated PR:
+            - Updated: PeerGrading/Input/form_exports/forms_responses.xlsx
+            - Updated: PeerGrading/Output/**
+          add-paths: |
+            PeerGrading/Input/form_exports/forms_responses.xlsx
+            PeerGrading/Output
