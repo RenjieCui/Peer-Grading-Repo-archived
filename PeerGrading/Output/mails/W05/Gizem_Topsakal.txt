@@ -3,7 +3,7 @@ Subject: Peer feedback summary (W05)
 Hi Gizem	Topsakal,
 
 Here is your peer-assessment summary for W05:
-- Number of reviewers: 1
+- Number of reviewers: 2
 - Final score (weighted): 5.00 / 5.00
 
 Per-question averages (1–5):
@@ -17,6 +17,7 @@ Per-question averages (1–5):
 
 Comments:
 1. testestest
+2. testestest
 
 Best regards,
 Course team
