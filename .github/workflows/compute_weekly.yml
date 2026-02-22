@@ -2,6 +2,7 @@ name: Sync Forms Excel + Compute weekly peer grading
 
 on:
   push:
+    branches: [ "main" ]
     paths:
       - "scripts/compute_weekly.py"
       - "requirements.txt"
@@ -47,7 +48,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Download latest Forms Excel (direct download + cookies)
+      - name: Download latest forms Excel
         env:
           FORMS_XLSX_URL: ${{ secrets.FORMS_XLSX_URL }}
         run: |
@@ -69,41 +70,28 @@ jobs:
           out="PeerGrading/Input/form_exports/forms_responses.xlsx"
           cookies="/tmp/sp_cookies.txt"
 
-          # Cookie engine enabled: -c/-b
           curl -LfsS --retry 3 --retry-all-errors --retry-delay 2 \
             --compressed \
             -c "$cookies" -b "$cookies" \
             -H "User-Agent: Mozilla/5.0" \
             -H "Accept: */*" \
-            -H "Accept-Language: en-US,en;q=0.9" \
             "$DL_URL" -o "$tmp"
 
           python - <<'PY'
           import os, sys, zipfile
+          tmp="PeerGrading/Input/form_exports/_forms_download"
+          out="PeerGrading/Input/form_exports/forms_responses.xlsx"
 
-          tmp = "PeerGrading/Input/form_exports/_forms_download"
-          out = "PeerGrading/Input/form_exports/forms_responses.xlsx"
-
-          with open(tmp, "rb") as f:
-              head = f.read(300)
+          with open(tmp,"rb") as f:
+              head=f.read(200)
 
           if head.startswith(b"PK"):
-              os.replace(tmp, out)
-              try:
-                  zipfile.ZipFile(out).testzip()
-                  print("OK: valid xlsx downloaded:", out)
-              except Exception as e:
-                  print("Downloaded file starts like XLSX but zip check failed:", e)
-                  sys.exit(1)
+              os.replace(tmp,out)
+              zipfile.ZipFile(out).testzip()
+              print("OK: valid xlsx downloaded:", out)
               sys.exit(0)
 
-          h = head.lower()
-          if b"sign in to your account" in h or b"<!doctype html" in h or b"<html" in h:
-              print("ERROR: Downloaded HTML sign-in/viewer page instead of XLSX.")
-              print("First bytes:", head[:200])
-              sys.exit(1)
-
-          print("ERROR: Downloaded file is not XLSX. First bytes:", head[:200])
+          print("ERROR: Not an XLSX (first bytes):", head[:120])
           sys.exit(1)
           PY
 
@@ -112,9 +100,26 @@ jobs:
           mkdir -p PeerGrading/Output
           python scripts/compute_weekly.py --week "${{ inputs.week || 'ALL' }}"
 
+      - name: Debug git changes
+        id: changes
+        run: |
+          echo "=== git status (porcelain) ==="
+          git status --porcelain || true
+          echo "=== git diff --name-only ==="
+          git diff --name-only || true
+
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Create PR if changed
+        if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: main
           branch: bot/sync-forms-and-outputs
           delete-branch: true
           title: "Sync latest Forms export + update outputs"
@@ -126,3 +131,7 @@ jobs:
           add-paths: |
             PeerGrading/Input/form_exports/forms_responses.xlsx
             PeerGrading/Output
+
+      - name: No changes -> no PR
+        if: steps.changes.outputs.changed != 'true'
+        run: echo "No changes detected. Skipping PR creation."
