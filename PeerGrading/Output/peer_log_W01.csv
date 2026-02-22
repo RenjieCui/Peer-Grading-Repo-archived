@@ -1,7 +1,9 @@
 week_id,ResponseId,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
-W01,2,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-19 15:35:52.521933200+01:00,Arda	Aydin,2.4,test2222
-W01,3,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:50:20.465731800+01:00,Abirami	Sivarajah,2.9000000000000004,testcase
+W01,2,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-19 15:35:52.521933200+01:00,Arda	Aydin,1.0,test2222
+W01,3,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-20 10:50:20.465731800+01:00,Abirami	Sivarajah,2.9000000000000004,testcase
 W01,4,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:50:50.044399100+01:00,Gizem	Topsakal,3.9000000000000004,testcase
-W01,5,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,2026-02-20 10:51:05.127371700+01:00,Anna-Lea	Wölfle,3.6,testcase
-W01,6,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-02-20 10:51:20.760417700+01:00,Giacomo	Basile,5.0,testcase
-W01,7,ajaysathish.shenoy@uzh.ch,ajaysathish.shenoy@uzh.ch,2026-02-20 10:58:26.896154700+01:00,Alejandro	Caicedo Murgueitio,3.4000000000000004,tescase
+W01,5,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-20 10:51:05.127371700+01:00,Anna-Lea	Wölfle,3.6,testcase
+W01,6,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-20 10:51:20.760417700+01:00,Giacomo	Basile,5.0,testcase
+W01,7,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:58:26.896154700+01:00,Alejandro	Caicedo Murgueitio,3.4000000000000004,tescase
+W01,8,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-22 20:44:21.842328700+01:00,Steven Thomas	Uvakov,1.0,testttt
+W01,9,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-22 20:45:42.884235200+01:00,Erik	Macniel,5.0,testestest
