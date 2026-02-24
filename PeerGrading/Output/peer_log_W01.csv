@@ -1,7 +1,251 @@
-week_id,ResponseId,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
-W01,2,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-19 15:35:52.521933200+01:00,Arda	Aydin,1.0,test2222
-W01,3,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-20 10:50:20.465731800+01:00,Abirami	Sivarajah,2.9000000000000004,testcase
-W01,4,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:50:50.044399100+01:00,Gizem	Topsakal,3.9000000000000004,testcase
-W01,5,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-02-20 10:51:05.127371700+01:00,Anna-Lea	Wölfle,3.6,testcase
-W01,7,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-20 10:58:26.896154700+01:00,Alejandro	Caicedo Murgueitio,2.8000000000000003,tescase
-W01,9,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-02-22 20:45:42.884235200+01:00,Erik	Macniel,5.0,testestest
+week_id,Responseid,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
+W01,3,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:07:59+01:00,Valentin	Nägeli,4.300000000000001,Clear explanations and mention key facts 
+W01,4,Dylan Ashraf,dylan.ashraf@uzh.ch,2026-02-23 15:08:01+01:00,Valentin	Nägeli,3.9000000000000004,"Well presented, could speak more freely"
+W01,5,Benjamin Lucas De Gorgey,benjaminlucasde.gorgey@uzh.ch,2026-02-23 15:08:01+01:00,Valentin	Nägeli,5.0,Good presentation
+W01,6,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:08:09+01:00,Valentin	Nägeli,3.9000000000000004,"The presenter communicated the core messages in a very direct way. Overall, very good presentation."
+W01,7,Erik Macniel,erik.macniel@uzh.ch,2026-02-23 15:08:09+01:00,Valentin	Nägeli,4.800000000000001,Was good at not reading off of the slides and making eye contact with the audience 
+W01,8,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:08:09+01:00,Valentin	Nägeli,4.9,"well structured, reasonable, could be presented with a bit more enthusiasm"
+W01,9,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:08:14+01:00,Valentin	Nägeli,3.9000000000000004,Nothing to add
+W01,10,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:08:14+01:00,Valentin	Nägeli,5.0,You answered my question about young consumers - amazing!
+W01,11,Antoine Thomas Chiriac,antoinethomas.chiriac@uzh.ch,2026-02-23 15:08:21+01:00,Valentin	Nägeli,4.7,Thank you for your presentation. 
+W01,12,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:08:24+01:00,Valentin	Nägeli,4.800000000000001,No
+W01,13,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:08:25+01:00,Valentin	Nägeli,5.0,nice first presentation
+W01,14,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:08:27+01:00,Valentin	Nägeli,4.4,"Would have love to see more graphics, but was great overall!"
+W01,15,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:08:31+01:00,Valentin	Nägeli,3.9000000000000004,well done! easy to follow and well explained 
+W01,16,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:08:36+01:00,Valentin	Nägeli,4.300000000000001,Some pictures or more visual figures would be beneficial for the presentation.
+W01,17,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:08:43+01:00,Valentin	Nägeli,4.300000000000001,Good knowledge about the theme
+W01,18,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:08:44+01:00,Valentin	Nägeli,4.0,"very calm presentation, clear formulation"
+W01,19,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:08:45+01:00,Valentin	Nägeli,4.1,"It was easy to follow, not too much info"
+W01,20,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:08:52+01:00,Valentin	Nägeli,4.9,Give a overview first
+W01,21,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:08:57+01:00,Valentin	Nägeli,5.0,Maybe talk a little bit louder the rest was excellent
+W01,22,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:09:00+01:00,Valentin	Nägeli,4.1,Tone a bit less autonomous
+W01,23,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:09:09+01:00,Valentin	Nägeli,4.9,Very interesting and clear. 
+W01,24,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:09:12+01:00,Valentin	Nägeli,4.800000000000001,topic was well explained and you assessed some questions of OLAT!
+W01,25,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:09:21+01:00,Valentin	Nägeli,4.300000000000001,"He did a great job explaining the problem as well as addressing the question but, he could've added more visuals."
+W01,26,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:09:22+01:00,Valentin	Nägeli,4.1,I found the presentation interesting and well presented. To improve further it would have been good with more interaction with the public.
+W01,27,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:09:26+01:00,Valentin	Nägeli,3.6,"Talk more into the mic, be more concise in your arguments"
+W01,28,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:09:35+01:00,Valentin	Nägeli,4.2,Simple and comprehensive presentation style
+W01,29,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 15:09:45+01:00,Valentin	Nägeli,5.0,Great Presentation and clear slides.
+W01,30,Arda Aydin,arda.aydin@uzh.ch,2026-02-23 15:09:51+01:00,Valentin	Nägeli,3.7,"He was a bit shy, i suppose. Presentation was quite simple, though explained everything."
+W01,31,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:09:53+01:00,Valentin	Nägeli,3.3000000000000003,"a little bit uninspired and basic, there was not much content in the presentation. "
+W01,32,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:10:03+01:00,Valentin	Nägeli,4.1,"I like that you adressed the Olat questions, the theory part could have been longer   "
+W01,33,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:10:08+01:00,Valentin	Nägeli,5.0,Well spoken and you did a good job keeping the presentation interesting.
+W01,34,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:10:13+01:00,Valentin	Nägeli,4.0,"Great statisitical insight, good job at giving overview of topic. Speaking/presentation skills could be improved."
+W01,35,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:10:21+01:00,Shabiju	Anandarajan,4.9,a bit much on the slides but well presented otherwise
+W01,36,Ellette Sidler-Dever,ellette.sidler-dever@uzh.ch,2026-02-23 15:10:33+01:00,Valentin	Nägeli,4.300000000000001,I felt the presentation could have been practiced more as the presentation was choppy.
+W01,37,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:10:41+01:00,Valentin	Nägeli,4.9,"good, clear presentation of the topic!"
+W01,38,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:11:01+01:00,Valentin	Nägeli,4.800000000000001,"Being more interactive could be great. Overall, very good presentation."
+W01,39,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:11:18+01:00,Valentin	Nägeli,4.7,"Topic was clearly and well explained. I would have tried to make the presentation a little bit more interactive, but I reckon that isn’t easy with short limited time"
+W01,40,Erik Macniel,erik.macniel@uzh.ch,2026-02-23 15:11:33+01:00,Shabiju	Anandarajan,4.2,I like the interactive opening to your presentation asking a question for the audience to answer 
+W01,41,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:11:37+01:00,Valentin	Nägeli,4.9,very interesting topic and central to the actual context since everything is getting more expensive.
+W01,42,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:11:56+01:00,Valentin	Nägeli,4.2,"The presentation moves logically, it’s easy to follow and doesn’t feel random. Good use of research and relevant insights. Explain the regional differences more deeply, maybe by adding one sentence explaining why (cultural, regulatory, historical reasons)"
+W01,43,Ellette Sidler-Dever,ellette.sidler-dever@uzh.ch,2026-02-23 15:11:57+01:00,Shabiju	Anandarajan,5.0,I really enjoyed the interactive style. Even with the self proclaimed lack of presenting skills I was engaged and felt like the pacing was very strong.
+W01,44,Benjamin Lucas De Gorgey,benjaminlucasde.gorgey@uzh.ch,2026-02-23 15:12:00+01:00,Shabiju	Anandarajan,5.0,Well spoken and confident but would be nice to speak freely
+W01,45,Antoine Thomas Chiriac,antoinethomas.chiriac@uzh.ch,2026-02-23 15:12:02+01:00,Shabiju	Anandarajan,4.800000000000001,I enjoyed the questions to the class. 
+W01,46,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:12:17+01:00,Shabiju	Anandarajan,4.4,"Interactive with questions, good slides "
+W01,47,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:12:18+01:00,Shabiju	Anandarajan,4.7,Loved the crowd interaction at the begining. 
+W01,48,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:12:35+01:00,Shabiju	Anandarajan,5.0,Great interactive questions!
+W01,49,Sophia Madlaina Murr,sophiamadlaina.murr@uzh.ch,2026-02-23 15:12:36+01:00,Shabiju	Anandarajan,4.800000000000001,Interactivity was nice
+W01,50,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:12:46+01:00,Shabiju	Anandarajan,4.300000000000001,"The text on the presentation was too small to read, but very nice visuals and information on the presentation!"
+W01,51,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:12:49+01:00,Shabiju	Anandarajan,5.0,Nice idea the question to the class at the begin of the presentation
+W01,52,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:12:55+01:00,Shabiju	Anandarajan,4.800000000000001,"Great visuals, liked the interactive part of it "
+W01,53,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 15:12:56+01:00,Valentin	Nägeli,4.0,"Good eye contact, spoken freely"
+W01,54,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:12:57+01:00,Shabiju	Anandarajan,4.2,Take a final look to the submitted presentation before sending it in
+W01,55,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:13:00+01:00,Shabiju	Anandarajan,4.1,Very interactive presentation. I liked a lot.
+W01,56,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:13:02+01:00,Shabiju	Anandarajan,4.800000000000001,"Good pacing, love the interactive presentation "
+W01,57,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:13:07+01:00,Shabiju	Anandarajan,4.800000000000001,liked that it was interactive
+W01,58,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:13:12+01:00,Shabiju	Anandarajan,4.0,"I liked the interactive part, Try to speak freely"
+W01,59,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:13:13+01:00,Shabiju	Anandarajan,5.0,clear presentation! 
+W01,60,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:13:16+01:00,Shabiju	Anandarajan,5.0,"The presentation was clear, engaging, and well-structured, and the interactive format effectively encouraged participation while helping the audience better understand."
+W01,61,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:13:19+01:00,Shabiju	Anandarajan,3.5000000000000004,Nothing to add
+W01,62,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:13:23+01:00,Shabiju	Anandarajan,4.800000000000001,"nice humor, well delivered"
+W01,63,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:13:25+01:00,Shabiju	Anandarajan,4.2,clearly explained the concepts with a relevant example 
+W01,64,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:13:25+01:00,Shabiju	Anandarajan,4.300000000000001,Interesting way to present
+W01,65,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:13:26+01:00,Shabiju	Anandarajan,5.0,"Very good presentation, great oral skills and interactive presentation. "
+W01,66,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:13:33+01:00,Shabiju	Anandarajan,3.7,Few texts were a bit small
+W01,67,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:13:40+01:00,Shabiju	Anandarajan,4.2,"I liked the idea of engaging the class, and you were well spoken."
+W01,68,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:13:41+01:00,Shabiju	Anandarajan,4.1,"Well explained, well timed, enjoyed the interactive part. However, sounded a bit monotone."
+W01,69,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:13:46+01:00,Shabiju	Anandarajan,3.9000000000000004,"overall good presentation, nothing extraordinarily good but also nothing extraordinarily bad :)"
+W01,70,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:13:59+01:00,Shabiju	Anandarajan,4.5,He did a really good job presenting and spoke about the topic well with very good graphics and visuals that proved the issue.
+W01,71,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:14:19+01:00,Shabiju	Anandarajan,4.300000000000001,"Interactive, emotional and good examples"
+W01,72,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:14:27+01:00,Shabiju	Anandarajan,4.0,interesting insights
+W01,73,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:15:03+01:00,Shabiju	Anandarajan,3.9000000000000004,"very calm, funny, good start in to the presentation with questions"
+W01,74,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:15:12+01:00,Shabiju	Anandarajan,4.7,"Even tough questions in Olat weren’t probably too spot on, I would have tried to answer a couple of them, maybe through rephrasing them."
+W01,75,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:15:16+01:00,Shabiju	Anandarajan,4.6,"Good presentation and that captured my interest well. Sometimes I it was a little bit difficult to hear good what was being said, as I sat in the back."
+W01,76,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:15:20+01:00,Shabiju	Anandarajan,3.8000000000000003,"overall good presentation, questions from OLAT hard to answer"
+W01,77,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:16:40+01:00,Shabiju	Anandarajan,4.300000000000001,"impactful message and engaging as the presenter started with a question, thought provoking ending. Could explain more the key terms briefly "
+W01,78,Benjamin Lucas De Gorgey,benjaminlucasde.gorgey@uzh.ch,2026-02-23 15:17:22+01:00,Antoine Thomas	Chiriac,5.0,well prepared and competently presented
+W01,79,Ellette Sidler-Dever,ellette.sidler-dever@uzh.ch,2026-02-23 15:17:48+01:00,Antoine Thomas	Chiriac,5.0,"Presentation was well made, clearly presented, and engaging to watch."
+W01,80,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 15:18:07+01:00,Antoine Thomas	Chiriac,4.0,"Great presentation, you have spoken clearly and freely"
+W01,81,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:18:08+01:00,Antoine Thomas	Chiriac,4.2,The presenter was very fluid and he explained the shown data in a very cleaver way.
+W01,82,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:18:11+01:00,Antoine Thomas	Chiriac,5.0,"Very good presentation, did a great job addressing questions as well as a combination of great graphics and graphs."
+W01,83,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:18:12+01:00,Antoine Thomas	Chiriac,4.9,"nice presentation which was easy to follow, graphics were good, slides where a bit complicated"
+W01,84,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 15:18:13+01:00,Antoine Thomas	Chiriac,5.0,Very clear presentation style with clear voice and supportive gestures. He seemed like an experienced presenter. 
+W01,85,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:18:14+01:00,Antoine Thomas	Chiriac,4.9,"Well researched, strong presentation skills, well spoken"
+W01,86,Sophia Madlaina Murr,sophiamadlaina.murr@uzh.ch,2026-02-23 15:18:15+01:00,Antoine Thomas	Chiriac,4.800000000000001,Good presentation style 
+W01,87,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:18:17+01:00,Antoine Thomas	Chiriac,5.0,Great presentation
+W01,88,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:18:19+01:00,Antoine Thomas	Chiriac,4.7,"Very good speaker, enjoyed listening to the presenter"
+W01,89,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:18:23+01:00,Antoine Thomas	Chiriac,5.0,Good presentation
+W01,90,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:18:26+01:00,Antoine Thomas	Chiriac,4.7,Nothing to add
+W01,91,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:18:30+01:00,Antoine Thomas	Chiriac,5.0,Really good presentation style
+W01,92,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:18:30+01:00,Antoine Thomas	Chiriac,4.800000000000001,"Very well explained and clearly structured, with effective use of graphs and maps that made complex supply chain and geopolitical issues easy to understand and visually compelling"
+W01,93,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:18:31+01:00,Antoine Thomas	Chiriac,4.800000000000001,"Good pacing, good eye contact, well structured, slides could be a little more proffesional"
+W01,94,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:18:33+01:00,Antoine Thomas	Chiriac,4.0,"Clear speaking and good rhythm, a bit repetitive from the information of the previous lecture. No questions answered from OLAT"
+W01,95,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:18:35+01:00,Antoine Thomas	Chiriac,4.7,very clear and on point
+W01,96,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:18:39+01:00,Antoine Thomas	Chiriac,5.0,"Great presentation, talk clearly and key message was clearly delivered"
+W01,97,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:18:40+01:00,Antoine Thomas	Chiriac,5.0,Great presentation and exposure of the topic.
+W01,98,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:18:40+01:00,Antoine Thomas	Chiriac,4.1,More space between texts
+W01,99,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:18:42+01:00,Antoine Thomas	Chiriac,4.9,very professional
+W01,100,Arda Aydin,arda.aydin@uzh.ch,2026-02-23 15:18:45+01:00,Antoine Thomas	Chiriac,4.7,"Not answered the questions, i suppose. Though it was quite good."
+W01,101,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:18:47+01:00,Antoine Thomas	Chiriac,4.9,"perfectly expained the topic, bit crowded slides."
+W01,102,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:18:55+01:00,Antoine Thomas	Chiriac,4.7,"Very good presentation style, clear slides and concrete opinion. Thumbs up"
+W01,103,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:18:55+01:00,Antoine Thomas	Chiriac,4.800000000000001,free speaking and good words for presentation 
+W01,104,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:19:01+01:00,Antoine Thomas	Chiriac,4.1,"unfortunately did not really mention the questions from Olat, everything else was excellent"
+W01,105,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:19:04+01:00,Antoine Thomas	Chiriac,4.800000000000001,"Presented confidently and clearly, was very easy to follow the points."
+W01,106,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:19:04+01:00,Antoine Thomas	Chiriac,4.6,"good finishing sentence, good explanation, very free presentation without looking at notes"
+W01,107,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:19:05+01:00,Antoine Thomas	Chiriac,4.6,"professional outfit, good presentation skills"
+W01,108,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:19:07+01:00,Antoine Thomas	Chiriac,4.7,great presentation but somehow no question from OLAT were answered
+W01,109,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:19:08+01:00,Antoine Thomas	Chiriac,4.7,I liked the graphs a lot. I would have ben nice if you would have addressed some Olat questions 
+W01,111,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:19:09+01:00,Antoine Thomas	Chiriac,4.9,Well explained and confident while speaking. Also interesting topic.
+W01,112,Valentin Nägeli,valentin.naegeli@uzh.ch,2026-02-23 15:19:09+01:00,Antoine Thomas	Chiriac,4.800000000000001,good presentation
+W01,110,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:19:09+01:00,Antoine Thomas	Chiriac,4.7,"Good arguments and professionally presented, Thank you!"
+W01,113,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:19:29+01:00,Antoine Thomas	Chiriac,4.800000000000001,"Good structure of the presentation that was clear to follow, with an inspiring way of ending the presentation. The only thing I found unclear was if any questions from other students was answered or not. "
+W01,114,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:20:05+01:00,Antoine Thomas	Chiriac,4.0,"Great job on the pacing and clarity of the subject, though some graphs were difficult to digest quickly and student questions needed clearer answers. Still, it was a very good presentation overall."
+W01,115,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:20:36+01:00,Ellette	Sidler-Dever,5.0,Informative and confident
+W01,116,Shabiju Anandarajan,shabiju.anandarajan@uzh.ch,2026-02-23 15:21:29+01:00,Valentin	Nägeli,5.0,"Numbers and percentages are good for the audience but some real life example could be nice as well. Also, I saw that studies show that WTP is there for sustainable products but it does't increase with ""more"" sustainable products. Meaning that as long as I pay more for a sustainable product, I wont pays 20% more for a 2x more sustainable product. That could have been interesting."
+W01,117,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:21:32+01:00,Ellette	Sidler-Dever,5.0,"Strong research, well explained, good public speaking skills"
+W01,118,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:21:55+01:00,Ellette	Sidler-Dever,4.9,Nice presentation with a well prepared powerpoint and very good spoken
+W01,119,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:22:08+01:00,Antoine Thomas	Chiriac,4.6,"strong use of data and facts, as the presenter used concrete numbers and made a clear link to real word implications: he explained why minerals matter (EVs, energy transition). The intro is a bit dense, could start with one clear idea and then introduce 2 or 3 key minerals as examples."
+W01,120,Shabiju Anandarajan,shabiju.anandarajan@uzh.ch,2026-02-23 15:22:43+01:00,Antoine Thomas	Chiriac,5.0,"Good presentation but a bit ""plain"""
+W01,121,Benjamin Lucas De Gorgey,benjaminlucasde.gorgey@uzh.ch,2026-02-23 15:24:10+01:00,Ellette	Sidler-Dever,5.0,"Nice slides, competently presented"
+W01,122,Sophia Madlaina Murr,sophiamadlaina.murr@uzh.ch,2026-02-23 15:24:11+01:00,Ellette	Sidler-Dever,4.800000000000001,"Easy to follow, good presentation style, academic research example gave a good detailed insights "
+W01,123,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:24:12+01:00,Ellette	Sidler-Dever,4.9,Nothing to add
+W01,124,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:24:12+01:00,Ellette	Sidler-Dever,4.4,"good organized slides, use academic research paper (but to much focus on) "
+W01,126,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:24:14+01:00,Ellette	Sidler-Dever,4.1,Very fair presentation with good looking slides. Regarding the content I have nothing to context.
+W01,125,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:24:14+01:00,Ellette	Sidler-Dever,4.800000000000001,"very interesting topic, good that you focused on the questions since the topic is more or less known to anyone interested in sustainability and business administration"
+W01,127,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:24:15+01:00,Ellette	Sidler-Dever,4.800000000000001,"excellent overall presentation, good structure, easy to follow, very informative."
+W01,128,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:24:18+01:00,Ellette	Sidler-Dever,4.2,"Very interesting and informative, but too much text on the diapo, and the topic could have been simplified further to make it more accessible and easier to grasp for a broader audience"
+W01,129,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 15:24:20+01:00,Ellette	Sidler-Dever,5.0,Confident presenter and clean slides.
+W01,130,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:24:21+01:00,Ellette	Sidler-Dever,5.0,Amazing from top to bottom
+W01,131,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 15:24:38+01:00,Ellette	Sidler-Dever,4.9,"great presentation, I loved the academic research example"
+W01,132,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:24:42+01:00,Ellette	Sidler-Dever,4.800000000000001,"Very well explained, good job simplifying the graph"
+W01,133,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:24:43+01:00,Ellette	Sidler-Dever,4.1,Less dense texts needed
+W01,134,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:24:43+01:00,Ellette	Sidler-Dever,4.6,"A little bit too much text on the slides, very good presentation! Interesting topic about the balance of investments in CSR."
+W01,135,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:24:43+01:00,Ellette	Sidler-Dever,5.0,This was a very made well. I really liked how a Academic research example was used to answer a question and overall was very well done.
+W01,136,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:24:45+01:00,Ellette	Sidler-Dever,4.6,Nice that answer on OLAT-question was proofed with academic literature. 
+W01,137,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:24:48+01:00,Ellette	Sidler-Dever,5.0,Excellent presentation
+W01,138,Valentin Nägeli,valentin.naegeli@uzh.ch,2026-02-23 15:24:50+01:00,Ellette	Sidler-Dever,4.9,good presentation
+W01,139,Antoine Thomas Chiriac,antoinethomas.chiriac@uzh.ch,2026-02-23 15:24:51+01:00,Ellette	Sidler-Dever,4.0,Good presentation but you spoke a bit too fast for me. 
+W01,140,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:24:52+01:00,Ellette	Sidler-Dever,5.0,"nice slides, well presented"
+W01,141,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:24:53+01:00,Ellette	Sidler-Dever,4.9,Great use of data to address the topic.
+W01,142,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:24:55+01:00,Ellette	Sidler-Dever,4.7,well prepared
+W01,143,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:24:56+01:00,Ellette	Sidler-Dever,4.9,"Great presentation, interesting topic and questions from the forum were well adressed!"
+W01,144,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:24:57+01:00,Ellette	Sidler-Dever,4.0,good comparison with a study and use of graphics
+W01,145,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:24:58+01:00,Ellette	Sidler-Dever,4.9,well linked with the research paper
+W01,146,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:24:59+01:00,Ellette	Sidler-Dever,4.9,I liked how you explained the graph 
+W01,147,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:25:01+01:00,Ellette	Sidler-Dever,4.5,"academic paper nicely presented, "
+W01,148,Shabiju Anandarajan,shabiju.anandarajan@uzh.ch,2026-02-23 15:25:09+01:00,Ellette	Sidler-Dever,5.0,Nothing to add!
+W01,149,Arda Aydin,arda.aydin@uzh.ch,2026-02-23 15:25:15+01:00,Ellette	Sidler-Dever,4.800000000000001,Quite well explained. Beginning was a bit boring
+W01,150,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:25:31+01:00,Ellette	Sidler-Dever,4.800000000000001,Good presentation technique as you spoke clearly and with enthusiasm. It could have been good to more throughout explain the meaning of what CSR actually means as everyone might not be familiar with it. 
+W01,151,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:25:32+01:00,Ellette	Sidler-Dever,4.800000000000001,"enthusiastic, explained calmly en well, a lot of eye contact with class"
+W01,152,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:25:49+01:00,Ellette	Sidler-Dever,4.800000000000001,"Excellent presentation with clear, detailed slides and a great use of a specific academic research case; the only downside was that the research itself was a bit difficult to fully grasp in such a short timeframe."
+W01,153,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:25:51+01:00,Ellette	Sidler-Dever,4.5,"The paper and the example were a bit complicated to follow and fully understand in this short timeframe, but overall the presenting style was confident."
+W01,155,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:27:37+01:00,Erik	Macniel,5.0,very detailed and easy to follow 
+W01,156,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:27:44+01:00,Ellette	Sidler-Dever,4.9,really good explanation of the graph!
+W01,157,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:27:46+01:00,Ellette	Sidler-Dever,4.6,Clear structure and progression and good use of institutional context. The idea that more transparency is not always better is very strong and intellectually engaging. Could simplify the explanation of the model (the graph)
+W01,158,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:28:00+01:00,Erik	Macniel,5.0,i like your green shirt
+W01,159,Shabiju Anandarajan,shabiju.anandarajan@uzh.ch,2026-02-23 15:28:08+01:00,Erik	Macniel,5.0,It was nice to have a real life case with someone who actually spent time on it!
+W01,160,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:28:22+01:00,Erik	Macniel,5.0,I really liked how he used a example from his prevous experience. Also learnt a lot about different reporting and disclosure around the world. 
+W01,161,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 15:29:20+01:00,Erik	Macniel,4.800000000000001,"Calm, clear and well structured."
+W01,162,Benjamin Lucas De Gorgey,benjaminlucasde.gorgey@uzh.ch,2026-02-23 15:30:01+01:00,Erik	Macniel,5.0,Confidently presented with good slides
+W01,163,Sophia Madlaina Murr,sophiamadlaina.murr@uzh.ch,2026-02-23 15:30:19+01:00,Erik	Macniel,5.0,"Real-Life Examples were nice, incorporating content from the lecture, "
+W01,164,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:30:22+01:00,Erik	Macniel,4.800000000000001,"loud+ understandable voice, interesting real life example "
+W01,165,Ellette Sidler-Dever,ellette.sidler-dever@uzh.ch,2026-02-23 15:30:42+01:00,Erik	Macniel,5.0,I really liked all the real life examples. I would have been preferred that only one firm example was used for continuity throughout the presentation.
+W01,166,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:30:52+01:00,Erik	Macniel,4.800000000000001,"Nice to include an agenda first, spoken very well"
+W01,167,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:30:52+01:00,Erik	Macniel,4.1,Bigger texts needed
+W01,168,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:30:53+01:00,Erik	Macniel,4.1,Interesting with a real world case to make the understanding deeper. A bit confusing to use 2 different companies as examples though.
+W01,169,Valentin Nägeli,valentin.naegeli@uzh.ch,2026-02-23 15:30:55+01:00,Erik	Macniel,5.0,very well structured
+W01,170,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:30:55+01:00,Erik	Macniel,4.9,good use of an opening case
+W01,171,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:30:55+01:00,Erik	Macniel,4.800000000000001,"good topics, it answered some questions that I had during class today (week 2)"
+W01,172,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:30:56+01:00,Erik	Macniel,5.0,Great to present a case in order to address the topic more practically.
+W01,173,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:30:58+01:00,Erik	Macniel,4.7,"Practical implications from a sports context were really interesting, Thanks!"
+W01,174,Arda Aydin,arda.aydin@uzh.ch,2026-02-23 15:31:00+01:00,Erik	Macniel,3.5000000000000004,"Felt like a bit like presentation has something from any topic. Also, read the slides directly, though it was just a few times."
+W01,176,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:31:04+01:00,Erik	Macniel,5.0,Great presentation and examples
+W01,175,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:31:04+01:00,Erik	Macniel,5.0,Cool idea bring up the case from his home university in canada
+W01,177,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:31:06+01:00,Erik	Macniel,4.300000000000001,Very technical but fair presentation explained in a very good/basic way.
+W01,178,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:31:10+01:00,Erik	Macniel,3.2,Nothing to add
+W01,179,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 15:31:11+01:00,Erik	Macniel,5.0,Great presentation
+W01,180,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:31:18+01:00,Erik	Macniel,4.300000000000001,"The presentation was very well structured, with a particularly helpful roadmap at the beginning that made it easy to follow, and the explanations were clear and supported by well-designed, easy-to-read slides, although it felt slightly too long at times."
+W01,181,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:31:20+01:00,Erik	Macniel,5.0,I liked that you presented real-world examples
+W01,182,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:31:21+01:00,Erik	Macniel,4.9,"very calm, concrete examples and firms, everything well explained"
+W01,183,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:31:27+01:00,Erik	Macniel,4.800000000000001,Interesting link with the case
+W01,184,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:31:28+01:00,Erik	Macniel,4.4,"Great presentation, loved the canadian exemple."
+W01,185,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:31:30+01:00,Erik	Macniel,4.9,Great example and inclusion of the Olat questions during the presentation
+W01,186,Antoine Thomas Chiriac,antoinethomas.chiriac@uzh.ch,2026-02-23 15:31:36+01:00,Erik	Macniel,4.800000000000001,Thank you from bringing a real life case ! 
+W01,187,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:31:45+01:00,Erik	Macniel,5.0,"really nice with real life case, goof presentation style"
+W01,188,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:31:49+01:00,Erik	Macniel,4.300000000000001,A comprehensive and clear presentation with easy-to-follow slides and concrete examples that facilitated understanding. The only area for improvement would be the timing.
+W01,189,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:31:51+01:00,Erik	Macniel,4.9,slide set could be a bit briefer
+W01,190,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:31:53+01:00,Erik	Macniel,5.0,Good example and well spoken. 
+W01,191,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:32:08+01:00,Erik	Macniel,4.9,-
+W01,192,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:32:33+01:00,Erik	Macniel,4.800000000000001,Great practical examples and insight into different countries
+W01,193,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:32:50+01:00,Erik	Macniel,3.8000000000000003,"Presentation was a bit harder to follow, overall good."
+W01,194,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:32:55+01:00,Erik	Macniel,4.800000000000001,"Good presentation, with a red thread that was clear to follow. Maybe the presentation was a little bit too long. "
+W01,195,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:32:59+01:00,Erik	Macniel,4.800000000000001,"maybe a bit too much on the slides for 5 minutes, but done really good!"
+W01,196,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:33:35+01:00,Erik	Macniel,4.7,"Starting with Canadian Wollastonite is a strong choice, it makes the topic concrete and shows why disclosure actually matters in practice. Could avoid some repetition, like the idea of ""disclosure is important"" is repeated several times."
+W01,197,Igor Timotijevic,igor.timotijevic@uzh.ch,2026-02-23 15:34:53+01:00,Benjamin Lucas De	Gorgey,5.0,Great case study example to address the topic.
+W01,198,Sophia Madlaina Murr,sophiamadlaina.murr@uzh.ch,2026-02-23 15:35:38+01:00,Benjamin Lucas De	Gorgey,5.0,"Real life examples were a helpful addition, good slides "
+W01,199,Anna-Lea Wölfle,anna-lea.woelfle@uzh.ch,2026-02-23 15:35:41+01:00,Benjamin Lucas De	Gorgey,5.0,Great slides and example
+W01,200,Robin Zobrist,robin.zobrist2@uzh.ch,2026-02-23 15:36:13+01:00,Benjamin Lucas De	Gorgey,5.0,"great presentation, nice slide deck, good structure"
+W01,201,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 15:36:20+01:00,Benjamin Lucas De	Gorgey,4.6,-
+W01,202,Lara Schlatter,lara.schlatter@uzh.ch,2026-02-23 15:36:20+01:00,Benjamin Lucas De	Gorgey,5.0,Apple Example makes topic more comprehensive 
+W01,203,Davide Pinna,davide.pinna@uzh.ch,2026-02-23 15:36:20+01:00,Benjamin Lucas De	Gorgey,5.0,"Excellent presentation, cool case the one about apple "
+W01,204,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 15:36:22+01:00,Benjamin Lucas De	Gorgey,4.9,Great real-world examples that made the topic easier to understand.
+W01,205,Riccardo Luca Mettler,riccardoluca.mettler@uzh.ch,2026-02-23 15:36:25+01:00,Benjamin Lucas De	Gorgey,4.4,"great practical insight, sadly no olat questions included"
+W01,206,Steven Thomas Uvakov,steventhomas.uvakov@uzh.ch,2026-02-23 15:36:26+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,good pacing
+W01,207,Valentin Python,valentin.python@uzh.ch,2026-02-23 15:36:29+01:00,Benjamin Lucas De	Gorgey,4.9,Good link to the stuff seen in class. Interesting link to the present with the Apple case discussed 
+W01,208,Stefanie Rüde,stefanie.ruede@uzh.ch,2026-02-23 15:36:31+01:00,Benjamin Lucas De	Gorgey,4.9,"interesting example from apple , well organized slides"
+W01,209,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 15:36:34+01:00,Benjamin Lucas De	Gorgey,5.0,"Great presentation, good eye contact with the class"
+W01,210,Alejandro Caicedo Murgueitio,alejandro.caicedomurgueitio@uzh.ch,2026-02-23 15:36:41+01:00,Benjamin Lucas De	Gorgey,5.0,Nothing to add
+W01,211,Valentin Nägeli,valentin.naegeli@uzh.ch,2026-02-23 15:36:42+01:00,Benjamin Lucas De	Gorgey,4.9,why was the presentation on 23rd feb but on olat it said 2nd of march
+W01,212,Laura Esperance Rose Martinez,lauraesperancerose.martinez@uzh.ch,2026-02-23 15:36:44+01:00,Benjamin Lucas De	Gorgey,4.300000000000001,"The presentation was interesting and well delivered, with clear slides highlighting key words, although it felt slightly long at times and could have been strengthened by including more graphs to better illustrate the main points."
+W01,213,Arda Aydin,arda.aydin@uzh.ch,2026-02-23 15:36:52+01:00,Benjamin Lucas De	Gorgey,4.6,Nice
+W01,214,Miguel Patarroyo,miguel.patarroyo@uzh.ch,2026-02-23 15:37:02+01:00,Benjamin Lucas De	Gorgey,4.300000000000001,"Interesting topic and good example (Apple), presentation a bit short but well prepared"
+W01,215,Antoine Thomas Chiriac,antoinethomas.chiriac@uzh.ch,2026-02-23 15:37:06+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,Thank you for your presentation !
+W01,216,Philip Gerber,philip.gerber@uzh.ch,2026-02-23 15:37:11+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,very nice slide deck
+W01,217,Sophie Jennifer Sharp,sophiejennifer.sharp@uzh.ch,2026-02-23 15:37:11+01:00,Benjamin Lucas De	Gorgey,5.0,"Strong visuals, very clear to follow, well presented "
+W01,218,Giacomo Basile,giacomo.basile2@uzh.ch,2026-02-23 15:37:14+01:00,Benjamin Lucas De	Gorgey,4.300000000000001,Very interesting topic plus very cleaver use of the Apple example.
+W01,219,Ella Persson,ella.persson@uzh.ch,2026-02-23 15:37:17+01:00,Benjamin Lucas De	Gorgey,4.7,Interesting topic and a very good example (Apple Watch).
+W01,220,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 15:37:20+01:00,Erik	Macniel,5.0,-
+W01,221,Ellette Sidler-Dever,ellette.sidler-dever@uzh.ch,2026-02-23 15:37:26+01:00,Benjamin Lucas De	Gorgey,5.0,I appreciated the presentation style and didn't know about the Apple case. Very interesting.
+W01,222,Carla Andrea Welter,carlaandrea.welter@uzh.ch,2026-02-23 15:37:29+01:00,Benjamin Lucas De	Gorgey,4.6,Nice presentation and very well spoken to
+W01,223,Jacob Benjamin Tissplat,jacobbenjamin.tissplat@uzh.ch,2026-02-23 15:37:30+01:00,Benjamin Lucas De	Gorgey,4.5,Did a really good job with using real company examples but could've touched upon questions more from OLAT.
+W01,224,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:37:33+01:00,Benjamin Lucas De	Gorgey,5.0,"Well spoke, very interesting and relevant example. Explained the subject very well"
+W01,225,Thibaut Noël,thibaut.noel@uzh.ch,2026-02-23 15:37:40+01:00,Benjamin Lucas De	Gorgey,5.0,"Clearly presented, very understandable, with the use of a good example from Apple"
+W01,226,Dario Raphael Kurmann,darioraphael.kurmann@uzh.ch,2026-02-23 15:37:41+01:00,Benjamin Lucas De	Gorgey,4.7,-
+W01,227,Shabiju Anandarajan,shabiju.anandarajan@uzh.ch,2026-02-23 15:37:45+01:00,Benjamin Lucas De	Gorgey,5.0,Great- nothing to add!
+W01,228,Pascal Suter,pascal.suter3@uzh.ch,2026-02-23 15:37:46+01:00,Benjamin Lucas De	Gorgey,4.1,"Great structure, well presented. All-around very good presentation."
+W01,229,Mathilda Blaser,mathilda.blaser@uzh.ch,2026-02-23 15:37:51+01:00,Benjamin Lucas De	Gorgey,4.9,good example with Apple!
+W01,230,Valerio Fabian Schumacher,valeriofabian.schumacher@uzh.ch,2026-02-23 15:37:58+01:00,Benjamin Lucas De	Gorgey,5.0,concrete example
+W01,231,Abirami Sivarajah,abirami.sivarajah@uzh.ch,2026-02-23 15:38:04+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,nice example with apple 
+W01,232,Thalia Nastassja De Angelis,thalianastassja.deangelis@uzh.ch,2026-02-23 15:38:07+01:00,Benjamin Lucas De	Gorgey,3.9000000000000004,Shorter sentences or bigger texts to make it easier to follow
+W01,233,Achille Desbrières,achille.desbrieres@uzh.ch,2026-02-23 15:38:23+01:00,Benjamin Lucas De	Gorgey,4.7,"The presentation was clear, original, and well-explained, with helpful slides that supported the content perfectly. The only point to improve would be the timing."
+W01,234,Emma Denise Gilljam Tall,emmadenise.gilljamtall@uzh.ch,2026-02-23 15:38:44+01:00,Benjamin Lucas De	Gorgey,4.9,"An interesting subject, that was easy to follow, with good examples. For further improvement a bit more enthusiasm could make even more interesting to follow. "
+W01,235,Tobias Franz Joseph Stampfli,tobiasfranzjoseph.stampfli@uzh.ch,2026-02-23 15:38:52+01:00,Benjamin Lucas De	Gorgey,4.9,Nice slides
+W01,236,Simone Martinecz,simone.martinecz@uzh.ch,2026-02-23 15:39:19+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,good real life examples 
+W01,237,Erik Macniel,erik.macniel@uzh.ch,2026-02-23 15:40:26+01:00,Antoine Thomas	Chiriac,5.0,"very natural presenter, good eye contact and hand gestures"
+W01,238,Erik Macniel,erik.macniel@uzh.ch,2026-02-23 15:41:05+01:00,Ellette	Sidler-Dever,4.300000000000001,"Good use of charts and external sources, Good job!"
+W01,240,Carl William Lindström,carlwilliam.lindstroem@uzh.ch,2026-02-23 15:41:16+01:00,Ellette	Sidler-Dever,5.0,Very well explained topic and was very easy to follow
+W01,239,Arianna Isabel Galli,ariannaisabel.galli@uzh.ch,2026-02-23 15:41:16+01:00,Benjamin Lucas De	Gorgey,4.6,"The case of Apple is very effective as it makes the risks of sustainability communication tangible and easy to understand. Good link to course concepts. Could be more precise with claims, some statements felt a bit broad"
+W01,241,Erik Macniel,erik.macniel@uzh.ch,2026-02-23 15:41:34+01:00,Benjamin Lucas De	Gorgey,5.0," really felt like you explained this well, I learned alot in short period of time on a topic I wasn’t too familiar with liked the apple example"
+W01,242,Philip Alexander Schnider,philipalexander.schnider@uzh.ch,2026-02-23 16:27:13+01:00,Shabiju	Anandarajan,4.9,Great presentation style.
+W01,244,Laura Jurkovic,laura.jurkovic@uzh.ch,2026-02-23 17:51:13+01:00,Shabiju	Anandarajan,5.0,Great presentation!
+W01,245,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 22:59:14+01:00,Valentin	Nägeli,3.9000000000000004,-
+W01,246,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 23:00:40+01:00,Shabiju	Anandarajan,4.800000000000001,-
+W01,247,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 23:01:12+01:00,Mathilda	Blaser,4.300000000000001,-
+W01,248,Janis Raschle,janis.raschle@uzh.ch,2026-02-23 23:02:07+01:00,Antoine Thomas	Chiriac,5.0,-
+W01,249,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:30:26+01:00,Valentin	Nägeli,4.4,Perhaps it would have been interesting to include a real-life example or application. 
+W01,250,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:33:25+01:00,Shabiju	Anandarajan,4.9,I enjoyed the structure of the presentation and the clear issues and limitations that were set out. 
+W01,251,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:34:32+01:00,Antoine Thomas	Chiriac,4.4,I enjoyed the structure of the presentation and the clear issues and limitations that were set out. 
+W01,252,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:36:04+01:00,Ellette	Sidler-Dever,4.0,I liked the example of academic research. 
+W01,253,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:37:52+01:00,Erik	Macniel,5.0,"I liked the introduction, which included a real case study and explained the importance of the topic, and the conceptual takeaways at the end."
+W01,254,Elisa Repele,elisa.repele@uzh.ch,2026-02-24 11:39:37+01:00,Benjamin Lucas De	Gorgey,5.0,I learned something new :) 
