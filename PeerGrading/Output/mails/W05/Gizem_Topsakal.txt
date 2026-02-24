@@ -4,12 +4,12 @@ Hi Gizem	Topsakal,
 
 Here is your peer-assessment summary for W05:
 - Number of reviewers: 2
-- Final score (weighted): 5.00 / 5.00
+- Final score (weighted): 4.40 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 5.00
-- Q2_2: 5.00
-- Q2_3: 5.00
+- Q2_1: 3.00
+- Q2_2: 3.00
+- Q2_3: 3.00
 - Q3_1: 5.00
 - Q3_2: 5.00
 - Q3_3: 5.00
