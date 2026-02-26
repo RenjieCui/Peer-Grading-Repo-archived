@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W01)
 Hi Shabiju	Anandarajan,
 
 Here is your peer-assessment summary for W01:
-- Number of reviewers: 40
-- Final score (weighted): 4.51 / 5.00
+- Number of reviewers: 41
+- Final score (weighted): 4.49 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.67
-- Q2_2: 3.80
-- Q2_3: 4.62
-- Q3_1: 4.62
-- Q3_2: 4.72
-- Q3_3: 4.60
-- Q4  : 4.50
+- Q2_1: 4.63
+- Q2_2: 3.76
+- Q2_3: 4.61
+- Q3_1: 4.61
+- Q3_2: 4.71
+- Q3_3: 4.59
+- Q4  : 4.49
 
 Comments:
 1. a bit much on the slides but well presented otherwise
@@ -56,6 +56,7 @@ Comments:
 38. Great presentation!
 39. -
 40. I enjoyed the structure of the presentation and the clear issues and limitations that were set out.
+41. The presentation was not entirely effective because his voice often faded, and the responses to questions were not sufficiently comprehensive.
 
 Best regards,
 Course team
