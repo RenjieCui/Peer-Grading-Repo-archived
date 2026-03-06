@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Mathilda	Blaser,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 39
-- Final score (weighted): 4.62 / 5.00
+- Number of reviewers: 41
+- Final score (weighted): 4.63 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.59
-- Q2_2: 4.67
+- Q2_1: 4.61
+- Q2_2: 4.66
 - Q2_3: 4.54
-- Q3_1: 4.46
-- Q3_2: 4.67
-- Q3_3: 4.74
-- Q4  : 4.64
+- Q3_1: 4.49
+- Q3_2: 4.68
+- Q3_3: 4.73
+- Q4  : 4.66
 
 Comments:
 1. Great Question from OLAT
@@ -55,6 +55,8 @@ Comments:
 37. it was a well organized presentation covered the main questions adressed
 38. Good presentation, interesting topic, well explained.
 39. I found the presentation good. But sometimes i didnt quite understand if you answerd the question from Olat or not.
+40. The information was well prepared and clearly presented.
+41. Great presentation!
 
 Best regards,
 Course team

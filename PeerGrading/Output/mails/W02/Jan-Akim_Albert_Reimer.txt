@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Jan-Akim Albert	Reimer,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 38
-- Final score (weighted): 4.61 / 5.00
+- Number of reviewers: 40
+- Final score (weighted): 4.62 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.84
+- Q2_1: 4.85
 - Q2_2: 4.42
-- Q2_3: 4.79
-- Q3_1: 4.84
+- Q2_3: 4.80
+- Q3_1: 4.85
 - Q3_2: 4.47
-- Q3_3: 4.00
-- Q4  : 4.68
+- Q3_3: 4.03
+- Q4  : 4.70
 
 Comments:
 1. Very strong presentation skills. The slides were clearly layed out and very detailed. Good job!
@@ -54,6 +54,8 @@ Comments:
 36. good introduction, very calm, good graphics, slides a bit overloaded
 37. The delivery was dynamic and precise, which was great. However, the slides were somewhat hard to follow at times.
 38. I liked the speed of the presentation and that you spoke freely but sometimes it was hard following what was on written on the slide especially on the ETS in Detail slide
+39. The presentation was interesting and engaging.
+40. Great presentation!
 
 Best regards,
 Course team

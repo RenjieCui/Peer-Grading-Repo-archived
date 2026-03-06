@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Laura	Jurkovic,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 40
-- Final score (weighted): 4.74 / 5.00
+- Number of reviewers: 41
+- Final score (weighted): 4.72 / 5.00
 
 Per-question averages (1–5):
 - Q2_1: 4.85
 - Q2_2: 4.17
-- Q2_3: 4.75
-- Q3_1: 4.90
-- Q3_2: 4.72
-- Q3_3: 4.80
-- Q4  : 4.80
+- Q2_3: 4.73
+- Q3_1: 4.88
+- Q3_2: 4.71
+- Q3_3: 4.78
+- Q4  : 4.78
 
 Comments:
 1. Very captivating style of presenting
@@ -56,6 +56,7 @@ Comments:
 38. More eye contact!
 39. Interesting subject and a very well-delivered presentation. The slides were clear.
 40. Topic was explained good. Maybe was a bit fast spoken and for that hard to follow when you didnt know something about the topic beforehand.
+41. The speaker communicated the ideas clearly and effectively.
 
 Best regards,
 Course team

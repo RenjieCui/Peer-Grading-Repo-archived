@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Emma Denise	Gilljam Tall,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 39
+- Number of reviewers: 41
 - Final score (weighted): 4.63 / 5.00
 
 Per-question averages (1–5):
 - Q2_1: 4.51
-- Q2_2: 4.85
-- Q2_3: 4.74
-- Q3_1: 4.62
-- Q3_2: 4.31
-- Q3_3: 4.69
-- Q4  : 4.64
+- Q2_2: 4.83
+- Q2_3: 4.73
+- Q3_1: 4.61
+- Q3_2: 4.34
+- Q3_3: 4.71
+- Q4  : 4.63
 
 Comments:
 1. Well spoken and clear that you were well researched as you did not just read off slides! Slides were also very clear to follow
@@ -55,6 +55,8 @@ Comments:
 37. Improvement could be possible on the structure of the presentation
 38. Very good presentation on an interesting topic. Making it more interactive would make it even better.
 39. I liked that you addressed so many questions from Olat deeply. But I found that the theoretical part was missing a bit.
+40. Good balance between visuals and spoken explanation.
+41. Great presentation!
 
 Best regards,
 Course team
