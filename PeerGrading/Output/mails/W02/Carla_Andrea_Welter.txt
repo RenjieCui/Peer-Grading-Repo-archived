@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Carla Andrea	Welter,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 39
+- Number of reviewers: 41
 - Final score (weighted): 4.63 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.74
-- Q2_2: 4.74
-- Q2_3: 4.67
+- Q2_1: 4.73
+- Q2_2: 4.76
+- Q2_3: 4.68
 - Q3_1: 4.56
-- Q3_2: 4.56
-- Q3_3: 4.31
-- Q4  : 4.67
+- Q3_2: 4.59
+- Q3_3: 4.32
+- Q4  : 4.66
 
 Comments:
 1. Great information provided
@@ -55,6 +55,8 @@ Comments:
 37. W
 38. Great job! The presentation was clear and to the point.
 39. Topic was explained good, but could have spoken more freely. The personal touch at the beginning was nice, but on the second slide you could have gone into more detail or at least mention the waste swiss produce per head per year.
+40. The speaker showed good confidence while presenting.
+41. Great presentation!
 
 Best regards,
 Course team

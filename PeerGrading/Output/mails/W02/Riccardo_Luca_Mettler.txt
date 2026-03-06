@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Riccardo Luca	Mettler,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 38
-- Final score (weighted): 4.85 / 5.00
+- Number of reviewers: 40
+- Final score (weighted): 4.83 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.89
-- Q2_2: 4.74
-- Q2_3: 4.87
-- Q3_1: 4.84
-- Q3_2: 4.79
-- Q3_3: 4.87
-- Q4  : 4.87
+- Q2_1: 4.88
+- Q2_2: 4.75
+- Q2_3: 4.85
+- Q3_1: 4.83
+- Q3_2: 4.80
+- Q3_3: 4.85
+- Q4  : 4.85
 
 Comments:
 1. Great examples and easy to follow
@@ -54,6 +54,8 @@ Comments:
 36. Liked the structure of his presentation and used great research
 37. I really enjoyed the subject, it was very engaging. That said, I found some of the slides a little hard to process.
 38. Good speaking speed. Good explanation of external and internal Offset Project.
+39. The examples helped to understand the topic better.
+40. Great presentation!
 
 Best regards,
 Course team
