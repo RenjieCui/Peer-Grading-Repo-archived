@@ -1,0 +1,364 @@
+week_id,Responseid,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
+W02,259,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:02:19.083754600+01:00,Ellette	Sidler-Dever,4.800000000000001,The presentation was really well-made and the way she handled it verbally was really good
+W02,260,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:03:41.394948100+01:00,Shabiju	Anandarajan,4.2,"I really liked the initial hook to gain attention, it made the presentation smooth since the beginning "
+W02,261,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:05:36.384234400+01:00,Valentin	Nägeli,3.9000000000000004,"Overall it was good, but i would have tried to add some more to the data he put in the presentation"
+W02,262,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:09:12.956782600+01:00,Antoine Thomas	Chiriac,4.1,"I liked the suggestions that were made in the final part, i would have dedicated most of the time to that and a bit less to the initial slide"
+W02,263,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:11:21.130081+01:00,Benjamin Lucas De	Gorgey,4.800000000000001,"The presentations was really good, filled with interesting examples as well. I really liked the Apple one."
+W02,264,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-01 12:14:05.981617200+01:00,Erik	Macniel,4.800000000000001,The example on the Canadian Wollastonite was spot on. Really liked the whole presentation.
+W02,265,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-01 13:22:21.474132700+01:00,Antoine Thomas	Chiriac,3.3000000000000003,resent some targeted case studies.
+W02,266,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,2026-03-01 13:30:53.564850700+01:00,Shabiju	Anandarajan,4.2,Good
+W02,267,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,2026-03-01 13:31:12.528469+01:00,Antoine Thomas	Chiriac,4.6,Well done
+W02,268,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,2026-03-01 13:31:40.899863300+01:00,Ellette	Sidler-Dever,3.4000000000000004,Good
+W02,269,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,2026-03-01 13:31:58.357706+01:00,Erik	Macniel,4.0,Well spoken
+W02,270,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,2026-03-01 13:32:15.875777400+01:00,Benjamin Lucas De	Gorgey,4.0,Good
+W02,271,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-01 14:16:54.908895500+01:00,Valentin	Nägeli,3.4000000000000004,It would be better to have more data to support this point.
+W02,272,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-01 14:20:12.619199400+01:00,Erik	Macniel,3.4000000000000004,Share some real examples related to the topic.
+W02,273,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-01 14:23:01.924719500+01:00,Benjamin Lucas De	Gorgey,3.2,Consider adding some audience interaction.
+W02,274,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-01 14:40:31.733019200+01:00,Ellette	Sidler-Dever,3.3000000000000003,More data would make it stronger.
+W02,275,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:02:20.392262300+01:00,Mathilda	Blaser,5.0,Great Question from OLAT
+W02,276,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:03:35.568511200+01:00,Mathilda	Blaser,5.0,"Easy to understand figures, great usage of olat questions"
+W02,277,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:03:56.106264100+01:00,Mathilda	Blaser,4.2,"Very informative, however voice was a bit too monotone"
+W02,278,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:04:09.977705100+01:00,Mathilda	Blaser,5.0,"good slide structure,  use of interesting olat question"
+W02,279,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:04:28.138168500+01:00,Mathilda	Blaser,4.9,The coloring of the presentation was very intense but this is a specific preference.
+W02,280,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:04:41.174417500+01:00,Mathilda	Blaser,5.0,"Clear slides, good pacing when presenting, questions from OLAT very well addressed "
+W02,281,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:04:45.868487+01:00,Mathilda	Blaser,5.0,Nice slides and confident presentation - very clear (Vive la france)
+W02,282,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:04:57.265573700+01:00,Mathilda	Blaser,4.800000000000001,"Good presentation, even more enthusiasm could have improved it further. "
+W02,283,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:05:14.103083500+01:00,Mathilda	Blaser,4.1,"I liked the fact that she answered to more than 1 question coming from OLAT. Overall, a good presentation"
+W02,284,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:05:16.965621+01:00,Mathilda	Blaser,4.300000000000001,Good comparison of who wins and who loses
+W02,285,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:05:18.761565400+01:00,Mathilda	Blaser,5.0,"clear explanation, good implementation of olat questions "
+W02,286,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:05:18.887158500+01:00,Mathilda	Blaser,5.0,"good images and slides, not too much on them, freely spoken, good answers to questions"
+W02,288,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:05:20.540319+01:00,Mathilda	Blaser,5.0,very interesting topic and well introduced in 5 minutes
+W02,287,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:05:20.570180200+01:00,Mathilda	Blaser,5.0,Loved the two perspectives sustainability and economy to understand that both are important to take into consideration
+W02,289,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:05:23.766119+01:00,Mathilda	Blaser,5.0,Excellent presentation i liked also the there where transitions effects in the slides
+W02,290,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:05:23.936302300+01:00,Mathilda	Blaser,3.9000000000000004,-
+W02,291,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:05:25.118243600+01:00,Mathilda	Blaser,4.1,"Interesting presentation, but a little more dynamic speaking would make it easier to follow."
+W02,292,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:05:26.388453800+01:00,Mathilda	Blaser,5.0,Very interesting and it was easy to follow
+W02,293,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:05:33.215862500+01:00,Mathilda	Blaser,3.8000000000000003,Generally well 
+W02,294,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:05:36.094041800+01:00,Mathilda	Blaser,5.0,"Great slides, I liked the way she integrated the questions from OLAT throughout the presentation and not at the end like some did"
+W02,295,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:05:36.096421500+01:00,Mathilda	Blaser,4.9,Very good presentations. Thank you for this one. Very clear Power Point. 
+W02,296,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:05:37.424431200+01:00,Mathilda	Blaser,4.9,very nice that you addressed so many olat questions
+W02,297,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:05:38.633788200+01:00,Mathilda	Blaser,5.0,"very interesting topic, good presentation"
+W02,298,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:05:44.614597500+01:00,Mathilda	Blaser,4.9,"I really liked your slides and transitions, very clean and professional"
+W02,299,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:05:48.703612+01:00,Mathilda	Blaser,5.0,"clear framing of the questions from olat. Good explanation of carbon leakage and linked it to real world economic incentives, which makes the concept tangible"
+W02,300,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:05:50.578978900+01:00,Mathilda	Blaser,4.300000000000001,Nothing to add
+W02,301,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:05:51.378686+01:00,Carla Andrea	Welter,5.0,Great information provided
+W02,302,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:05:54.121810+01:00,Mathilda	Blaser,5.0,Great Job
+W02,303,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:05:58.138023600+01:00,Mathilda	Blaser,4.7,good clear presentation
+W02,304,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:06:03.878054600+01:00,Mathilda	Blaser,3.9000000000000004,"A bit difficult to follow and white text on yellow is difficult to read, good effect use and design"
+W02,305,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:06:21.104504700+01:00,Mathilda	Blaser,4.1,Maybe put more energy into the speaking
+W02,306,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:06:22.473286200+01:00,Mathilda	Blaser,5.0,good presentation - questions were adressed 
+W02,307,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:06:33.412030600+01:00,Mathilda	Blaser,4.2,great but could be more engaging in presentation style  
+W02,308,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:06:34.211825600+01:00,Mathilda	Blaser,4.0,All good
+W02,309,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:06:41.746644700+01:00,Mathilda	Blaser,5.0,interesting
+W02,310,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:07:01.515825500+01:00,Mathilda	Blaser,4.7,"Great job, would like more energy though"
+W02,311,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:07:16.621960800+01:00,Mathilda	Blaser,3.7,more interaction with the audience
+W02,312,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:07:52.929020+01:00,Carla Andrea	Welter,5.0,"interesting Story shared, good understandable"
+W02,313,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:08:07.502108800+01:00,Carla Andrea	Welter,4.800000000000001,"I like the opening hook to your presentation, your personal story captured my attention"
+W02,314,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:08:10.353138400+01:00,Mathilda	Blaser,4.800000000000001,it was a well organized presentation covered the main questions adressed
+W02,315,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:09:08.570068600+01:00,Carla Andrea	Welter,4.9,good personal note to the topic. a bit to much on the slides
+W02,316,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:09:20.387647500+01:00,Carla Andrea	Welter,5.0,"Good engagement at the beginning, I liked how you connected this topic with a personal story. Slides are clear and topic was well addressed. "
+W02,317,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:09:34.735654100+01:00,Carla Andrea	Welter,5.0,"Nice introduction with personal experience. Good presentation-structure, Slides maybe a bit too less self-explaning"
+W02,318,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:09:36.499525800+01:00,Carla Andrea	Welter,5.0,"Great idea to start with a personal experience/story, as it grabs attention and makes the topic relatable. Using statistics on Switzerland's waste production shows a contrast between perception and reality, this is very effective"
+W02,319,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:09:37.403683100+01:00,Carla Andrea	Welter,5.0,"Good slides, very clear presentation good job"
+W02,320,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:09:44.285827600+01:00,Carla Andrea	Welter,5.0,"We can see that she was stressed but she's a great presenter, very well structured and pleasant to listening speaker. Keep up!"
+W02,321,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:10:00.150188100+01:00,Carla Andrea	Welter,5.0,"Cool way to start a presentation with a real personal fact, makes it more interesting in to follow."
+W02,322,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:10:00.919046300+01:00,Carla Andrea	Welter,4.800000000000001,Good hook with the personal story
+W02,323,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:10:03.688686+01:00,Carla Andrea	Welter,5.0,Great short personal story at the beginning
+W02,324,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:10:22.465842+01:00,Carla Andrea	Welter,5.0,"Personal anecdote was a great start, good way to answer the questions  "
+W02,325,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:10:23.866757400+01:00,Carla Andrea	Welter,4.1,Nothing to add
+W02,326,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:10:57.442991+01:00,Carla Andrea	Welter,4.800000000000001,"I really like the beginning where she told a story from her personal life. Very clear and simple presentation, and also many questions from OLAT got an answer. Excellent job."
+W02,327,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:11:04.679286800+01:00,Carla Andrea	Welter,3.3000000000000003,-
+W02,328,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:11:11.425592500+01:00,Carla Andrea	Welter,4.9,very nice introduction and quiz element! 
+W02,329,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:11:18.157038300+01:00,Carla Andrea	Welter,5.0,nice introduction with your own little story
+W02,330,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:11:23.202751300+01:00,Carla Andrea	Welter,4.9,I really enjoyed your personal anecdote and the example of Switzerland. Went over just a little bit.
+W02,331,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:11:24.986603900+01:00,Carla Andrea	Welter,4.9,I liked that you included you own experience. 
+W02,332,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:11:27.610102400+01:00,Carla Andrea	Welter,4.9,"interesting slides, good story in beginning, good design to answer question, a little focused on cards and slide and not so much eye contact"
+W02,333,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:11:28.172679400+01:00,Carla Andrea	Welter,4.0,"Interactive and good introduction story to attract attention, image a bit small and couldn t read some texts "
+W02,334,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:11:30.860402500+01:00,Carla Andrea	Welter,4.800000000000001,Good introduction story
+W02,335,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:11:31.277728400+01:00,Carla Andrea	Welter,4.9,"interesting intorduction from personal life, good implementation of olat questions "
+W02,336,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:11:32.725981500+01:00,Carla Andrea	Welter,4.1,Good energy
+W02,337,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:11:34.974933800+01:00,Carla Andrea	Welter,4.9,"nice storytelling, good documented but maybe too long"
+W02,338,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:11:36.383838500+01:00,Carla Andrea	Welter,4.7,I like your personnal story. You were too stress. 
+W02,339,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:11:36.653433700+01:00,Carla Andrea	Welter,4.4,I liked the personal impressions and answers to OLAT questions
+W02,340,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:11:44.213225800+01:00,Carla Andrea	Welter,3.9000000000000004,"nice presentation, could be presented a little freeer "
+W02,341,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:11:53.333216100+01:00,Carla Andrea	Welter,3.9000000000000004,Was a bit nervous
+W02,342,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:12:00.356535100+01:00,Carla Andrea	Welter,4.800000000000001,"nice intro, roadmap a bit small"
+W02,343,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:12:05.272436300+01:00,Carla Andrea	Welter,5.0,Nice with a personal story! 
+W02,344,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:12:09.909365+01:00,Carla Andrea	Welter,5.0,"very well presented, covered the important bits and explained the topic quite good"
+W02,345,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:12:27.322935500+01:00,Carla Andrea	Welter,3.9000000000000004,Thank you for the presentation
+W02,346,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:13:16.455765700+01:00,Carla Andrea	Welter,3.2,nice ppt
+W02,347,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:14:05.058178400+01:00,Carla Andrea	Welter,5.0,I liked the visuals she brought up and answered the questions well
+W02,348,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:14:13.768548400+01:00,Carla Andrea	Welter,4.800000000000001,W
+W02,349,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:14:31.892911700+01:00,Emma Denise	Gilljam Tall,5.0,Well spoken and clear that you were well researched as you did not just read off slides! Slides were also very clear to follow 
+W02,350,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:15:03.352772100+01:00,Emma Denise	Gilljam Tall,4.800000000000001,"I like how you have specific slides that answer questions from students, and use real world examples of carbon offsetting."
+W02,351,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:15:03.747387900+01:00,Emma Denise	Gilljam Tall,5.0,Well done!
+W02,352,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:15:22.661593400+01:00,Emma Denise	Gilljam Tall,5.0,Loved your slides! Great speed of speech
+W02,353,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:15:29.070550300+01:00,Emma Denise	Gilljam Tall,5.0,Great introduction slide with the turtle :) presentation was easy to follow 
+W02,354,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:15:35.643160500+01:00,Emma Denise	Gilljam Tall,5.0,good structure of presentation -> explaining questions well 
+W02,355,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:15:50.453001600+01:00,Emma Denise	Gilljam Tall,5.0,Nice slides confidently presented
+W02,357,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:17:04.605411900+01:00,Emma Denise	Gilljam Tall,5.0,"Nice wait to bring up example for each question, makes the topic more clear "
+W02,356,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:17:04.673053400+01:00,Emma Denise	Gilljam Tall,4.4,Very nice slides
+W02,358,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:17:06.376446500+01:00,Emma Denise	Gilljam Tall,3.8000000000000003,Nothing to add
+W02,359,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:17:06.478037400+01:00,Emma Denise	Gilljam Tall,3.9000000000000004,I liked that she specified since the beginning that she would concentrate on coastal carbon offset project. the presentation is clear. i would only make the visuals easier to follow as there's too much in one single slide for a person to read.
+W02,360,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:17:07.736291200+01:00,Emma Denise	Gilljam Tall,4.2,"Dense texts and small sometimes, many good examples "
+W02,361,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:17:09.947818800+01:00,Emma Denise	Gilljam Tall,4.300000000000001,clear topic framing as she immediately specified the focus on coastal carbon offset projects. Could explain metrics with a brief example to make them more tangible
+W02,362,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:17:13.438535600+01:00,Emma Denise	Gilljam Tall,4.9,"very interesting, the slides were a bit heavy but for the rest it was very good"
+W02,363,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:17:15.159672100+01:00,Emma Denise	Gilljam Tall,4.800000000000001,"great visuals, nice information flow from slide to slide"
+W02,365,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:17:15.832083200+01:00,Emma Denise	Gilljam Tall,4.9,"explained her slides well, very well organized and answered olat questions"
+W02,366,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:17:15.938890500+01:00,Emma Denise	Gilljam Tall,4.9,"nice example, maybe a little too much information on the slides, otherwise perfect "
+W02,364,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:17:16.131502500+01:00,Emma Denise	Gilljam Tall,4.800000000000001,Nice looking presentation and good projects mentioned
+W02,367,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:17:16.731003600+01:00,Emma Denise	Gilljam Tall,5.0,Really good looking presentation and did a great job answering questions
+W02,368,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:17:17.293287900+01:00,Emma Denise	Gilljam Tall,4.9,"Good presentation, thank you ! "
+W02,369,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:17:19.460462700+01:00,Emma Denise	Gilljam Tall,5.0,"very freely spoken, slides a little bit overloaded"
+W02,370,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:17:21.326300800+01:00,Emma Denise	Gilljam Tall,4.1,nice examples on slides 
+W02,371,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:17:21.760502900+01:00,Emma Denise	Gilljam Tall,5.0,"Clear answers to the questions, with great information, examples and graphics on the slides."
+W02,372,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:17:24.446214300+01:00,Emma Denise	Gilljam Tall,5.0,very good presentation 
+W02,373,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:17:28.054059+01:00,Emma Denise	Gilljam Tall,4.9,text was a bit small to read
+W02,374,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:17:31.367867+01:00,Emma Denise	Gilljam Tall,4.300000000000001,Nice Slides
+W02,375,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:17:31.648923200+01:00,Emma Denise	Gilljam Tall,4.800000000000001,Questions well addressed
+W02,376,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:17:32.426327700+01:00,Emma Denise	Gilljam Tall,5.0,"good idea to structure presenation around olat questions, in depth explanation of the concepts "
+W02,377,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:17:33.091181700+01:00,Emma Denise	Gilljam Tall,4.7,You can be more confident :) nice approach
+W02,378,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:17:33.732439300+01:00,Emma Denise	Gilljam Tall,5.0,Enjoyed learning about Mangrove offsetting.
+W02,379,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:17:35.388611100+01:00,Emma Denise	Gilljam Tall,5.0,Very interesting and easy to follow
+W02,380,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:17:35.814974200+01:00,Emma Denise	Gilljam Tall,4.1,-
+W02,381,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:17:38.098685400+01:00,Emma Denise	Gilljam Tall,3.5000000000000004,"Directly passed to questions, slides were too long."
+W02,382,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:17:39.575596500+01:00,Emma Denise	Gilljam Tall,4.9,"I liked the structure of the presentation which was question-based, "
+W02,383,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:17:48.757706500+01:00,Emma Denise	Gilljam Tall,4.4,"clear answers, crowded slides"
+W02,384,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:18:32.244847700+01:00,Emma Denise	Gilljam Tall,4.1,nice ppt
+W02,385,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:18:32.897618600+01:00,Emma Denise	Gilljam Tall,4.0,Improvement could be possible on the structure of the presentation
+W02,386,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:20:13.839000800+01:00,Jan-Akim Albert	Reimer,5.0,Very strong presentation skills. The slides were clearly layed out and very detailed. Good job! 
+W02,387,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:20:46.248154+01:00,Jan-Akim Albert	Reimer,4.9,Very confident and well spoken
+W02,388,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:21:06.302462600+01:00,Jan-Akim Albert	Reimer,5.0,Very informative and great overview
+W02,389,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:21:57.126455500+01:00,Jan-Akim Albert	Reimer,5.0,"Statistic based facts were good and well explained, a bit too much text on the slides "
+W02,390,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:22:10.754992400+01:00,Jan-Akim Albert	Reimer,5.0,Great visuals
+W02,391,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:22:22.594549500+01:00,Jan-Akim Albert	Reimer,5.0,shows nice statistics 
+W02,392,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:22:24.599654400+01:00,Jan-Akim Albert	Reimer,4.6,"The presentation was very good, but the there was a little bit too much text on the slides and too little."
+W02,393,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:22:25.840229900+01:00,Jan-Akim Albert	Reimer,4.1,Very professional power point. You spoke a bit too fast but very interesting. Thank you for your presentation. 
+W02,394,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:22:27.744422400+01:00,Jan-Akim Albert	Reimer,5.0,"statistics were explained very nicely and comprehensively, spoke very freely and addressed the audience "
+W02,395,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:22:28.539732800+01:00,Jan-Akim Albert	Reimer,4.9,"Highlighting the Eu and China's ETS as examples makes the presentation manageable and relevant, since they are the largest and most influential systems. Graphics and color coding really helped to follow more easily"
+W02,396,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:22:30.399528700+01:00,Jan-Akim Albert	Reimer,5.0,Confidently and compitently presented
+W02,397,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:22:36.860145100+01:00,Jan-Akim Albert	Reimer,5.0,"covered everything, made the topic clear and  within time frame, answer questions as well"
+W02,399,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:22:40.958550400+01:00,Jan-Akim Albert	Reimer,4.800000000000001,"professional slides and appearance, used good graphics and explained it well"
+W02,400,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:22:41.553927600+01:00,Jan-Akim Albert	Reimer,4.800000000000001,Nothing to add
+W02,398,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:22:41.577958+01:00,Jan-Akim Albert	Reimer,4.6,it was a not so easy topic but exlained quite good in only 5 min.
+W02,401,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:22:41.872270700+01:00,Jan-Akim Albert	Reimer,4.300000000000001,-
+W02,403,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:22:42.134952900+01:00,Jan-Akim Albert	Reimer,3.8000000000000003,"Good tone, easy to follow, texts and image a bit small"
+W02,404,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:22:42.400337100+01:00,Jan-Akim Albert	Reimer,4.1,Great job at explaining a complicated mechanism. I also enjoyed the geographical comparisons.
+W02,402,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:22:42.446483400+01:00,Jan-Akim Albert	Reimer,4.800000000000001,"confident presentation style, good use of data to explain concepts  "
+W02,405,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:22:46.104695300+01:00,Jan-Akim Albert	Reimer,4.9,Very interesting 
+W02,406,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:22:47.353828900+01:00,Jan-Akim Albert	Reimer,4.9,Explained very well and clear the topic
+W02,407,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:22:48.433554600+01:00,Jan-Akim Albert	Reimer,4.9,text on slides to small
+W02,408,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:22:49.194191300+01:00,Jan-Akim Albert	Reimer,4.7,"Very good presentation, it could have been beneficial to speak a little bit louder and better timed.  "
+W02,409,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:22:52.157945200+01:00,Jan-Akim Albert	Reimer,4.9,"great presentation, some slides were a bit heavy for such a short presentation"
+W02,410,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:22:52.461964700+01:00,Jan-Akim Albert	Reimer,3.9000000000000004,"I would write less in the slides to make the visual easier to follow. However, the presentation is good and clear. I liked the concrete the examples about EU and China"
+W02,411,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:22:55.790533700+01:00,Jan-Akim Albert	Reimer,5.0,Great charts and good add on to what we learnt in class today
+W02,412,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:22:59.083026400+01:00,Jan-Akim Albert	Reimer,3.3000000000000003,Presentation was too long and slides were too heavy
+W02,413,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:22:59.247954800+01:00,Jan-Akim Albert	Reimer,5.0,Very well done
+W02,414,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:23:00.407850100+01:00,Jan-Akim Albert	Reimer,4.7,Bad timing though pretty good otherwise
+W02,415,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:23:00.971843400+01:00,Jan-Akim Albert	Reimer,4.9,very nice graphics!
+W02,416,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:23:03.312513300+01:00,Jan-Akim Albert	Reimer,5.0,good presentation
+W02,417,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:23:03.497981500+01:00,Jan-Akim Albert	Reimer,4.2,No question was really answered
+W02,418,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:23:04.376278900+01:00,Jan-Akim Albert	Reimer,4.0,nice presentation style 
+W02,419,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:23:06.684819900+01:00,Jan-Akim Albert	Reimer,3.5000000000000004,Good map
+W02,420,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:23:08.143014400+01:00,Jan-Akim Albert	Reimer,4.9,Appreciated the graph showing the changes in cap and trade markets. Timing was over but other wise good presentation.
+W02,421,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:23:33.492537100+01:00,Jan-Akim Albert	Reimer,4.9,"good introduction, very calm, good graphics, slides a bit overloaded"
+W02,422,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:24:50.911666600+01:00,Lara	Schlatter,5.0,"Good Approach to Cluster questions, nice Images "
+W02,423,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:26:13.528975700+01:00,Lara	Schlatter,5.0,"Clustering questions was a great idea, nice visuals, "
+W02,424,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:26:49.488302600+01:00,Lara	Schlatter,4.9,Your slide show was visually appealing
+W02,425,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:27:35.311114800+01:00,Lara	Schlatter,5.0,Good presentation and spoke well
+W02,426,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:28:00.833499300+01:00,Lara	Schlatter,4.300000000000001,The presentation needed more practice because I felt like you were reading from the slides. It would have helped the flow of the presentation and timing.
+W02,427,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:28:05.204588+01:00,Lara	Schlatter,5.0,"very good with clustered questions, calmly spoken, good reference to other lecture"
+W02,429,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:28:09.903707600+01:00,Lara	Schlatter,4.2,"You spoke a bit too fast for me but I found the prsentation very interesting, thank you ! "
+W02,428,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:28:09.925601700+01:00,Lara	Schlatter,5.0,"clusters of olat questions WOW!, used academic paper, nice presentation style, nice example"
+W02,430,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:28:10.415294700+01:00,Lara	Schlatter,5.0,Well prepared presentation
+W02,431,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:28:13.582127300+01:00,Lara	Schlatter,4.9,Find the example from allianz interesting to bring up
+W02,432,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:28:16.450184+01:00,Lara	Schlatter,4.2,Spoke well and much knowledgable about the theme
+W02,433,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:28:17.095367500+01:00,Lara	Schlatter,4.300000000000001,Great cohesion between slides and nuggets of information. I enjoyed the comparison between different regions a lot. 
+W02,434,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:28:17.423443700+01:00,Lara	Schlatter,4.800000000000001,good structure nice slides
+W02,435,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:28:19.113314100+01:00,Lara	Schlatter,4.1,"Nice way to present based on the questions, example Allianz a bit too small image "
+W02,436,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:28:19.577759200+01:00,Lara	Schlatter,4.800000000000001,"good slides, good structure"
+W02,437,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:28:20.228910300+01:00,Lara	Schlatter,3.3000000000000003,The chart on the presentation was not able to be read for the people in the back.
+W02,438,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:28:21.221286+01:00,Lara	Schlatter,3.3000000000000003,Nothing to add
+W02,439,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:28:21.236887500+01:00,Lara	Schlatter,5.0,"Great use of charts and data to bring across points, implementation of olat questions "
+W02,440,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:28:21.578508100+01:00,Lara	Schlatter,5.0,Great introduction with the OLAT questions
+W02,441,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:28:23.061121900+01:00,Lara	Schlatter,4.6,a bite too long but nice presentation
+W02,443,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:28:23.521055500+01:00,Lara	Schlatter,3.7,-
+W02,442,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:28:23.654418800+01:00,Lara	Schlatter,4.9,"well presented, a bit too long"
+W02,444,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:28:24.774686500+01:00,Lara	Schlatter,4.9,It was not so an easy topic that was explained quite good in 5 min.
+W02,445,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:28:25.363167600+01:00,Lara	Schlatter,5.0,"Appeared very well researched, i appreciated the use of graphs and charts to support your findings! "
+W02,446,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:28:28.059920300+01:00,Lara	Schlatter,4.9,Interesting and easy to follow
+W02,447,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:28:28.656519300+01:00,Lara	Schlatter,4.9,Very clear framing of olat questions. Logical structure that made it easy to follow
+W02,448,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:28:32.809653300+01:00,Lara	Schlatter,4.800000000000001,Great idea to incorporate questions from OLAT directly into the presentation. Excellent job
+W02,449,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:28:38.285362400+01:00,Lara	Schlatter,4.800000000000001,The case study was interesting
+W02,450,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:28:44.166565500+01:00,Lara	Schlatter,4.9,explains well the topic and within time
+W02,451,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:28:45.480584300+01:00,Lara	Schlatter,4.5,Interesting Presentation
+W02,452,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:28:45.645376400+01:00,Lara	Schlatter,5.0,well done
+W02,453,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:28:51.163857400+01:00,Lara	Schlatter,3.2,Bad at timing and reading feom elsewhere
+W02,454,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:28:55.806819200+01:00,Lara	Schlatter,4.800000000000001,Very well explained topic. 
+W02,455,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:29:00.583624300+01:00,Lara	Schlatter,4.9,Good that you regrouped questions under different categories
+W02,456,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:29:18.812894900+01:00,Lara	Schlatter,3.7,nice that you bundeled the olat questions 
+W02,457,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:29:36.854516+01:00,Lara	Schlatter,4.9,Clear slides and the subject was well presented
+W02,458,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:30:17.355492800+01:00,Laura	Jurkovic,5.0,Very captivating style of presenting
+W02,459,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:30:18.190581300+01:00,Laura	Jurkovic,5.0,"Good examples, Great talking speed"
+W02,460,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:30:54.211273400+01:00,Laura	Jurkovic,5.0,"easy to unterstand, Great actual cases "
+W02,461,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:31:57.950565800+01:00,Laura	Jurkovic,4.800000000000001,"Good tone of voice spoke clearly, would like more eye contact with audience"
+W02,462,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:32:18.754277900+01:00,Laura	Jurkovic,5.0,"Clean and good slide made it easier to follow the presentation, also good tone of voice"
+W02,463,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:32:19.177448600+01:00,Laura	Jurkovic,4.800000000000001,"confident presentation style, great job! Try to look at the crowd more next time around."
+W02,464,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:32:20.786802+01:00,Laura	Jurkovic,5.0," explained very clearly, nice presentation style, very natural, practical example "
+W02,465,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:32:25.539485300+01:00,Laura	Jurkovic,5.0,"good structured slides, good examples, very calm appearance, everything well explained, a little bit fast spoken"
+W02,466,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:32:36.324286400+01:00,Laura	Jurkovic,5.0,very clear
+W02,467,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:32:38.116447300+01:00,Laura	Jurkovic,5.0,very clear slides!
+W02,468,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:32:38.357201100+01:00,Laura	Jurkovic,5.0,nice visuals
+W02,469,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:32:46.401160500+01:00,Laura	Jurkovic,4.9,I didn't know anything about the FLA and I really enjoyed the presentation. There was no clear reference to questions from OLAT but it was very clear and insightful.
+W02,470,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:32:46.530269800+01:00,Laura	Jurkovic,4.800000000000001,Good job explaining that the FLA goes beyond legal requirements and focuses on voluntary commitments. Strong structure
+W02,471,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:32:47.110444700+01:00,Laura	Jurkovic,5.0,Nothing to add
+W02,472,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:32:47.224510300+01:00,Laura	Jurkovic,5.0,"Good examples, and clear speaking. "
+W02,473,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:32:48.317091+01:00,Laura	Jurkovic,4.800000000000001,great work
+W02,474,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:32:49.316916200+01:00,Laura	Jurkovic,5.0,Interesting presentation - if time wasn't so limited you could speak slightly slower
+W02,475,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:32:50.238869600+01:00,Laura	Jurkovic,4.6,Very confident speaking
+W02,476,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:32:51.472932400+01:00,Laura	Jurkovic,4.7,The example from Vietnam clearly explained the message of the presentation.
+W02,477,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:32:51.916079300+01:00,Laura	Jurkovic,5.0,Liked the Vietnam example specifically and gave a good explanation of the issue
+W02,478,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:32:52.631562800+01:00,Laura	Jurkovic,5.0,"Nice paced, well structured, good choice of graphs and nice topic"
+W02,479,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:32:53.637209100+01:00,Laura	Jurkovic,4.0,good presentation
+W02,480,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:32:56.052277400+01:00,Laura	Jurkovic,5.0,Nice presentation style 
+W02,481,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:33:00.006347+01:00,Laura	Jurkovic,4.1,-
+W02,482,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:33:02.191295200+01:00,Laura	Jurkovic,5.0,"Very Good, Thank You !"
+W02,483,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:33:03.881620700+01:00,Laura	Jurkovic,5.0,Great presentation!
+W02,484,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:33:04.520661400+01:00,Laura	Jurkovic,4.9,confident speaking and good speaking pace
+W02,485,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:33:05.424307900+01:00,Laura	Jurkovic,4.9,"Confident speaking, Nice Visuals, "
+W02,486,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:33:08.511577900+01:00,Laura	Jurkovic,4.9,No OLAT questions answered?
+W02,487,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:33:11.344500600+01:00,Laura	Jurkovic,4.2,it was a not so easy topic but explained very well for 5 min
+W02,488,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:33:17.299611200+01:00,Laura	Jurkovic,4.6,"I like the one example about FLA, excellent job"
+W02,489,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:33:20.725810+01:00,Laura	Jurkovic,4.1,"Vietnam example graph small but explained well, a bit fast but not difficult to follow"
+W02,490,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:33:21.968643200+01:00,Laura	Jurkovic,5.0,very good presentation and finished before time as well
+W02,491,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:33:23.961404500+01:00,Laura	Jurkovic,4.0,nice presentation 
+W02,492,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:33:28.085856300+01:00,Laura	Jurkovic,4.7,"There was not a direct mention about the questions, though it was good"
+W02,493,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:33:28.121767300+01:00,Laura	Jurkovic,4.2,Good slides and easy to follow
+W02,494,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:33:47.790190+01:00,Laura	Jurkovic,5.0,Very interesting
+W02,495,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:35:02.555280600+01:00,Laura	Jurkovic,4.7,More eye contact!
+W02,496,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:35:03.995756600+01:00,Riccardo Luca	Mettler,5.0, Great examples and easy to follow 
+W02,497,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:35:39.013251500+01:00,Riccardo Luca	Mettler,5.0,"great context and figures, very well explained"
+W02,498,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:36:04.438350200+01:00,Riccardo Luca	Mettler,5.0,great job simplifying it 
+W02,499,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:36:08.334092600+01:00,Riccardo Luca	Mettler,4.9,"I like that you had a content overview, spoke clearly and confidently "
+W02,500,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:36:16.708584400+01:00,Riccardo Luca	Mettler,5.0,"it was a good presentation, covered olat questions and interacted with the class through questions as well"
+W02,501,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:36:48.799006400+01:00,Riccardo Luca	Mettler,5.0,Great actual example and interesting paper 
+W02,502,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:37:02.337747600+01:00,Riccardo Luca	Mettler,5.0,"Loved it that everything was explained by Examples, Integration of Class with questions good, balance between practical examples and theoretical hypothesis well chosen"
+W02,503,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:37:04.497308500+01:00,Riccardo Luca	Mettler,4.9,The presentation was good but could have spoken louder. Really appreciated the offsetting example because it offers an example of additionally.
+W02,504,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:37:15.002334900+01:00,Riccardo Luca	Mettler,5.0,"Good examples, good explanation of the model"
+W02,505,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:37:15.611001700+01:00,Riccardo Luca	Mettler,5.0,"Well explained examples, thank you for answering my question :)"
+W02,506,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 15:37:16.964347500+01:00,Riccardo Luca	Mettler,5.0,"great example of different offset projects, clear and simple slides "
+W02,507,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:37:18.695255500+01:00,Riccardo Luca	Mettler,4.9,"Great slides, good presentation skills, great to talk about a study which he explained clearly."
+W02,508,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:37:22.541319500+01:00,Riccardo Luca	Mettler,5.0,great presentation with interaction and interesting graphs
+W02,509,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:37:23.749180400+01:00,Riccardo Luca	Mettler,5.0,good slides clear structure
+W02,510,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:37:25.490439500+01:00,Riccardo Luca	Mettler,5.0,"good presentation style, good examples"
+W02,511,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:37:26.551323500+01:00,Riccardo Luca	Mettler,4.1,"Voice a bit low, interactive "
+W02,512,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:37:26.634027800+01:00,Riccardo Luca	Mettler,5.0,"good examples, confident appearance, slides are good (not overloaded) "
+W02,513,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:37:27.071694100+01:00,Riccardo Luca	Mettler,5.0,"interesting, interactive and I liked the psychological aspect"
+W02,515,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:37:27.188772300+01:00,Riccardo Luca	Mettler,4.800000000000001,-
+W02,514,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:37:27.302376100+01:00,Riccardo Luca	Mettler,5.0,Great slides and interesting example. 
+W02,516,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:37:28.344038500+01:00,Riccardo Luca	Mettler,4.9,clearly distinguished between internal and external carbon offset projects. The example of Volkswagen is very effective
+W02,517,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:37:30.142430300+01:00,Riccardo Luca	Mettler,4.9,It was a great idea to focus on Volkswagen to get examples to include in the presentation. It was also great to answer to OLAT questios with a paper. Excellent job.
+W02,518,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:37:30.230108700+01:00,Riccardo Luca	Mettler,5.0,Pretty good
+W02,519,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:37:30.848999200+01:00,Riccardo Luca	Mettler,5.0,"very well explained, very natural, student questions addressed with research paper, interaction with the class was nice"
+W02,520,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:37:34.816389800+01:00,Riccardo Luca	Mettler,5.0,good and clear slides and speaking
+W02,521,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:37:35.142780800+01:00,Riccardo Luca	Mettler,5.0,Interesting and well managed
+W02,522,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:37:37.084997200+01:00,Riccardo Luca	Mettler,5.0,"very good presentation, good interaction with the listeners "
+W02,523,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:37:42.849787500+01:00,Riccardo Luca	Mettler,5.0,"Interesting topic, not repetitive compared to the lecture and very nice real life examples used to be easier to follow."
+W02,524,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:37:46.788127100+01:00,Riccardo Luca	Mettler,5.0,Very interesting!
+W02,525,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:37:47.180559700+01:00,Riccardo Luca	Mettler,4.9,Pretty good
+W02,526,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:37:52.303024800+01:00,Riccardo Luca	Mettler,4.9,Good interactive with the class!
+W02,527,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:37:54.404691+01:00,Riccardo Luca	Mettler,4.0,nice presentation 
+W02,528,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:37:59.527471400+01:00,Riccardo Luca	Mettler,5.0,Good
+W02,529,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:38:01.922394700+01:00,Riccardo Luca	Mettler,5.0,I realy enjoyed the interactions and the simple visuals to follow. Thank you for your great presentations !
+W02,530,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:38:07.647607100+01:00,Riccardo Luca	Mettler,4.2,good presentation
+W02,531,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:38:15.838991100+01:00,Riccardo Luca	Mettler,5.0,Liked the structure of his presentation and used great research 
+W02,532,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:40:26.702240900+01:00,Thibaut	Noël,5.0,"Speaks really understandable, nice examples"
+W02,533,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:40:40.218234+01:00,Thibaut	Noël,4.9,"This is well done, I learned a lot of new information on a topic I was already familiar with"
+W02,534,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:40:51.016300300+01:00,Thibaut	Noël,5.0,"Well explained examples, very easy to follow presentation, great breakdown of a complicated topic  "
+W02,535,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:40:53.644414600+01:00,Thibaut	Noël,5.0,Very informative and great slides
+W02,536,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:41:14.231118400+01:00,Thibaut	Noël,5.0,"very nice presentation, clear slides "
+W02,537,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:41:23.763782600+01:00,Thibaut	Noël,5.0,"Clear slides, topic well explained and good presentation skills"
+W02,538,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:41:25.116980600+01:00,Thibaut	Noël,5.0,"Great speaking/presenting skills, slides are easily understandable and topic was well explained."
+W02,539,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:41:25.561792700+01:00,Thibaut	Noël,4.800000000000001,"great eye contact, "
+W02,540,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:41:31.070880800+01:00,Thibaut	Noël,5.0,"Nice slides, confidently presented"
+W02,541,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:41:41.134955500+01:00,Thibaut	Noël,4.9,I liked the example of Northern Europe. This was extremely interesting as I didn't know about this. Did really reference any of the OLAT questions but still strong.
+W02,543,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:41:53.883446700+01:00,Thibaut	Noël,5.0,nice slides
+W02,542,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-02 15:41:54.162751600+01:00,Thibaut	Noël,5.0,"very calm, good overlook at the beginning, good slides, good examples chosen"
+W02,544,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:41:55.367317800+01:00,Thibaut	Noël,4.7,"Confident speaker, good overview"
+W02,545,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:41:56.727247700+01:00,Thibaut	Noël,4.800000000000001,explained carbon taxation clearly and good structure with categories. Strong use of real policy examples
+W02,546,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 15:41:56.818297400+01:00,Thibaut	Noël,5.0,I liked the structure of his slides and his presentation 
+W02,547,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:41:58.132994400+01:00,Thibaut	Noël,4.9,"Interesting topic, not repetitive compared to the lecture and very good explenations ond real life examples used."
+W02,548,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:41:59.815775500+01:00,Thibaut	Noël,5.0,"Clear slides, good explanations including examples, fluent English "
+W02,549,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:42:00.312928800+01:00,Thibaut	Noël,5.0,Great slides
+W02,550,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:42:01.133133400+01:00,Thibaut	Noël,4.7,Really clear structure and explanation.
+W02,551,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:42:01.654347600+01:00,Thibaut	Noël,5.0,"very nice slides, speaks very naturally"
+W02,552,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:42:02.070324500+01:00,Thibaut	Noël,5.0,Nothing to add
+W02,553,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:42:03.600099700+01:00,Thibaut	Noël,4.1,"Good choice of countries to show the diversity of carbon taxes, image a bit small"
+W02,554,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:42:06.277692100+01:00,Thibaut	Noël,4.9,-
+W02,555,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:42:09.580346300+01:00,Thibaut	Noël,4.9,Clearly explained and easy to follow.
+W02,556,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:42:09.777188+01:00,Thibaut	Noël,5.0,clear presentation
+W02,557,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:42:12.108130800+01:00,Thibaut	Noël,5.0,interesting topic
+W02,558,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:42:15.317179900+01:00,Thibaut	Noël,5.0,good visuals
+W02,559,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:42:16.798101400+01:00,Thibaut	Noël,4.9,"presented well, good layout and covered main topics and olat questions, learnt more on different carbon taxations"
+W02,560,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:42:18.044561900+01:00,Thibaut	Noël,5.0,"Middle-East, Asian, African or Latin-American regions weren't covered but it was a choice I guess"
+W02,561,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:42:19.799591200+01:00,Thibaut	Noël,4.300000000000001,nice presentation 
+W02,562,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:42:21.191813400+01:00,Thibaut	Noël,4.800000000000001,good overview of the topic
+W02,563,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-02 15:42:25.564381600+01:00,Thibaut	Noël,4.9,"Very clear power point, thank you !"
+W02,564,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:42:27.263709300+01:00,Thibaut	Noël,4.800000000000001,Great presentation and very interesting with compering countries. The only thing I was a bit unsure about was weather questions was answered or not. 
+W02,565,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:42:34.938723200+01:00,Thibaut	Noël,4.7,"Good, not touched the questions "
+W02,566,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:42:36.864995800+01:00,Thibaut	Noël,5.0,Good
+W02,567,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:43:21.934091100+01:00,Thibaut	Noël,4.800000000000001,Spoken confidently and maintained good eye contact with audience. Good presentation 
+W02,568,enxhi.kodragjini@uzh.ch,enxhi.kodragjini@uzh.ch,2026-03-02 15:43:26.057574+01:00,Valerio Fabian	Schumacher,4.800000000000001,"it was well explained, timed it well, covered the important parts as well"
+W02,569,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-02 15:44:16.770963200+01:00,Valerio Fabian	Schumacher,5.0,"clear slides, very comprehensive presentation, interesting topic "
+W02,570,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,2026-03-02 15:44:33.297655400+01:00,Valerio Fabian	Schumacher,5.0,Great slides and captivating style of presenting
+W02,571,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-02 15:44:42.478545200+01:00,Valerio Fabian	Schumacher,4.2,More pictures on the presentation could make the information better.
+W02,572,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-02 15:44:44.640630700+01:00,Valerio Fabian	Schumacher,5.0,Good presentation! I liked the layout of the slides and some of the switzerland-based statistics included 
+W02,573,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-02 15:44:48.118534300+01:00,Valerio Fabian	Schumacher,5.0,"Great choice of Olat questions, interesting example from Switzerland "
+W02,574,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-02 15:45:07.776068+01:00,Valerio Fabian	Schumacher,5.0,"Great breakdown of a complicated topic, "
+W02,575,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-02 15:45:09.975401800+01:00,Valerio Fabian	Schumacher,4.9,"Well structured slides, good presentation "
+W02,576,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-02 15:45:12.351714300+01:00,Valerio Fabian	Schumacher,4.300000000000001,Monotone style of presenting but good job at explaining concepts
+W02,577,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-02 15:45:25.111823+01:00,Valerio Fabian	Schumacher,5.0,"nice slides, speaks very naturally, explanation of the content very clear, nice that you showed what has changed"
+W02,578,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-02 15:45:28.120466800+01:00,Valerio Fabian	Schumacher,4.300000000000001,Hard topic to cover in inly 5 min but well explained in this short time
+W02,579,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-02 15:45:31.753667900+01:00,Valerio Fabian	Schumacher,4.9,The pace of the presentation was slow and this could have been improved with practice.
+W02,580,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-02 15:45:37.078293500+01:00,Valerio Fabian	Schumacher,5.0,"clear structure, good presentation"
+W02,581,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-02 15:45:49.305810700+01:00,Valerio Fabian	Schumacher,5.0,"well done, more eye contact"
+W02,582,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-02 15:46:26.731287600+01:00,Valerio Fabian	Schumacher,5.0,Very informative and easy to understand
+W02,583,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-02 15:46:29.924531200+01:00,Valerio Fabian	Schumacher,5.0,Clear slides 
+W02,584,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-02 15:46:46.443454100+01:00,Valerio Fabian	Schumacher,5.0,"Clear and understandable overview of emission regulations, clear slides, good explanations "
+W02,586,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-02 15:47:02.087559+01:00,Valerio Fabian	Schumacher,4.1,"Good structure, clear and simple explanation. good job."
+W02,585,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-02 15:47:02.378975100+01:00,Valerio Fabian	Schumacher,5.0,"interesting topic, great presentation"
+W02,587,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-02 15:47:03.379298900+01:00,Valerio Fabian	Schumacher,4.6,good structure of the presentation
+W02,588,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-02 15:47:06.245407700+01:00,Valerio Fabian	Schumacher,4.300000000000001,Confident Speaking
+W02,589,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-02 15:47:07.337653400+01:00,Valerio Fabian	Schumacher,4.800000000000001,"More pictures and less text could have been beneficial, otherwise great presentation. "
+W02,590,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-02 15:47:07.494663200+01:00,Valerio Fabian	Schumacher,4.7,-
+W02,591,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-02 15:47:08.314883400+01:00,Valerio Fabian	Schumacher,5.0,Nothing to add
+W02,592,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-02 15:47:12.097325900+01:00,Valerio Fabian	Schumacher,4.300000000000001,A bit difficult to follow but interesting topic
+W02,593,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-02 15:47:16.717327800+01:00,Valerio Fabian	Schumacher,4.9,Topic well covered
+W02,594,ting.liang@uzh.ch,ting.liang@uzh.ch,2026-03-02 15:47:18.623885500+01:00,Valerio Fabian	Schumacher,4.1,nice ppt
+W02,595,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-02 15:47:19.218864500+01:00,Valerio Fabian	Schumacher,5.0,"clear, good presentation"
+W02,596,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-02 15:47:23.029361900+01:00,Valerio Fabian	Schumacher,4.1,intresting presentation 
+W02,597,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-02 15:47:26.694475300+01:00,Valerio Fabian	Schumacher,4.2,very solid structure and understanding
+W02,598,shabiju.anandarajan@uzh.ch,shabiju.anandarajan@uzh.ch,2026-03-02 15:47:27.246378400+01:00,Valerio Fabian	Schumacher,4.1,nothing special to add
+W02,599,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-02 15:47:31.338315100+01:00,Valerio Fabian	Schumacher,4.1, 
+W02,600,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-02 15:47:39.701047700+01:00,Valerio Fabian	Schumacher,5.0,Good
+W02,601,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-02 15:48:04.129512900+01:00,Valerio Fabian	Schumacher,5.0,OLAT questions ? 
+W02,602,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-02 16:10:34.579898600+01:00,Valerio Fabian	Schumacher,4.9,"interesting topic, well explained and "
+W02,603,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-02 18:36:28.396684500+01:00,Valerio Fabian	Schumacher,5.0,He did a great job explaining the subject and I really liked his presentation 
+W02,604,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:00:59.383083400+01:00,Mathilda	Blaser,4.2,"Good presentation, interesting topic, well explained. "
+W02,605,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:04:10.245284200+01:00,Emma Denise	Gilljam Tall,4.1,Very good presentation on an interesting topic. Making it more interactive would make it even better.
+W02,606,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:07:09.125755+01:00,Jan-Akim Albert	Reimer,3.9000000000000004,"The delivery was dynamic and precise, which was great. However, the slides were somewhat hard to follow at times."
+W02,607,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:11:49.201574200+01:00,Lara	Schlatter,4.0,"Good presentation, clear and concise, with slides that helped understanding."
+W02,608,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:17:37.037999900+01:00,Carla Andrea	Welter,3.9000000000000004,Great job! The presentation was clear and to the point.
+W02,609,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:21:30.044039200+01:00,Laura	Jurkovic,4.0,Interesting subject and a very well-delivered presentation. The slides were clear.
+W02,610,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:24:02.696529300+01:00,Riccardo Luca	Mettler,3.8000000000000003,"I really enjoyed the subject, it was very engaging. That said, I found some of the slides a little hard to process."
+W02,611,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:26:46.170428500+01:00,Thibaut	Noël,4.1,"Great presentation and very interesting topic. The questions were well addressed. However, it was quite dense for the time slot."
+W02,612,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-03 11:29:50.923771200+01:00,Valerio Fabian	Schumacher,3.8000000000000003,"Good presentation, though the slides were a little hard to keep up with due to the time constraints."
+W02,613,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 18:31:11.600094700+01:00,Mathilda	Blaser,3.9000000000000004,I found the presentation good. But sometimes i didnt quite understand if you answerd the question from Olat or not.
+W02,614,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 18:36:52.537736500+01:00,Carla Andrea	Welter,3.9000000000000004,"Topic was explained good, but could have spoken more freely. The personal touch at the beginning was nice, but on the second slide you could have gone into more detail or at least mention the waste swiss produce per head per year. "
+W02,615,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 19:57:27.453526+01:00,Emma Denise	Gilljam Tall,4.0,I liked that you addressed so many questions from Olat deeply. But I found that the theoretical part was missing a bit.
+W02,616,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:03:53.308073700+01:00,Jan-Akim Albert	Reimer,4.0,I liked the speed of the presentation and that you spoke freely but sometimes it was hard following what was on written on the slide especially on the ETS in Detail slide
+W02,617,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:09:13.954653900+01:00,Lara	Schlatter,4.0,I liked the connection to global strategic management. But it would be good to quickly say at the start what you are presenting about.
+W02,618,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:14:18.817391400+01:00,Laura	Jurkovic,3.9000000000000004,Topic was explained good. Maybe was a bit fast spoken and for that hard to follow when you didnt know something about the topic beforehand.
+W02,619,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:18:52.566033700+01:00,Riccardo Luca	Mettler,4.0,Good speaking speed. Good explanation of external and internal Offset Project. 
+W02,620,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:23:47.462834900+01:00,Thibaut	Noël,3.9000000000000004,Good speaking speed. Liked that you explained the different types of taxes in detail. But the Questions from Olat were missing. or when they were included maybe quickly state that when you answer a question from Olat
+W02,621,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-04 20:28:41.754409900+01:00,Valerio Fabian	Schumacher,4.0,I liked that you first presented the Regulations that already exist and then the ones which might come up. And that you didnt get stressed because we ran overtime. But for next time maybe state when you answer a question from Olat. 
