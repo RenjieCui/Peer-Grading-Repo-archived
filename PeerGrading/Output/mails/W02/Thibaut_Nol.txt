@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Thibaut	Noël,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 39
+- Number of reviewers: 40
 - Final score (weighted): 4.82 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.87
-- Q2_2: 4.46
-- Q2_3: 4.82
-- Q3_1: 4.77
+- Q2_1: 4.88
+- Q2_2: 4.47
+- Q2_3: 4.83
+- Q3_1: 4.78
 - Q3_2: 4.92
-- Q3_3: 4.82
-- Q4  : 4.87
+- Q3_3: 4.83
+- Q4  : 4.88
 
 Comments:
 1. Speaks really understandable, nice examples
@@ -55,6 +55,7 @@ Comments:
 37. Great presentation and very interesting topic. The questions were well addressed. However, it was quite dense for the time slot.
 38. Good speaking speed. Liked that you explained the different types of taxes in detail. But the Questions from Olat were missing. or when they were included maybe quickly state that when you answer a question from Olat
 39. Very technical presentation but the key points were explained clearly and effectively.
+40. Great presentation!
 
 Best regards,
 Course team

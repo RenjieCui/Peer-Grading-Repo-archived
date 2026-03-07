@@ -1,5 +1,21 @@
 week_id,PresenterChoice,score,ts_utc,ts_local,ResponseId,RaterEmail,RaterName,Comment
 W01,Arda	Aydin,1.0,2026-02-19 14:35:52.521933200+00:00,2026-02-19 15:35:52.521933200+01:00,2,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,test2222
+W02,Ellette	Sidler-Dever,4.800000000000001,2026-03-01 11:02:19.083754600+00:00,2026-03-01 12:02:19.083754600+01:00,259,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,The presentation was really well-made and the way she handled it verbally was really good
+W02,Shabiju	Anandarajan,4.2,2026-03-01 11:03:41.394948100+00:00,2026-03-01 12:03:41.394948100+01:00,260,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"I really liked the initial hook to gain attention, it made the presentation smooth since the beginning "
+W02,Valentin	Nägeli,3.9,2026-03-01 11:05:36.384234400+00:00,2026-03-01 12:05:36.384234400+01:00,261,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"Overall it was good, but i would have tried to add some more to the data he put in the presentation"
+W02,Antoine Thomas	Chiriac,4.1,2026-03-01 11:09:12.956782600+00:00,2026-03-01 12:09:12.956782600+01:00,262,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"I liked the suggestions that were made in the final part, i would have dedicated most of the time to that and a bit less to the initial slide"
+W02,Benjamin Lucas De	Gorgey,4.800000000000001,2026-03-01 11:11:21.130081+00:00,2026-03-01 12:11:21.130081+01:00,263,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"The presentations was really good, filled with interesting examples as well. I really liked the Apple one."
+W02,Erik	Macniel,4.800000000000001,2026-03-01 11:14:05.981617200+00:00,2026-03-01 12:14:05.981617200+01:00,264,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,The example on the Canadian Wollastonite was spot on. Really liked the whole presentation.
+W02,Antoine Thomas	Chiriac,3.3000000000000003,2026-03-01 12:22:21.474132700+00:00,2026-03-01 13:22:21.474132700+01:00,265,ting.liang@uzh.ch,ting.liang@uzh.ch,resent some targeted case studies.
+W02,Shabiju	Anandarajan,4.2,2026-03-01 12:30:53.564850700+00:00,2026-03-01 13:30:53.564850700+01:00,266,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
+W02,Antoine Thomas	Chiriac,4.6,2026-03-01 12:31:12.528469+00:00,2026-03-01 13:31:12.528469+01:00,267,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Well done
+W02,Ellette	Sidler-Dever,3.4000000000000004,2026-03-01 12:31:40.899863300+00:00,2026-03-01 13:31:40.899863300+01:00,268,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
+W02,Erik	Macniel,4.0,2026-03-01 12:31:58.357706+00:00,2026-03-01 13:31:58.357706+01:00,269,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Well spoken
+W02,Benjamin Lucas De	Gorgey,4.0,2026-03-01 12:32:15.875777400+00:00,2026-03-01 13:32:15.875777400+01:00,270,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
+W02,Valentin	Nägeli,3.4000000000000004,2026-03-01 13:16:54.908895500+00:00,2026-03-01 14:16:54.908895500+01:00,271,ting.liang@uzh.ch,ting.liang@uzh.ch,It would be better to have more data to support this point.
+W02,Erik	Macniel,3.4000000000000004,2026-03-01 13:20:12.619199400+00:00,2026-03-01 14:20:12.619199400+01:00,272,ting.liang@uzh.ch,ting.liang@uzh.ch,Share some real examples related to the topic.
+W02,Benjamin Lucas De	Gorgey,3.2,2026-03-01 13:23:01.924719500+00:00,2026-03-01 14:23:01.924719500+01:00,273,ting.liang@uzh.ch,ting.liang@uzh.ch,Consider adding some audience interaction.
+W02,Ellette	Sidler-Dever,3.3000000000000003,2026-03-01 13:40:31.733019200+00:00,2026-03-01 14:40:31.733019200+01:00,274,ting.liang@uzh.ch,ting.liang@uzh.ch,More data would make it stronger.
 W01,Valentin	Nägeli,4.300000000000001,2026-02-23 14:07:59+00:00,2026-02-23 15:07:59+01:00,3,stefanie.ruede@uzh.ch,Stefanie Rüde,Clear explanations and mention key facts 
 W01,Valentin	Nägeli,3.9,2026-02-23 14:08:01+00:00,2026-02-23 15:08:01+01:00,4,dylan.ashraf@uzh.ch,Dylan Ashraf,"Well presented, could speak more freely"
 W01,Valentin	Nägeli,5.0,2026-02-23 14:08:01+00:00,2026-02-23 15:08:01+01:00,5,benjaminlucasde.gorgey@uzh.ch,Benjamin Lucas De Gorgey,Good presentation
@@ -251,22 +267,6 @@ W01,Ellette	Sidler-Dever,4.0,2026-02-24 10:36:04+00:00,2026-02-24 11:36:04+01:00
 W01,Erik	Macniel,5.0,2026-02-24 10:37:52+00:00,2026-02-24 11:37:52+01:00,253,elisa.repele@uzh.ch,Elisa Repele,"I liked the introduction, which included a real case study and explained the importance of the topic, and the conceptual takeaways at the end."
 W01,Benjamin Lucas De	Gorgey,5.0,2026-02-24 10:39:37+00:00,2026-02-24 11:39:37+01:00,254,elisa.repele@uzh.ch,Elisa Repele,I learned something new :) 
 W01,Shabiju	Anandarajan,3.7,2026-02-26 14:28:08.505451+00:00,2026-02-26 15:28:08.505451+01:00,255,arda.aydin@uzh.ch,arda.aydin@uzh.ch,"The presentation was not entirely effective because his voice often faded, and the responses to questions were not sufficiently comprehensive."
-W02,Ellette	Sidler-Dever,4.800000000000001,2026-03-01 11:02:19.083754600+00:00,2026-03-01 12:02:19.083754600+01:00,259,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,The presentation was really well-made and the way she handled it verbally was really good
-W02,Shabiju	Anandarajan,4.2,2026-03-01 11:03:41.394948100+00:00,2026-03-01 12:03:41.394948100+01:00,260,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"I really liked the initial hook to gain attention, it made the presentation smooth since the beginning "
-W02,Valentin	Nägeli,3.9,2026-03-01 11:05:36.384234400+00:00,2026-03-01 12:05:36.384234400+01:00,261,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"Overall it was good, but i would have tried to add some more to the data he put in the presentation"
-W02,Antoine Thomas	Chiriac,4.1,2026-03-01 11:09:12.956782600+00:00,2026-03-01 12:09:12.956782600+01:00,262,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"I liked the suggestions that were made in the final part, i would have dedicated most of the time to that and a bit less to the initial slide"
-W02,Benjamin Lucas De	Gorgey,4.800000000000001,2026-03-01 11:11:21.130081+00:00,2026-03-01 12:11:21.130081+01:00,263,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,"The presentations was really good, filled with interesting examples as well. I really liked the Apple one."
-W02,Erik	Macniel,4.800000000000001,2026-03-01 11:14:05.981617200+00:00,2026-03-01 12:14:05.981617200+01:00,264,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,The example on the Canadian Wollastonite was spot on. Really liked the whole presentation.
-W02,Antoine Thomas	Chiriac,3.3000000000000003,2026-03-01 12:22:21.474132700+00:00,2026-03-01 13:22:21.474132700+01:00,265,ting.liang@uzh.ch,ting.liang@uzh.ch,resent some targeted case studies.
-W02,Shabiju	Anandarajan,4.2,2026-03-01 12:30:53.564850700+00:00,2026-03-01 13:30:53.564850700+01:00,266,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
-W02,Antoine Thomas	Chiriac,4.6,2026-03-01 12:31:12.528469+00:00,2026-03-01 13:31:12.528469+01:00,267,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Well done
-W02,Ellette	Sidler-Dever,3.4000000000000004,2026-03-01 12:31:40.899863300+00:00,2026-03-01 13:31:40.899863300+01:00,268,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
-W02,Erik	Macniel,4.0,2026-03-01 12:31:58.357706+00:00,2026-03-01 13:31:58.357706+01:00,269,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Well spoken
-W02,Benjamin Lucas De	Gorgey,4.0,2026-03-01 12:32:15.875777400+00:00,2026-03-01 13:32:15.875777400+01:00,270,dylan.ashraf@uzh.ch,dylan.ashraf@uzh.ch,Good
-W02,Valentin	Nägeli,3.4000000000000004,2026-03-01 13:16:54.908895500+00:00,2026-03-01 14:16:54.908895500+01:00,271,ting.liang@uzh.ch,ting.liang@uzh.ch,It would be better to have more data to support this point.
-W02,Erik	Macniel,3.4000000000000004,2026-03-01 13:20:12.619199400+00:00,2026-03-01 14:20:12.619199400+01:00,272,ting.liang@uzh.ch,ting.liang@uzh.ch,Share some real examples related to the topic.
-W02,Benjamin Lucas De	Gorgey,3.2,2026-03-01 13:23:01.924719500+00:00,2026-03-01 14:23:01.924719500+01:00,273,ting.liang@uzh.ch,ting.liang@uzh.ch,Consider adding some audience interaction.
-W02,Ellette	Sidler-Dever,3.3000000000000003,2026-03-01 13:40:31.733019200+00:00,2026-03-01 14:40:31.733019200+01:00,274,ting.liang@uzh.ch,ting.liang@uzh.ch,More data would make it stronger.
 W02,Mathilda	Blaser,5.0,2026-03-02 14:02:20.392262300+00:00,2026-03-02 15:02:20.392262300+01:00,275,anna-lea.woelfle@uzh.ch,anna-lea.woelfle@uzh.ch,Great Question from OLAT
 W02,Mathilda	Blaser,5.0,2026-03-02 14:03:35.568511200+00:00,2026-03-02 15:03:35.568511200+01:00,276,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,"Easy to understand figures, great usage of olat questions"
 W02,Mathilda	Blaser,4.2,2026-03-02 14:03:56.106264100+00:00,2026-03-02 15:03:56.106264100+01:00,277,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,"Very informative, however voice was a bit too monotone"
@@ -614,6 +614,21 @@ W02,Laura	Jurkovic,3.9,2026-03-04 19:14:18.817391400+00:00,2026-03-04 20:14:18.8
 W02,Riccardo Luca	Mettler,4.0,2026-03-04 19:18:52.566033700+00:00,2026-03-04 20:18:52.566033700+01:00,619,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,Good speaking speed. Good explanation of external and internal Offset Project. 
 W02,Thibaut	Noël,3.9,2026-03-04 19:23:47.462834900+00:00,2026-03-04 20:23:47.462834900+01:00,620,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,Good speaking speed. Liked that you explained the different types of taxes in detail. But the Questions from Olat were missing. or when they were included maybe quickly state that when you answer a question from Olat
 W02,Valerio Fabian	Schumacher,4.0,2026-03-04 19:28:41.754409900+00:00,2026-03-04 20:28:41.754409900+01:00,621,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,I liked that you first presented the Regulations that already exist and then the ones which might come up. And that you didnt get stressed because we ran overtime. But for next time maybe state when you answer a question from Olat. 
+W02,Mathilda	Blaser,4.7,2026-03-06 13:32:23.216207800+00:00,2026-03-06 14:32:23.216207800+01:00,622,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The information was well prepared and clearly presented.
+W02,Carla Andrea	Welter,4.300000000000001,2026-03-06 13:34:10.783584800+00:00,2026-03-06 14:34:10.783584800+01:00,623,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The speaker showed good confidence while presenting.
+W02,Emma Denise	Gilljam Tall,4.2,2026-03-06 13:35:18.454138+00:00,2026-03-06 14:35:18.454138+01:00,624,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,Good balance between visuals and spoken explanation.
+W02,Jan-Akim Albert	Reimer,4.7,2026-03-06 13:36:42.382810100+00:00,2026-03-06 14:36:42.382810100+01:00,625,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The presentation was interesting and engaging.
+W02,Mathilda	Blaser,5.0,2026-03-06 13:37:34.391137800+00:00,2026-03-06 14:37:34.391137800+01:00,626,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Lara	Schlatter,4.1,2026-03-06 13:37:42.697450300+00:00,2026-03-06 14:37:42.697450300+01:00,627,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The presentation showed good preparation and effort.
+W02,Laura	Jurkovic,4.1,2026-03-06 13:38:55.083070300+00:00,2026-03-06 14:38:55.083070300+01:00,628,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The speaker communicated the ideas clearly and effectively.
+W02,Carla Andrea	Welter,5.0,2026-03-06 13:39:43.548632600+00:00,2026-03-06 14:39:43.548632600+01:00,629,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Riccardo Luca	Mettler,4.2,2026-03-06 13:40:29.189610100+00:00,2026-03-06 14:40:29.189610100+01:00,630,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,The examples helped to understand the topic better.
+W02,Emma Denise	Gilljam Tall,5.0,2026-03-06 13:41:12.705930200+00:00,2026-03-06 14:41:12.705930200+01:00,631,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Jan-Akim Albert	Reimer,5.0,2026-03-06 13:41:43.637433900+00:00,2026-03-06 14:41:43.637433900+01:00,632,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Thibaut	Noël,4.0,2026-03-06 13:41:49.256749700+00:00,2026-03-06 14:41:49.256749700+01:00,633,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,Very technical presentation but the key points were explained clearly and effectively.
+W02,Lara	Schlatter,5.0,2026-03-06 13:42:11.338787600+00:00,2026-03-06 14:42:11.338787600+01:00,634,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Riccardo Luca	Mettler,5.0,2026-03-06 13:42:40.945788500+00:00,2026-03-06 14:42:40.945788500+01:00,635,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Valerio Fabian	Schumacher,4.0,2026-03-06 13:42:48.334739800+00:00,2026-03-06 14:42:48.334739800+01:00,636,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,Well delivered and easy to follow.
 W01,Valentin	Nägeli,4.300000000000001,2026-02-23 14:07:59+00:00,2026-02-23 15:07:59+01:00,3,stefanie.ruede@uzh.ch,Stefanie Rüde,Clear explanations and mention key facts 
 W01,Valentin	Nägeli,3.9000000000000004,2026-02-23 14:08:01+00:00,2026-02-23 15:08:01+01:00,4,dylan.ashraf@uzh.ch,Dylan Ashraf,"Well presented, could speak more freely"
 W01,Valentin	Nägeli,5.0,2026-02-23 14:08:01+00:00,2026-02-23 15:08:01+01:00,5,benjaminlucasde.gorgey@uzh.ch,Benjamin Lucas De Gorgey,Good presentation
@@ -1227,3 +1242,5 @@ W02,Thibaut	Noël,4.0,2026-03-06 13:41:49.256749700+00:00,2026-03-06 14:41:49.25
 W02,Lara	Schlatter,5.0,2026-03-06 13:42:11.338787600+00:00,2026-03-06 14:42:11.338787600+01:00,634,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
 W02,Riccardo Luca	Mettler,5.0,2026-03-06 13:42:40.945788500+00:00,2026-03-06 14:42:40.945788500+01:00,635,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
 W02,Valerio Fabian	Schumacher,4.0,2026-03-06 13:42:48.334739800+00:00,2026-03-06 14:42:48.334739800+01:00,636,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,Well delivered and easy to follow.
+W02,Thibaut	Noël,5.0,2026-03-06 13:44:22.369353+00:00,2026-03-06 14:44:22.369353+01:00,637,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
+W02,Valerio Fabian	Schumacher,5.0,2026-03-06 13:49:18.730745800+00:00,2026-03-06 14:49:18.730745800+01:00,638,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,Great presentation!
