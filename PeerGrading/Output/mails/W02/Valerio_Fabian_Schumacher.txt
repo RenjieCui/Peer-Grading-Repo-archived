@@ -3,17 +3,17 @@ Subject: Peer feedback summary (W02)
 Hi Valerio Fabian	Schumacher,
 
 Here is your peer-assessment summary for W02:
-- Number of reviewers: 39
-- Final score (weighted): 4.65 / 5.00
+- Number of reviewers: 40
+- Final score (weighted): 4.66 / 5.00
 
 Per-question averages (1–5):
-- Q2_1: 4.69
-- Q2_2: 4.56
-- Q2_3: 4.64
-- Q3_1: 4.69
-- Q3_2: 4.59
-- Q3_3: 4.77
-- Q4  : 4.64
+- Q2_1: 4.70
+- Q2_2: 4.58
+- Q2_3: 4.65
+- Q3_1: 4.70
+- Q3_2: 4.60
+- Q3_3: 4.78
+- Q4  : 4.65
 
 Comments:
 1. it was well explained, timed it well, covered the important parts as well
@@ -54,6 +54,7 @@ Comments:
 36. Good presentation, though the slides were a little hard to keep up with due to the time constraints.
 37. I liked that you first presented the Regulations that already exist and then the ones which might come up. And that you didnt get stressed because we ran overtime. But for next time maybe state when you answer a question from Olat.
 38. Well delivered and easy to follow.
+39. Great presentation!
 
 Best regards,
 Course team
