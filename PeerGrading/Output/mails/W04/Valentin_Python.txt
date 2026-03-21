@@ -1,0 +1,62 @@
+Subject: Peer feedback summary (W04)
+
+Hi Valentin	Python,
+
+Here is your peer-assessment summary for W04:
+- Number of reviewers: 41
+- Final score (weighted): 4.67 / 5.00
+
+Per-question averages (1–5):
+- Q2_1: 4.85
+- Q2_2: 4.73
+- Q2_3: 4.66
+- Q3_1: 4.66
+- Q3_2: 4.63
+- Q3_3: 4.49
+- Q4  : 4.66
+
+Comments:
+1. good
+2. Took into account what we already learnt during the course and went straight to the core of his presentation. Very clear and clean slides - nothing to add!
+3. Nicely adapted to content of the course (e.g. skipping definition)
+4. I Like how you implemented the student questions throughout the slideshow labeled with green stars
+5. The presenter demonstrated a strong understanding of the topic. Overall, it was a solid and well-executed presentation.
+6. .
+7. nice idea use the stars, good presentation
+8. Great attention to answering students' questions during the presentation
+9. Very in depth explanation and informative slides, however too deep and slides too loaded, bit difficult to follow
+10. try making more eye contact with the crowd
+11. Very well and calm spoken, not nervous at all. Nice examples used
+12. good explanations, calmly spoken, slides a little full
+13. Good examples.
+14. well structured presentation & nice presentation style, (your last name is so cool)
+15. Good presentation, would have like to see more visual representations of concepts
+16. I appreciated how you adjusted your presentation to present the newest information. I didn't know about mandatory LCA requirements within Europe. I appreciate how you covered so many of OLAT questions.
+17. Good slides, freely spoken, good presentation skills
+18. Thank you !
+19. -
+20. Good examples
+21. The presentation style and slides were great!
+22. Good overview of key LCA challenges and strong link to the ISO framework
+23. Competently presented and very easy to follow.
+24. Unclear what the stars on slide 4&5 are about, maybe include some images, well explained tables
+25. -
+26. nice background knowledge
+27. very nicely presented
+28. good presentation
+29. Very well spoken
+30. Nice presentation, nice background knowledge. Excellent job
+31. Did a great job discussing the topic and answering the questions
+32. You addressed well the main key points, thank you!
+33. I like the connection of the green stars that answer the questions, but could be also confusing
+34. In general good, was calm and confident
+35. Great presentation
+36. very nice presentation
+37. Great presentation! Very clear and engaging. Well done!
+38. Good overview
+39. structured slides
+40. Great explanation of the topic
+41. good presentation, visuals not that special
+
+Best regards,
+Course team
