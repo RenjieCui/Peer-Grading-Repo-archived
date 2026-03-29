@@ -1,5 +1,338 @@
-week_id,ResponseId,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
-W05,10,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-22 20:45:42.884235200+01:00,Gizem	Topsakal,3.8,testestest
-W05,11,anargyros.megalios@uzh.ch,anargyros.megalios@uzh.ch,2026-03-22 20:45:42.884235200+01:00,Gizem	Topsakal,5.0,testestest
-W05,11,anargyros.megalios@uzh.ch,anargyros.megalios@uzh.ch,2026-03-22 20:45:42.884235200+01:00,"Jan-Akim Albert Reimer
-",4.0,testestest
+week_id,Responseid,RaterName,RaterEmail,_ts_local,PresenterChoice,score,Comment
+W05,977,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:02:17.978549800+01:00,Achille	Desbrières,5.0,Good breakdown of a very broad and complicated topic
+W05,978,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:02:44.448655+01:00,Achille	Desbrières,5.0,nice
+W05,979,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:02:49.625610700+01:00,Achille	Desbrières,4.800000000000001,"Clean slides, well done, found alot of text on the slides though"
+W05,980,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:03:48.215525300+01:00,Achille	Desbrières,5.0,The slides were very well made. I encourage you to practice a bit more before presenting. This will help with the pace of the presentation. Really enjoyed the real life examples.
+W05,981,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:05:37.355228900+01:00,Achille	Desbrières,4.0,.
+W05,982,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:05:42.650026700+01:00,Achille	Desbrières,4.300000000000001,good but a bit too much text on the slides.
+W05,983,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:05:53.888310100+01:00,Achille	Desbrières,4.9,Slides were very clear and easy to follow! Strong visuals. 
+W05,984,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:06:09.912160700+01:00,Achille	Desbrières,4.1,"Interesting topic, did read a lot from the presentation which interrupted the flow a bit"
+W05,985,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:06:11.686490600+01:00,Achille	Desbrières,3.3000000000000003,Little eye contact and too hestitant in explanations
+W05,986,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:06:16.765007300+01:00,Achille	Desbrières,4.1,-
+W05,987,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:06:21.208007700+01:00,Achille	Desbrières,5.0,"Very interesting topic, easy to follow"
+W05,988,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:06:24.452024600+01:00,Achille	Desbrières,4.2,"visuals were hard to follow, structure could be better"
+W05,989,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:06:24.610438800+01:00,Achille	Desbrières,4.9,Merci beaucoup pour ta belle présentation Achille !
+W05,990,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:06:25.505838400+01:00,Achille	Desbrières,4.300000000000001,nice slides
+W05,991,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:06:25.516799600+01:00,Achille	Desbrières,4.2,visuals hard to follow
+W05,992,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:06:25.717564500+01:00,Achille	Desbrières,5.0,belle présentation
+W05,993,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:06:27.682514700+01:00,Achille	Desbrières,5.0,He did a really good job of addressing the question and was right on time. Great job
+W05,996,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:06:27.867041+01:00,Achille	Desbrières,5.0,Excellent
+W05,994,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:06:27.888113200+01:00,Achille	Desbrières,5.0,Nice Slides
+W05,995,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:06:27.965018200+01:00,Achille	Desbrières,4.800000000000001,-
+W05,997,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:06:28.559538400+01:00,Achille	Desbrières,4.1,Nicel slides
+W05,998,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:06:29.463437400+01:00,Achille	Desbrières,5.0,"I liked your practice examples, maybe include some more visuals instead of only text"
+W05,999,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:06:34.596202100+01:00,Achille	Desbrières,5.0,Interesting
+W05,1000,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:06:34.807161900+01:00,Achille	Desbrières,4.9,-
+W05,1001,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:06:37.884877700+01:00,Achille	Desbrières,4.2,"you could face the audience more and keep more eye contact, but the presentation was very good and interesting and I learned a lot!"
+W05,1002,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:06:45.085765800+01:00,Achille	Desbrières,2.8,Nice Claude AI slides. Speak more freely and look at the crowd.
+W05,1003,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:06:45.646183100+01:00,Achille	Desbrières,4.9,I liked the visuals a lot!
+W05,1004,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:06:46.938694+01:00,Achille	Desbrières,4.9,"nice slides, good explanations, good illustrations, looked a bit too much on slide instead of crowd"
+W05,1005,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:06:47.783258900+01:00,Achille	Desbrières,4.2,"Texts a bit small, using different colors as a background is a bit distracting, interesting chiude of questions "
+W05,1006,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:06:51.293007+01:00,Achille	Desbrières,4.0,good implementation of the olat questions and interesting examples used 
+W05,1007,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:06:53.415852900+01:00,Achille	Desbrières,4.2,good presentation
+W05,1008,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:06:59.326897600+01:00,Achille	Desbrières,3.0,"Looks like a claude presentation, where are the sources?"
+W05,1009,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:06:59.783166900+01:00,Achille	Desbrières,4.0,"written text could have been larger, but overall good"
+W05,1010,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:07:00.575464700+01:00,Achille	Desbrières,4.9,-
+W05,1011,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:07:01.938805+01:00,Achille	Desbrières,4.2,"clear structure and logical flow; clearly showed that AI is not just about efficiency, but about enabling coordination across multiple actors in the supply chain"
+W05,1012,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:07:07.565579900+01:00,Achille	Desbrières,4.9,good explanations 
+W05,1013,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:07:25.622574+01:00,Achille	Desbrières,4.2,Was a bit shy
+W05,1014,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:07:27.163074400+01:00,Achille	Desbrières,3.2,nice presentation. It would have been nice if you talk a little more to the audience in your presentation style. it looks like an ai presentation
+W05,1015,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:10:25.780122700+01:00,Alejandro	Caicedo Murgueitio,5.0,-
+W05,1016,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:10:33.041430400+01:00,Alejandro	Caicedo Murgueitio,5.0,"Good introduction with examples, love your gestures"
+W05,1017,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:11:21.172950300+01:00,Alejandro	Caicedo Murgueitio,4.7,--
+W05,1018,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:11:36.769860200+01:00,Alejandro	Caicedo Murgueitio,5.0,I love your energy. It made your presentation super engaging. This is a great real life example.
+W05,1019,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:11:44.982325700+01:00,Alejandro	Caicedo Murgueitio,5.0,"Great real life examples  of well known companies helped to understand the material, good talking speed"
+W05,1020,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:11:58.499036700+01:00,Alejandro	Caicedo Murgueitio,5.0,well explained topic 
+W05,1021,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:12:06.358090600+01:00,Alejandro	Caicedo Murgueitio,5.0,Thank you for this very interesting presentation Ale !
+W05,1022,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:12:06.614728300+01:00,Alejandro	Caicedo Murgueitio,5.0,"Nice Case, good presentation skills"
+W05,1023,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:12:06.712163500+01:00,Alejandro	Caicedo Murgueitio,5.0,Very good! Very well spoken and enthusiastic 
+W05,1024,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:12:07.049022100+01:00,Alejandro	Caicedo Murgueitio,5.0,Really knew your topic great enthusiasm and eye contact with audience 
+W05,1025,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:12:09.763380900+01:00,Alejandro	Caicedo Murgueitio,5.0,Well done; interesting case studies and confidently presented
+W05,1027,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:12:10.432610800+01:00,Alejandro	Caicedo Murgueitio,5.0,"engaging presentation, very interesting!!"
+W05,1026,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:12:10.699423500+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,great examples and illustrations
+W05,1028,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:12:11.912274700+01:00,Alejandro	Caicedo Murgueitio,5.0,Good slides
+W05,1029,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:12:12.206091900+01:00,Alejandro	Caicedo Murgueitio,5.0,nice presentation slides & presentation style! 
+W05,1030,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:12:12.860247900+01:00,Alejandro	Caicedo Murgueitio,3.9000000000000004,liked the examples used. But what again was the topic of the presentation?
+W05,1031,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:12:13.626322600+01:00,Alejandro	Caicedo Murgueitio,5.0,Excellent
+W05,1032,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:12:14.259717400+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,Very pleasant and confident presentation style
+W05,1033,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:12:15.803428400+01:00,Alejandro	Caicedo Murgueitio,4.5,Very capturing speaking and good story telling
+W05,1034,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:12:16.653452500+01:00,Alejandro	Caicedo Murgueitio,5.0,"nice slides, good explanation, very enthusiastic, nice pictures"
+W05,1035,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:12:16.769722600+01:00,Alejandro	Caicedo Murgueitio,4.9,Good eye contact and engagement with the class! well explained 
+W05,1036,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:12:18.604401100+01:00,Alejandro	Caicedo Murgueitio,4.7,"i like the way you started from the written text, but then developed the discussion further, enriching it as well with real world examples and stories"
+W05,1037,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:12:19.530894600+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,great enthusiasm and strong use of real world examples
+W05,1038,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:12:19.859947200+01:00,Alejandro	Caicedo Murgueitio,5.0,very enthusiastic and interesting to follow
+W05,1039,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:12:21.914571800+01:00,Alejandro	Caicedo Murgueitio,4.300000000000001,great enthusiasm
+W05,1040,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:12:23.252493300+01:00,Alejandro	Caicedo Murgueitio,4.300000000000001,Nice
+W05,1041,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:12:23.333158800+01:00,Alejandro	Caicedo Murgueitio,5.0,I really liked how he brought in Pepsi co and did a great job of speaking well. 
+W05,1042,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:12:27.367700100+01:00,Alejandro	Caicedo Murgueitio,4.5,good explanations
+W05,1043,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:12:27.402984+01:00,Alejandro	Caicedo Murgueitio,4.2,"You made great eye contact and spoke very authentically and enthusiastically, I liked the slides as well!"
+W05,1044,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:12:33.586045+01:00,Alejandro	Caicedo Murgueitio,4.300000000000001,"Good examples and good way to use them to introduce the topic, maybe too much gesticulation"
+W05,1045,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:12:33.830781800+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,"I liked that you were optimistic and include examples, it made it easy to follow! "
+W05,1046,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:12:44.285644700+01:00,Alejandro	Caicedo Murgueitio,4.6,"Confident presentation style, perhaps a bit rushed"
+W05,1047,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:12:44.695391700+01:00,Alejandro	Caicedo Murgueitio,5.0,great energy
+W05,1048,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:12:48.615359300+01:00,Alejandro	Caicedo Murgueitio,5.0,.
+W05,1049,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:12:51.215578300+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,"Great presentation style, freely spoken and enjoyable. However a bit too long"
+W05,1050,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:12:51.457362300+01:00,Alejandro	Caicedo Murgueitio,5.0,engaging presentation!  very good presentation style! 
+W05,1051,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:13:07.217535100+01:00,Alejandro	Caicedo Murgueitio,4.4,"Very freely spoken, very interesting to listen to."
+W05,1052,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:13:19.513142700+01:00,Carl William Lindström,5.0,great hook
+W05,1053,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:13:20.916140200+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,Great presentation! Clear and interesting. 
+W05,1054,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:13:45.677954+01:00,Carl William Lindström,5.0,"Great introduction, currently relevant topic breaked down to easily understand it "
+W05,1055,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:13:50.668320700+01:00,Alejandro	Caicedo Murgueitio,4.800000000000001,presentation was enriched by interesting examples
+W05,1056,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:14:26.649124+01:00,Carl William Lindström,4.9,I like that you used external cites and sourced them in your presentation 
+W05,1057,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:15:37.113002500+01:00,Carl William Lindström,5.0,I like the introduction to the topic because it pulled me in. Interesting stats and it shows how impactful tariffs can be on trade. For next time review the slides as sometimes formatting was a bit awkward. 
+W05,1058,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:15:38.378572900+01:00,Carl William Lindström,5.0,Good visuals! 
+W05,1059,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:16:00.716918300+01:00,Carl William Lindström,5.0,"Excellent presentation. Very clear, and the slides really helped with understanding."
+W05,1060,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:16:07.197558700+01:00,Carl William Lindström,4.0,.
+W05,1061,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:16:56.530698100+01:00,Carl William Lindström,4.1,"he developed the text in each slide with a deeper discussion, overall it's a good presentation, but i would make the visual easier to follow by taking care of the design"
+W05,1062,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:17:13.781372400+01:00,Carl William Lindström,5.0,Well done
+W05,1063,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:17:23.651815+01:00,Carl William Lindström,4.9,Great slides 
+W05,1064,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:17:25.728100700+01:00,Carl William Lindström,5.0,"Interesting presentation, thank you!"
+W05,1065,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:17:26.408713500+01:00,Carl William Lindström,5.0,I really liked the slides and he did a great job with the questions. 
+W05,1066,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:17:26.722956+01:00,Carl William Lindström,4.800000000000001,"great presentation, maybe talk more freely in the future"
+W05,1067,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:17:27.586437300+01:00,Carl William Lindström,4.9,"Could look more to the audience, good presentation content"
+W05,1068,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:17:28.132639100+01:00,Carl William Lindström,3.4000000000000004,Its a 5min presentation so you could speak freely. Nice slides
+W05,1069,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:17:29.266276600+01:00,Carl William Lindström,4.1,"Maybe next time eye contact with the audience, some slides contained small text so it was difficult to read, however the presentation was good!"
+W05,1070,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:17:30.079504200+01:00,Carl William Lindström,4.2,Great enthusiasm and conclusive style
+W05,1071,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:17:30.612581+01:00,Carl William Lindström,4.800000000000001,good start
+W05,1073,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:17:32.944423300+01:00,Carl William Lindström,5.0,"Good joooob William, the presentation was very interesting and accurate for today!!"
+W05,1072,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:17:33.135972900+01:00,Carl William Lindström,4.2,sadly you read everything
+W05,1074,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:17:33.819747600+01:00,Carl William Lindström,5.0,"Good introduction, concise argumentation"
+W05,1075,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:17:34.413837100+01:00,Carl William Lindström,3.4000000000000004,"Not spoken freely, where are the sources?"
+W05,1076,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:17:34.487265600+01:00,Carl William Lindström,4.5,-
+W05,1077,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:17:34.582233200+01:00,Carl William Lindström,4.2,Good intro but by asking a direct or hypothetical question eyecontact is quite important
+W05,1078,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:17:41.565419500+01:00,Carl William Lindström,4.2,perfect timing and well presented
+W05,1079,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:17:42.663874200+01:00,Carl William Lindström,5.0,Thank you Carl for this very good presentation !
+W05,1080,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:17:43.283681700+01:00,Carl William Lindström,3.2,Only reading no presentation. Slides are not formated correctly.   
+W05,1081,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:17:46.635750400+01:00,Carl William Lindström,4.9,-
+W05,1082,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:17:47.424370100+01:00,Carl William Lindström,4.9,"Interesting topic, the text was read off, bit more interaction with the crowd would've been nice "
+W05,1083,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:17:51.625755500+01:00,Carl William Lindström,4.4,"nice structure, could benefit from more freely talking"
+W05,1084,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:17:53.299341600+01:00,Carl William Lindström,4.9,-
+W05,1085,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:17:56.355591500+01:00,Carl William Lindström,5.0,Competently Presented
+W05,1086,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:17:57.208253400+01:00,Carl William Lindström,4.2,"strong use of data and statistics, could improve presentation skills "
+W05,1087,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:17:58.403590600+01:00,Carl William Lindström,4.1,"Reading the presentation sounds robotic and not entertaining, texts too small, key takeways at the end helps to sum up and understand "
+W05,1088,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:18:00.869194800+01:00,Carl William Lindström,3.8000000000000003,"Reading, did not have any eye contact makes it a bit disturbing"
+W05,1089,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:18:02.663176900+01:00,Carl William Lindström,5.0,"nice slides, good explanation, you we're reading a bit too much, interesting examples"
+W05,1090,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:18:17.184209500+01:00,Carl William Lindström,3.3000000000000003,The presentation style was definitely missing
+W05,1091,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:19:13.873238700+01:00,Elisa	Repele,5.0,"Very nice presentation slides!! Interesting presentation, thank you!"
+W05,1092,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:19:18.920241800+01:00,Carl William Lindström,4.300000000000001,-
+W05,1093,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:20:32.205377900+01:00,Elisa	Repele,5.0,-
+W05,1094,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:20:49.049928900+01:00,Elisa	Repele,5.0,Great use of fundamental microeconomical concepts 
+W05,1095,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:21:01.948166600+01:00,Elisa	Repele,4.2,.
+W05,1096,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:21:18.664913+01:00,Elisa	Repele,5.0,well explained topic with a good indroduction
+W05,1097,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:22:49.739969200+01:00,Elisa	Repele,4.1,"i would write slightly less on the slides, in order to make it easier to follow, but overall good job"
+W05,1098,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:23:04.500645100+01:00,Elisa	Repele,5.0,I like your slides. The structure of your topic was nice and I especially liked how you used an olat question to set up your topic. The use of game theory to understand this topic was very interesting.
+W05,1099,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:23:08.131285+01:00,Elisa	Repele,5.0,Excellent
+W05,1100,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:23:08.352025400+01:00,Elisa	Repele,5.0,Good presentation
+W05,1101,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:23:08.724610200+01:00,Elisa	Repele,4.0,Great overview of topic
+W05,1102,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:23:12.413303+01:00,Elisa	Repele,4.800000000000001,Nice way to implement submitted questions on OLAT step by step
+W05,1103,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:23:14.228025300+01:00,Elisa	Repele,4.0,"Needs maybe images, too much written on the slides, highilight the important part can help to understand the key tkeaways "
+W05,1104,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:23:14.324396300+01:00,Elisa	Repele,5.0,"nice slides, good explanation, good answers to questions "
+W05,1105,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:23:14.829473200+01:00,Elisa	Repele,3.9000000000000004,A bit loaded slides
+W05,1106,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:23:15.429277200+01:00,Elisa	Repele,4.300000000000001,"You could de more eye contact with the audience, but i really liked your presentation and your slides were very good and beautiful!"
+W05,1107,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:23:17.980792200+01:00,Elisa	Repele,5.0,Supér
+W05,1109,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:23:18.822512900+01:00,Elisa	Repele,4.9,"Good presentation, I especially liked the part about game theory and prisoners dilemma!"
+W05,1108,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:23:18.829345600+01:00,Elisa	Repele,4.1,good explanations
+W05,1110,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:23:19.486939600+01:00,Elisa	Repele,3.9000000000000004,Good presentation but could have spoken more freely
+W05,1111,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:23:20.030309+01:00,Elisa	Repele,4.1,-
+W05,1112,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:23:21.917466400+01:00,Elisa	Repele,3.7,decent presentation
+W05,1113,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:23:23.152720400+01:00,Elisa	Repele,4.300000000000001,Good
+W05,1114,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:23:24.470197100+01:00,Elisa	Repele,4.7,Nice slides and good presentation style. 
+W05,1115,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:23:24.498962500+01:00,Elisa	Repele,4.300000000000001,You spoke a bit too fast but your presentation was very good (and a bit too theoritical) !
+W05,1116,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:23:25.452964400+01:00,Elisa	Repele,4.300000000000001,- 
+W05,1117,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:23:27.655812900+01:00,Elisa	Repele,5.0,nice slides
+W05,1118,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:23:29.423314400+01:00,Elisa	Repele,4.1,"strong conceptual framing and using concepts from game theory helped explain why collaboration is difficult in practice, even when it is beneficial"
+W05,1119,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:23:30.291644500+01:00,Elisa	Repele,4.9,Liked your conclusion
+W05,1120,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:23:32.975477300+01:00,Elisa	Repele,4.4,"great presentation, however could have been slightly more freely spoken"
+W05,1121,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:23:33.386462800+01:00,Elisa	Repele,5.0,well done
+W05,1122,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:23:41.934828500+01:00,Elisa	Repele,5.0,Good PowerPoint and easy to follow
+W05,1123,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:23:46.564469600+01:00,Elisa	Repele,5.0,nice visuals
+W05,1124,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:23:47.567124800+01:00,Elisa	Repele,5.0,She’s did a good job presenting and I feel like I learned a lot from this. 
+W05,1125,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:23:59.969786500+01:00,Elisa	Repele,5.0,Great presentation ! 
+W05,1126,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:24:02.624203500+01:00,Elisa	Repele,4.0,"nice presentation.nicely explained but you could have spoken more freely, too much text on the slides  "
+W05,1127,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:24:10.549931200+01:00,Elisa	Repele,4.300000000000001,good presentation overall
+W05,1128,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:24:12.922072700+01:00,Elisa	Repele,5.0,"Great presentation, you spoke clearly and slides were nice"
+W05,1129,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:24:25.420264800+01:00,Ella	Persson,5.0,great eye contact
+W05,1130,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:24:25.762288600+01:00,Elisa	Repele,4.7,confident presentation style
+W05,1131,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:24:59.871408900+01:00,Ella	Persson,4.9,"Good eye contact with the audience, knew your stuff and was prepared!"
+W05,1132,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:25:29.091845600+01:00,Ella	Persson,5.0,well structured slides 
+W05,1133,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:26:26.726393600+01:00,Elisa	Repele,4.1,"Great presentation, clear and engaging. However, the slides were somewhat overloaded, making them a little hard to keep up with overall."
+W05,1134,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:26:45.763832700+01:00,Ella	Persson,5.0,Mycket bra!
+W05,1135,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:26:56.501007800+01:00,Ella	Persson,4.0,"You could face the audience more, but I really liked the presentation and the slides were good as well!"
+W05,1136,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:26:57.990352800+01:00,Ella	Persson,5.0,well done!
+W05,1137,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:27:31.123170100+01:00,Ella	Persson,5.0,Very interesting real life example because I didn't even know about this innovation. Can't believe three companies managed this. the emphasis on collaboration is a clear conclusion.
+W05,1138,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:27:39.648335500+01:00,Ella	Persson,5.0,"Great presentation, very interesting to hear about the Swedish steal industry!"
+W05,1139,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:27:56.971032600+01:00,Ella	Persson,5.0,"good slides, good explanation, good structured "
+W05,1140,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:27:57.444939100+01:00,Ella	Persson,5.0,very good free-talking presentation style
+W05,1141,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:27:57.986908800+01:00,Ella	Persson,5.0,"Nice slides, great explanation of the real life example "
+W05,1142,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:27:59.724360600+01:00,Ella	Persson,4.800000000000001,Thank you for your good presentation ! 
+W05,1143,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:28:00.216501600+01:00,Ella	Persson,4.9,strong and concrete case study which made the concept of supply chain collaboration tangible and impactful; effectively explained how collaboration addresses the 3 scopes
+W05,1144,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:28:02.585594600+01:00,Ella	Persson,5.0,very nice presentation style
+W05,1145,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:28:05.696710100+01:00,Ella	Persson,5.0,-
+W05,1146,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:28:05.924886+01:00,Ella	Persson,4.800000000000001,-
+W05,1147,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:28:07.572623100+01:00,Ella	Persson,5.0,Excellent presentation! 
+W05,1148,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:28:08.409498400+01:00,Ella	Persson,5.0,"Nice slides, good examples"
+W05,1149,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:28:11.150755100+01:00,Ella	Persson,5.0,interesting topic and great implementation of the olat questions
+W05,1150,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:28:12.056017600+01:00,Ella	Persson,4.9,Very nicely presented
+W05,1151,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:28:12.126665+01:00,Ella	Persson,4.0,"Spoken freely, good slides. I also liked the example"
+W05,1152,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:28:17.674969700+01:00,Ella	Persson,4.300000000000001,-
+W05,1153,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:28:17.729007300+01:00,Ella	Persson,4.800000000000001,great job 
+W05,1154,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:28:20.416958300+01:00,Ella	Persson,5.0,"Good structure, nice presentation style"
+W05,1155,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:28:20.739926400+01:00,Ella	Persson,4.800000000000001,"Freely spoken, good structure"
+W05,1156,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:28:24.487819100+01:00,Ella	Persson,4.800000000000001,good presentation
+W05,1157,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:28:28.607915500+01:00,Ella	Persson,4.7,.
+W05,1158,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:28:30.595934800+01:00,Ella	Persson,4.0,great practical insight
+W05,1159,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:28:31.140536800+01:00,Ella	Persson,4.9,very nice presentation style!
+W05,1160,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:28:40.560284700+01:00,Ella	Persson,5.0,You were super comfortable during your presentation and it was enjoyable
+W05,1161,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:28:41.347486100+01:00,Ella	Persson,5.0,incorporated questions nicely
+W05,1162,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:28:41.878585200+01:00,Ella	Persson,5.0,Excellent
+W05,1163,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:28:45.152605600+01:00,Ella	Persson,5.0,Informative Presentation
+W05,1164,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:28:47.740915700+01:00,Ella	Persson,5.0,"Nice to use a whole country as example, it made it much easier to follow"
+W05,1165,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:28:49.043580900+01:00,Ella	Persson,5.0,Good !
+W05,1166,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:29:02.241052600+01:00,Ella	Persson,5.0,I think she did a really good job going throught each of the questions and I learnt a lot. 
+W05,1167,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:29:16.046845100+01:00,Giacomo	Basile,5.0,well done
+W05,1168,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:29:18.737260800+01:00,Ella	Persson,4.4,"Image/graph too small, good presentation skills "
+W05,1169,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:29:48.044735500+01:00,Ella	Persson,4.9,good presentation overall
+W05,1170,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:30:25.274667700+01:00,Giacomo	Basile,5.0,interesting presentation 
+W05,1171,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:30:42.724946500+01:00,Giacomo	Basile,5.0,Figures helped to understand the content
+W05,1172,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:30:59.304194900+01:00,Giacomo	Basile,5.0,good choose of Olat questions 
+W05,1173,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:31:46.713836700+01:00,Giacomo	Basile,5.0,I like that you presented multiple views from stakeholders
+W05,1174,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:33:26.043098+01:00,Giacomo	Basile,4.5,Good
+W05,1175,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:33:42.654859200+01:00,Giacomo	Basile,5.0,-
+W05,1176,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:33:44.579463200+01:00,Giacomo	Basile,4.1,Interesting examples
+W05,1177,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:33:48.694704300+01:00,Giacomo	Basile,5.0,good visuals! well done 
+W05,1178,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:33:49.605974200+01:00,Giacomo	Basile,5.0,Simple understandable visuals
+W05,1179,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:33:50.968560800+01:00,Giacomo	Basile,3.8000000000000003,.
+W05,1180,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:33:52.763223800+01:00,Giacomo	Basile,4.1,-
+W05,1181,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:33:57.742682100+01:00,Giacomo	Basile,3.9000000000000004,good information but I was missing a bit of passion
+W05,1182,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:34:01.651150800+01:00,Giacomo	Basile,4.7,"i liked the simple style of the presentation, excellent job"
+W05,1183,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:34:02.193905900+01:00,Giacomo	Basile,5.0,"good slides, good explanation, nice illustrations, good examples"
+W05,1185,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:34:04.861138300+01:00,Giacomo	Basile,4.300000000000001,Very nice looking presentation because of its simplicity
+W05,1186,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:34:05.536654400+01:00,Giacomo	Basile,4.5,"Great presentation, however you could maybe try to be a bit more ""happy"" and engaged when presenting"
+W05,1184,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:34:06.035114600+01:00,Giacomo	Basile,3.3000000000000003,Generic answers to everything
+W05,1187,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:34:06.041682100+01:00,Giacomo	Basile,4.1,I liked your clean slides. It would have been nice if you looked more at the listeners.
+W05,1188,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:34:06.080902100+01:00,Giacomo	Basile,4.0,clear distinguishing between buyer-led collaboration and supplier led-collaboration
+W05,1189,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:34:08.964273700+01:00,Giacomo	Basile,4.2,"Easy graphs that helps to better understand and follow, voice a bit monotone"
+W05,1190,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:34:09.142936+01:00,Giacomo	Basile,4.800000000000001,"nice, clear slides"
+W05,1191,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:34:11.496162500+01:00,Giacomo	Basile,3.9000000000000004,Nothing to add
+W05,1192,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:34:11.687827500+01:00,Giacomo	Basile,4.300000000000001,"Great presentation, I liked the examples. "
+W05,1193,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:34:11.743504400+01:00,Giacomo	Basile,3.8000000000000003,Speak more freely. Good example with Patagonia
+W05,1194,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:34:13.797482400+01:00,Giacomo	Basile,5.0,Good presentation
+W05,1195,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:34:17.372145100+01:00,Giacomo	Basile,3.9000000000000004,easy to follow visuals
+W05,1196,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:34:17.798131400+01:00,Giacomo	Basile,5.0,nice slides 
+W05,1197,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:34:21.184926+01:00,Giacomo	Basile,5.0,Perfetto !
+W05,1198,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:34:21.681696200+01:00,Giacomo	Basile,4.1,"You could talk more loudly and do more eye contact with the audience, but I really liked your presentation and the slides were really good as well!"
+W05,1199,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:34:30.555321700+01:00,Giacomo	Basile,5.0,I liked his presentation and he did a great job explaining who takes the lead 
+W05,1200,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:34:31.750467800+01:00,Giacomo	Basile,4.1,Great presentation! Making it more interactive and engaging would be even better!
+W05,1201,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:34:39.066071400+01:00,Giacomo	Basile,4.2,Simple and easy to follow slides.
+W05,1202,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:34:40.449464600+01:00,Giacomo	Basile,5.0,Very good 
+W05,1203,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:34:41.264674400+01:00,Giacomo	Basile,4.4,"nice slides, I missed a little bit the joy in presenting"
+W05,1204,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:34:41.789903800+01:00,Giacomo	Basile,4.800000000000001,"nice visuals, easy to follow and interesting"
+W05,1205,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:34:45.909174600+01:00,Giacomo	Basile,5.0,Thank you for your presentation !
+W05,1206,tobiasfranzjoseph.stampfli@uzh.ch,tobiasfranzjoseph.stampfli@uzh.ch,2026-03-23 14:36:01.481555800+01:00,Steven Thomas	Uvakov,5.0,"Really good slides, passion in presenting"
+W05,1207,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:36:10.199019500+01:00,Steven Thomas	Uvakov,5.0,"Great Canadian kid, I saw that you confused the mic with the slide clicker and tried to talk into the slide cliker, other than that great presentation, really good slide template, clear voice, and I learned alot"
+W05,1208,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:36:11.857747200+01:00,Steven Thomas	Uvakov,5.0,Great visualization of the topic
+W05,1209,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:37:16.554798+01:00,Giacomo	Basile,4.6,-
+W05,1210,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:37:46.932123700+01:00,Steven Thomas	Uvakov,5.0,"lots of info! well researched, good job "
+W05,1211,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:37:55.722180400+01:00,Steven Thomas	Uvakov,5.0,I love the start and how you bring in the topic by challenging our perception of what is good. I didn't know about the end of life cycle of EVs and that only 10% are recycled.
+W05,1212,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:38:12.087135600+01:00,Steven Thomas	Uvakov,5.0,very interesting!!
+W05,1213,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:38:16.882114600+01:00,Steven Thomas	Uvakov,5.0,-
+W05,1214,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:38:44.449481800+01:00,Steven Thomas	Uvakov,5.0,strong and engaging with a logical structure
+W05,1215,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:39:00.292984+01:00,Steven Thomas	Uvakov,4.9,"Confident presentation style, and interesting topic which was well explained, the slides were at times a bit too loaded and difficult to follow "
+W05,1216,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:39:33.896721+01:00,Steven Thomas	Uvakov,4.7,very strong structure and interesting break down of what's behing EV 
+W05,1217,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:39:45.954844300+01:00,Steven Thomas	Uvakov,4.2,"nice presentation! nice graphics on the slides, you could have talked a little more to the audience "
+W05,1218,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:39:58.813972900+01:00,Steven Thomas	Uvakov,4.800000000000001,"very interesting presentation, slides bit hard to follow"
+W05,1219,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:39:59.123017700+01:00,Steven Thomas	Uvakov,4.9,-
+W05,1221,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:39:59.619897600+01:00,Steven Thomas	Uvakov,4.0,"Good structure of the presentation, good presenting style"
+W05,1222,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:40:00.099560800+01:00,Steven Thomas	Uvakov,5.0,good presentation structure 
+W05,1220,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:40:00.210290900+01:00,Steven Thomas	Uvakov,5.0,Very cool visuals
+W05,1223,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:40:00.572014+01:00,Steven Thomas	Uvakov,5.0,You explained the topic very well and it was easy to follow!
+W05,1225,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:40:00.992566100+01:00,Steven Thomas	Uvakov,5.0,Very nice to start und end presentation with a personal thinking question but a lot of filling words used
+W05,1224,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:40:01.113266600+01:00,Steven Thomas	Uvakov,5.0,"good slides, good introduction, good explanations, good illustrations"
+W05,1226,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:40:02.639352300+01:00,Steven Thomas	Uvakov,3.9000000000000004,Speak in the microphone. Some graphs were a bit small. But otherwise nice slides an spoken freely
+W05,1227,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:40:03.189494+01:00,Steven Thomas	Uvakov,5.0,Very good
+W05,1228,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:40:03.545752500+01:00,Steven Thomas	Uvakov,4.9,wow amazing stuff
+W05,1229,benjaminlucasde.gorgey@uzh.ch,benjaminlucasde.gorgey@uzh.ch,2026-03-23 14:40:04.074933300+01:00,Steven Thomas	Uvakov,5.0,Competently presented
+W05,1230,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:40:04.488256900+01:00,Steven Thomas	Uvakov,5.0,very nice presentation
+W05,1231,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:40:05.100983600+01:00,Steven Thomas	Uvakov,4.300000000000001,"Graph/images a bit small, costs and challenges are well presented"
+W05,1232,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:40:05.812690900+01:00,Steven Thomas	Uvakov,4.7,good presentation
+W05,1233,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:40:06.643214300+01:00,Steven Thomas	Uvakov,4.9,"You spoke very authentically and clearly, the text and pictures on the slides were a little bit small so it was hard to read the text, nonetheless I really liked the topic and your presentation!"
+W05,1234,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:40:08.760986700+01:00,Steven Thomas	Uvakov,4.9,Good
+W05,1235,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:40:11.496226300+01:00,Steven Thomas	Uvakov,5.0,"nices slides, good structure, interesting to follow"
+W05,1236,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:40:14.848705300+01:00,Steven Thomas	Uvakov,4.800000000000001,Good presentation !
+W05,1237,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:40:19.971763400+01:00,Steven Thomas	Uvakov,5.0,Excellent presentation!
+W05,1238,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:40:21.350316+01:00,Steven Thomas	Uvakov,4.5,great and efficient
+W05,1239,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:40:29.154159900+01:00,Steven Thomas	Uvakov,4.800000000000001,great pronunciation and very nice presenting style. Appealing slides.
+W05,1240,darioraphael.kurmann@uzh.ch,darioraphael.kurmann@uzh.ch,2026-03-23 14:40:29.468861100+01:00,Tobias Franz Joseph	Stampfli,5.0,-
+W05,1241,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:40:35.347222400+01:00,Steven Thomas	Uvakov,5.0,I think he did a great job presenting and his slides were amazing. 
+W05,1242,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:40:43.953520500+01:00,Giacomo	Basile,5.0,I like your presentation and the example you shared related to collaboration
+W05,1243,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:40:44.521976200+01:00,Steven Thomas	Uvakov,5.0,Very good and easy to follow
+W05,1244,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:40:45.537286100+01:00,Steven Thomas	Uvakov,5.0,Excellent
+W05,1245,steventhomas.uvakov@uzh.ch,steventhomas.uvakov@uzh.ch,2026-03-23 14:41:30.109213+01:00,Tobias Franz Joseph	Stampfli,5.0,well done
+W05,1246,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:41:39.223682300+01:00,Steven Thomas	Uvakov,4.7,"the structure of the presentation was very well thought, clear explanation"
+W05,1247,sophiamadlaina.murr@uzh.ch,sophiamadlaina.murr@uzh.ch,2026-03-23 14:42:12.873240400+01:00,Tobias Franz Joseph	Stampfli,5.0,"Great slides, good real-world example"
+W05,1248,ella.persson@uzh.ch,ella.persson@uzh.ch,2026-03-23 14:42:25.909396+01:00,Tobias Franz Joseph	Stampfli,5.0,very interesting presentation!!
+W05,1249,ellette.sidler-dever@uzh.ch,ellette.sidler-dever@uzh.ch,2026-03-23 14:42:51.924216700+01:00,Tobias Franz Joseph	Stampfli,5.0,Could have been practiced out loud a bit more because it was a bit slow in pace. I liked the real life examples.
+W05,1250,erik.macniel@uzh.ch,erik.macniel@uzh.ch,2026-03-23 14:43:18.862513400+01:00,Tobias Franz Joseph	Stampfli,5.0,I like that you used a Unilever Case! Very applicable.
+W05,1251,riccardoluca.mettler@uzh.ch,riccardoluca.mettler@uzh.ch,2026-03-23 14:44:13.525258600+01:00,Tobias Franz Joseph	Stampfli,4.0,"Great slides and information, however presentation lacked a bit of passion"
+W05,1252,valeriofabian.schumacher@uzh.ch,valeriofabian.schumacher@uzh.ch,2026-03-23 14:44:15.133090800+01:00,Tobias Franz Joseph	Stampfli,5.0,"good slides, good explanations, nice illustrations"
+W05,1253,valentin.python@uzh.ch,valentin.python@uzh.ch,2026-03-23 14:44:15.340351300+01:00,Tobias Franz Joseph	Stampfli,5.0,Very good !
+W05,1254,jacobbenjamin.tissplat@uzh.ch,jacobbenjamin.tissplat@uzh.ch,2026-03-23 14:44:17.223564400+01:00,Tobias Franz Joseph	Stampfli,5.0,I loved the colour of his slides and he did a great job. 
+W05,1255,carlwilliam.lindstroem@uzh.ch,carlwilliam.lindstroem@uzh.ch,2026-03-23 14:44:19.871312300+01:00,Tobias Franz Joseph	Stampfli,5.0,Very good and easy to follow
+W05,1257,jan-akimalbert.reimer@uzh.ch,jan-akimalbert.reimer@uzh.ch,2026-03-23 14:44:20.861729+01:00,Tobias Franz Joseph	Stampfli,4.0,Nice slides
+W05,1256,lara.schlatter@uzh.ch,lara.schlatter@uzh.ch,2026-03-23 14:44:20.883184500+01:00,Tobias Franz Joseph	Stampfli,5.0,Good example with Unilever 
+W05,1258,valentin.naegeli@uzh.ch,valentin.naegeli@uzh.ch,2026-03-23 14:44:22.774693800+01:00,Tobias Franz Joseph	Stampfli,3.9000000000000004,A bit shy coul speak in the microphone more. But good case connection
+W05,1259,giovanni.camerin@uzh.ch,giovanni.camerin@uzh.ch,2026-03-23 14:44:22.919771500+01:00,Tobias Franz Joseph	Stampfli,4.800000000000001,"i would pay attention to the visuals' design, especially using light-tone colors. overall, excellent job"
+W05,1260,alejandro.caicedomurgueitio@uzh.ch,alejandro.caicedomurgueitio@uzh.ch,2026-03-23 14:44:23.236174600+01:00,Tobias Franz Joseph	Stampfli,4.7,.
+W05,1261,antoinethomas.chiriac@uzh.ch,antoinethomas.chiriac@uzh.ch,2026-03-23 14:44:23.664919500+01:00,Tobias Franz Joseph	Stampfli,5.0,Thnak you for your great presentation ! You should have spoke louder. 
+W05,1262,philip.gerber@uzh.ch,philip.gerber@uzh.ch,2026-03-23 14:44:24.499672500+01:00,Tobias Franz Joseph	Stampfli,4.300000000000001,"nice, clear slides"
+W05,1263,simone.martinecz@uzh.ch,simone.martinecz@uzh.ch,2026-03-23 14:44:24.879866200+01:00,Tobias Franz Joseph	Stampfli,4.0,nice presentation. 
+W05,1264,abirami.sivarajah@uzh.ch,abirami.sivarajah@uzh.ch,2026-03-23 14:44:25.402881800+01:00,Tobias Franz Joseph	Stampfli,5.0,nice that you integrated an example
+W05,1265,robin.zobrist2@uzh.ch,robin.zobrist2@uzh.ch,2026-03-23 14:44:25.951017+01:00,Tobias Franz Joseph	Stampfli,4.9,"structure was clear, could speak up a bit more, slides were nice"
+W05,1267,emmadenise.gilljamtall@uzh.ch,emmadenise.gilljamtall@uzh.ch,2026-03-23 14:44:27.185681800+01:00,Tobias Franz Joseph	Stampfli,4.800000000000001,Intresting with Ecovadis!
+W05,1266,ariannaisabel.galli@uzh.ch,ariannaisabel.galli@uzh.ch,2026-03-23 14:44:27.227915+01:00,Tobias Franz Joseph	Stampfli,5.0,"clear and logical structure and practical orientation with KPIs, cross-functional teams and training"
+W05,1268,laura.jurkovic@uzh.ch,laura.jurkovic@uzh.ch,2026-03-23 14:44:29.495088600+01:00,Tobias Franz Joseph	Stampfli,4.0,"You could speak more loudly and less monotonously, however your presentation was really good and I liked your slides!"
+W05,1269,janis.raschle@uzh.ch,janis.raschle@uzh.ch,2026-03-23 14:44:29.997112600+01:00,Tobias Franz Joseph	Stampfli,3.4000000000000004,-
+W05,1270,sophiejennifer.sharp@uzh.ch,sophiejennifer.sharp@uzh.ch,2026-03-23 14:44:31.628118+01:00,Tobias Franz Joseph	Stampfli,5.0,Good job!!
+W05,1271,stefanie.ruede@uzh.ch,stefanie.ruede@uzh.ch,2026-03-23 14:44:33.478122+01:00,Tobias Franz Joseph	Stampfli,5.0,well organized slides 
+W05,1272,thalianastassja.deangelis@uzh.ch,thalianastassja.deangelis@uzh.ch,2026-03-23 14:44:36.118356700+01:00,Tobias Franz Joseph	Stampfli,4.2,"Few slides the color choice was too bright, but really easy to follow and understand "
+W05,1273,philipalexander.schnider@uzh.ch,philipalexander.schnider@uzh.ch,2026-03-23 14:44:37.955239900+01:00,Tobias Franz Joseph	Stampfli,4.0,great visuals 
+W05,1274,thibaut.noel@uzh.ch,thibaut.noel@uzh.ch,2026-03-23 14:44:39.374070100+01:00,Tobias Franz Joseph	Stampfli,3.9000000000000004,Interesting topic and case 
+W05,1275,pascal.suter3@uzh.ch,pascal.suter3@uzh.ch,2026-03-23 14:44:40.476913900+01:00,Tobias Franz Joseph	Stampfli,3.9000000000000004,good presentation
+W05,1276,carlaandrea.welter@uzh.ch,carlaandrea.welter@uzh.ch,2026-03-23 14:44:43.252556800+01:00,Tobias Franz Joseph	Stampfli,4.9,"Very nice looking presentation, spoke a bit too quiet, very nice to bring up a case from a real example"
+W05,1277,mathilda.blaser@uzh.ch,mathilda.blaser@uzh.ch,2026-03-23 14:44:45.954098500+01:00,Tobias Franz Joseph	Stampfli,4.300000000000001,Simple and effective
+W05,1278,arda.aydin@uzh.ch,arda.aydin@uzh.ch,2026-03-23 14:44:58.103474400+01:00,Tobias Franz Joseph	Stampfli,3.2, 
+W05,1279,achille.desbrieres@uzh.ch,achille.desbrieres@uzh.ch,2026-03-23 14:45:00.463845700+01:00,Tobias Franz Joseph	Stampfli,4.300000000000001,Great presentation!
+W05,1280,massimiliano.nascioli@uzh.ch,massimiliano.nascioli@uzh.ch,2026-03-23 14:46:31.875382800+01:00,Tobias Franz Joseph	Stampfli,4.6,"very good content, maybe choose softer colors for the visuals"
+W05,1281,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:49:53.600786900+01:00,Steven Thomas	Uvakov,5.0,Good
+W05,1282,elisa.repele@uzh.ch,elisa.repele@uzh.ch,2026-03-23 14:50:53.980600900+01:00,Tobias Franz Joseph	Stampfli,5.0,Good ! 
+W05,1283,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:41:13.680032900+01:00,Steven Thomas	Uvakov,4.9,Great presentation
+W05,1284,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:41:47.178077800+01:00,Tobias Franz Joseph	Stampfli,5.0,"very interesting topic, well explained "
+W05,1285,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:42:18.705122+01:00,Giacomo	Basile,5.0,very well explained
+W05,1286,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:42:51.360215200+01:00,Ella	Persson,4.9,good presentation
+W05,1287,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:43:22.593541500+01:00,Carl William Lindström,5.0,interesting topic
+W05,1288,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:43:58.356447600+01:00,Achille	Desbrières,5.0,"very well explained, very good slides"
+W05,1289,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:44:27.944081900+01:00,Elisa	Repele,5.0,great presentation
+W05,1290,lauraesperancerose.martinez@uzh.ch,lauraesperancerose.martinez@uzh.ch,2026-03-24 10:45:06.856087200+01:00,Alejandro	Caicedo Murgueitio,5.0,very well explained 
+W05,1291,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:12:15.286351200+01:00,Achille	Desbrières,4.300000000000001,Very technical but very well explained.
+W05,1292,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:19:00.283333900+01:00,Ella	Persson,4.9,I liked the way you answered the OLAT questions. Well done!
+W05,1293,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:20:12.895674+01:00,Elisa	Repele,4.7,"The presentation was logically organized, making it easy to follow the main ideas and understand the key points."
+W05,1294,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:21:54.000622500+01:00,Steven Thomas	Uvakov,4.9,"The presenter spoke clearly and confidently, demonstrating a solid understanding of the subject matter."
+W05,1295,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:23:49.529703800+01:00,Carl William Lindström,4.800000000000001,The main ideas were explained in a simple and effective way.
+W05,1296,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:25:04.605061700+01:00,Alejandro	Caicedo Murgueitio,4.2,The presentation was interesting and relevant. Maybe just the timing was not perfect.
+W05,1297,giacomo.basile2@uzh.ch,giacomo.basile2@uzh.ch,2026-03-24 14:30:41.059489800+01:00,Tobias Franz Joseph	Stampfli,4.300000000000001,"Overall, it was a good presentation with room for improvement."
+W05,1298,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:05:29.411786700+01:00,Achille	Desbrières,5.0,Great actual subject about AI! Thank you
+W05,1299,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:07:44.332882+01:00,Alejandro	Caicedo Murgueitio,5.0,Great use of actual exemples ! Thank you 
+W05,1300,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:10:30.113534400+01:00,Carl William Lindström,5.0,"Loved the current subject of trade war, thank you for your presentation!"
+W05,1301,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:11:52.970942300+01:00,Elisa	Repele,5.0,"There was a lot of text on the slides, but besides that great presentation !"
+W05,1302,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:12:23.790694300+01:00,Ella	Persson,5.0,"Good job ! Great presentation, really interesting !"
+W05,1303,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:13:27.151630400+01:00,Giacomo	Basile,5.0,Beautiful slides ! Thank you for your presentation
+W05,1304,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:14:14.551677600+01:00,Steven Thomas	Uvakov,5.0,"Great energy ! Loved the presentation, thank you"
+W05,1305,miguel.patarroyo@uzh.ch,miguel.patarroyo@uzh.ch,2026-03-26 18:15:20.383023200+01:00,Tobias Franz Joseph	Stampfli,5.0,"Great presentation, nice slides and perfect delivery, thank you !"
+W05,1306,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:02:03.773741200+01:00,Achille	Desbrières,5.0,.
+W05,1307,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:02:48.499583600+01:00,Alejandro	Caicedo Murgueitio,5.0,.
+W05,1308,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:03:34.731126600+01:00,Carl William Lindström,5.0,.
+W05,1309,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:04:44.592117300+01:00,Elisa	Repele,5.0,.
+W05,1310,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:05:26.877368300+01:00,Ella	Persson,5.0,.
+W05,1311,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:06:23.102613100+01:00,Giacomo	Basile,5.0,.
+W05,1312,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:07:08.844902800+01:00,Steven Thomas	Uvakov,5.0,.
+W05,1313,davide.pinna@uzh.ch,davide.pinna@uzh.ch,2026-03-27 21:07:47.026710100+01:00,Tobias Franz Joseph	Stampfli,5.0,.
